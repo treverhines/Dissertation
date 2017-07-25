@@ -1,0 +1,165 @@
+% This is an AMS-LaTeX v. 1.2 File.
+\documentclass[leqno]{report}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\usepackage{amsthm}
+%\usepackage{amsfonts}
+\usepackage{amsxtra}     % Use various AMS packages
+\usepackage{rac}                        % Use Rackham thesis macros
+\usepackage{dbl12}
+%\usepackage{srcltx}
+\usepackage{epsfig}
+\usepackage{verbatim}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Redefine margins and other page formatting
+
+\setlength{\oddsidemargin}{0.5in}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Various theorem environments. All of the following have the same numbering
+% system as theorem.
+
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{question}[theorem]{Question}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{assumption}[theorem]{Assumption}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{introduction}[theorem]{Introduction}
+
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+\include{header}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\numberwithin{theorem}{chapter}        % Numbers theorems "x.y" where x
+                                        % is the section number, y is the
+                                        % theorem number
+
+%\renewcommand{\thetheorem}{\arabic{chapter}.\arabic{theorem}}
+
+%\makeatletter                          % This sequence of commands will
+%\let\c@equation\c@theorem              % incorporate equation numbering
+%\makeatother                           % into the theorem numbering scheme
+
+%\renewcommand{\theenumi}{(\roman{enumi})}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\bibliographystyle{plain}       % Set the bibliography style to AMS
+                                % alphabetized. (Can use ``amsalpha'' or
+                                % ``abbrv''instead.)
+
+% Title page as required by Rackham dissertation guidelines
+\titlepage{Transient ground deformation in tectonically active regions and implications for the mechanical behavior of the crust and upper mantle}{Trever T. Hines}{Doctor of Philosophy}
+{Earth and Environmental Sciences} {2017}
+{ Professor Eric Hetland \\
+  Professor Jeroen Ritsema \\
+  Professor Nathan Niemi \\
+  Professor Jeremy Basis \\
+  Professor John Boyd}
+
+
+% Begin the front matter as required by Rackham dissertation guidelines
+
+\initializefrontsections
+
+%\unnumberedpage \copyrightpage{John Doe}
+% Copyright page
+
+\setcounter{page}{1}
+
+%\dedicationpage{Put a dedication here}
+% Dedication page
+
+%\startacknowledgementspage
+% Acknowledgements page
+
+%{Put Acknowledgements here}
+
+
+% Table of contents, list of figures, etc.
+\tableofcontents
+\listoffigures
+
+\startthechapters 
+% The individual files for each of the chapters are put here.
+% Save each chapter of your thesis to a seperate tex file
+% and then use the \input command to include this file in your
+% thesis.  For instance you can save a file to "intro.tex" and 
+% then type \input{intro}". 
+
+
+
+\chapter{Introduction}
+\label{intro} 
+\input{intro}
+\chapter{Labels and Figures}
+\label{chap2}
+\input{chap2}
+%\chapter{Another Chapter Title}
+%\label{chap3}
+%\input{chap3}
+%\chapter{Yet Another Chapter Title}
+%\label{chap4}
+%\input{chap4}
+
+
+%\startappendices
+%\label{appendix}
+%\input{appendix}
+
+%\bibliography{biblio}   % Use the BibTeX file ``biblio.bib''.
+
+%Abstract Page
+
+\startabstractpage
+{Title of Dissertation} {John Doe} {Chair: Plato}
+
+Put Abstract Here
+
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

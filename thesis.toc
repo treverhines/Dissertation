@@ -1,0 +1,10 @@
+\contentsline {chapter}{LIST OF FIGURES}{iii}
+\mbox { }\newline \noindent {\bf CHAPTER}\newline 
+\hbox { }
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf I.\hspace {5pt}}{\bf Introduction}}{1}
+\hbox { }
+\contentsline {section}{\numberline {1.1}Sample Section}{1}
+\hbox { }
+\contentsline {chap}{\numberline {\hbox { }\hfill \bf II.\hspace {5pt}}{\bf Labels and Figures}}{2}
+\hbox { }
