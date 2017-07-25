@@ -1,16 +1,62 @@
-\documentclass[leqno,12pt]{report}
+\documentclass[letterpaper,12pt,oneside]{book}
 \usepackage{geometry}
 \usepackage{amsmath}
 \usepackage{amsfonts}
 \usepackage{amssymb}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
 
+
+%% CUTOMIZE CHAPTER TITLES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat
+{\chapter} % command
+[display] % shape
+{\bfseries\large} % format
+{\centerline{CHAPTER \thechapter}} % label
+{0.0in} % sep
+{\centering} % before-code
+[]
+ 
+%% CUTOMIZE SECTION TITLES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat
+{\section}
+[block] % Block puts the section number and name on the same line 
+{\bfseries\large}
+{\centering{\thesection}}
+{0.1in}
+{\centering}
+[]
+
+% SET MARGINS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \geometry{top=1in,bottom=1in,left=1in,right=1in}
 
-\begin{document}
+% SET HEADER AND FOOTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{}
+\lhead{}
+\cfoot{\thepage}
+\renewcommand{\headrulewidth}{0pt} % no horizontal line
 
-%%% TITLE PAGE
-\begin{titlepage}
+% SET LABLE AND STYLE FOR TOC, LIST OF FIGURES, AND LIST OF TABLES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand*\contentsname{\centerline{\large{\textbf{TABLE OF CONTENTS}}}}
+\renewcommand*\listfigurename{\centerline{\large{\textbf{LIST OF FIGURES}}}}
+\renewcommand*\listtablename{\centerline{\large{\textbf{LIST OF TABLES}}}}
+
+\begin{document}
+%% FRONT MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frontmatter % sets roman numeral page numbering
+
+%% TITLE PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{center}
+\thispagestyle{empty} % removes page numbering
 \vspace*{1.0in}
 \textbf{\large{Transient ground deformation in tectonically active regions and implications for the mechanical behavior of the crust and upper mantle}}
 
@@ -51,5 +97,43 @@ Associate Professor Nathan Niemi
 
 \hspace*{0.2in}
 Professor John Boyd
-\end{titlepage}
+
+\newpage
+
+%% ACKNOWLEDGEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace*{1.0in}
+\centerline{\large{\textbf{ACKNOWLEDGEMENTS}}}
+
+fuck your face
+\newpage
+
+%% TABLE OF CONTENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents
+\listoffigures
+\listoftables
+
+%% MAIN MATTER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\mainmatter
+
+\chapter{Balls and tits}
+
+\section{fuck face}
+I am a doctoral student in geophysics at the University of Michigan. I anticipate defending my dissertation on August 16, 2017. My dissertation is on detecting tectonic ground deformation, with high precision geodetic instruments, and then using this deformation to better understand the mechanical behavior of the Earth. Throughout my research, I have become adept at geophysical inverse problems, numerical modeling, and data analysis. I elaborate on my experience in these fields below.
+
+My first three publications were pertaining to geophysical inverse problems. In these papers I explored how the mechanical behavior of the Earth's crust can be inferred from ground deformation during earthquakes and between earthquakes. I developed a novel technique to identify the physical mechanisms causing ground deformation that can often be observed in the years following large earthquakes. This deformation can be attributed to slow fault slip or to crustal rocks that are deforming viscously to relax stresses accumulated from the earthquake. It can be difficult to distinguish between these mechanisms purely based on ground deformation, and the inverse problem is made more difficult by the sparse and noisy nature of geodetic data. For this reason, I recognize the necessity of thoroughly quantifying the uncertainties on estimated geophysical parameters. I generally approach inverse problems from a Bayesian perspective, which naturally results in a probabilistic solution, and I have become experienced with techniques such as Kalman filtering and Markov Chain Monte Carlo methods.
+
+
+\section{fuck faces}
+fosadf asdf asdf  asdf asdf asdf asdf asdf asfd asfd asfd asdf asdf asdf asdf asdf asdf asdfasdf df asdf asdf asdf asdfa sdfasdf asdf asd fasd f
+
+bar
+go fuck yourself
+asdf
+\newpage
+asdf 
+asdf
+asdf
 \end{document}
