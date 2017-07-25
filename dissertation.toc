@@ -1,3 +1,3 @@
 \contentsline {chapter}{\numberline {1}Balls and tits}{1}
 \contentsline {section}{\numberline {1.1}fuck face}{1}
-\contentsline {section}{\numberline {1.2}fuck faces}{1}
+\contentsline {subsection}{\numberline {1.1.1}fuck faces}{1}

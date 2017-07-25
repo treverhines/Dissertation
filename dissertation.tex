@@ -6,17 +6,15 @@
 \usepackage{fancyhdr}
 \usepackage{titlesec}
 
-
 %% CUTOMIZE CHAPTER TITLES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \titleformat
 {\chapter} % command
 [display] % shape
-{\bfseries\large} % format
-{\centerline{CHAPTER \thechapter}} % label
-{0.0in} % sep
-{\centering} % before-code
-[]
+{\centering\bfseries\large} % format
+{CHAPTER \thechapter} % label
+{0.2in} % sep
+{} % before-code
  
 %% CUTOMIZE SECTION TITLES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -24,10 +22,19 @@
 {\section}
 [block] % Block puts the section number and name on the same line 
 {\bfseries\large}
-{\centering{\thesection}}
+{\thesection}
 {0.1in}
-{\centering}
-[]
+{}
+
+%% CUTOMIZE SUBSECTION TITLES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\titleformat
+{\subsection}
+[block] % Block puts the section number and name on the same line 
+{\bfseries\normalsize}
+{\thesubsection}
+{0.1in}
+{}
 
 % SET MARGINS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,10 +109,10 @@ Professor John Boyd
 
 %% ACKNOWLEDGEMENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\vspace*{1.0in}
-\centerline{\large{\textbf{ACKNOWLEDGEMENTS}}}
+\chapter*{ACKNOWLEDGEMENTS} 
 
 fuck your face
+
 \newpage
 
 %% TABLE OF CONTENTS
@@ -114,10 +121,16 @@ fuck your face
 \listoffigures
 \listoftables
 
+%% ABSTRACT
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter*{ABSTRACT} 
+
 %% MAIN MATTER
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mainmatter
 
+%% CHAPTER 1
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \chapter{Balls and tits}
 
 \section{fuck face}
@@ -126,7 +139,7 @@ I am a doctoral student in geophysics at the University of Michigan. I anticipat
 My first three publications were pertaining to geophysical inverse problems. In these papers I explored how the mechanical behavior of the Earth's crust can be inferred from ground deformation during earthquakes and between earthquakes. I developed a novel technique to identify the physical mechanisms causing ground deformation that can often be observed in the years following large earthquakes. This deformation can be attributed to slow fault slip or to crustal rocks that are deforming viscously to relax stresses accumulated from the earthquake. It can be difficult to distinguish between these mechanisms purely based on ground deformation, and the inverse problem is made more difficult by the sparse and noisy nature of geodetic data. For this reason, I recognize the necessity of thoroughly quantifying the uncertainties on estimated geophysical parameters. I generally approach inverse problems from a Bayesian perspective, which naturally results in a probabilistic solution, and I have become experienced with techniques such as Kalman filtering and Markov Chain Monte Carlo methods.
 
 
-\section{fuck faces}
+\subsection{fuck faces}
 fosadf asdf asdf  asdf asdf asdf asdf asdf asfd asfd asfd asdf asdf asdf asdf asdf asdf asdfasdf df asdf asdf asdf asdfa sdfasdf asdf asd fasd f
 
 bar
