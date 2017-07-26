@@ -11,23 +11,23 @@
 \contentsline {section}{\numberline {4.2}Introduction}{5}
 \contentsline {section}{\numberline {4.3}Maximum likelihood methods}{6}
 \contentsline {section}{\numberline {4.4}Synthetic demonstration}{8}
-\contentsline {section}{\numberline {4.5}Discussion and conclusion}{10}
-\contentsline {section}{\numberline {4.6}acknowledgements}{10}
-\contentsline {section}{\numberline {4.7}References}{11}
+\contentsline {section}{\numberline {4.5}Discussion and conclusion}{11}
+\contentsline {section}{\numberline {4.6}acknowledgements}{11}
+\contentsline {section}{\numberline {4.7}References}{12}
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{13}
+\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{15}
 \gdef \the@ipfilectr {@-2}
-\contentsline {section}{\numberline {5.1}Summary}{14}
-\contentsline {section}{\numberline {5.2}Introduction}{14}
-\contentsline {section}{\numberline {5.3}Estimating Transient Strain Rates}{16}
-\contentsline {section}{\numberline {5.4}Outlier detection}{19}
-\contentsline {section}{\numberline {5.5}Application to Cascadia Slow Slip Events}{19}
-\contentsline {subsection}{\numberline {5.5.1}Noise model}{20}
-\contentsline {subsection}{\numberline {5.5.2}Prior model}{22}
-\contentsline {subsection}{\numberline {5.5.3}Transient Strain Rates}{28}
-\contentsline {section}{\numberline {5.6}Discussion}{29}
-\contentsline {section}{\numberline {5.7}Conclusion}{34}
-\contentsline {section}{\numberline {5.8}Acknowledgements}{34}
-\contentsline {section}{\numberline {5.9}References}{34}
+\contentsline {section}{\numberline {5.1}Summary}{16}
+\contentsline {section}{\numberline {5.2}Introduction}{16}
+\contentsline {section}{\numberline {5.3}Estimating Transient Strain Rates}{18}
+\contentsline {section}{\numberline {5.4}Outlier detection}{22}
+\contentsline {section}{\numberline {5.5}Application to Cascadia Slow Slip Events}{23}
+\contentsline {subsection}{\numberline {5.5.1}Noise model}{23}
+\contentsline {subsection}{\numberline {5.5.2}Prior model}{26}
+\contentsline {subsection}{\numberline {5.5.3}Transient Strain Rates}{32}
+\contentsline {section}{\numberline {5.6}Discussion}{37}
+\contentsline {section}{\numberline {5.7}Conclusion}{38}
+\contentsline {section}{\numberline {5.8}Acknowledgements}{39}
+\contentsline {section}{\numberline {5.9}References}{39}
 \gdef \the@ipfilectr {}
 \contentsfinish 

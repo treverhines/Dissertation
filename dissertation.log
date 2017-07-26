@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  25 JUL 2017 21:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  25 JUL 2017 22:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -230,7 +230,10 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip61
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2016/03/15
 )
 (./dissertation.aux (./ch4/ch4.aux) (./ch5/ch5.aux
@@ -240,18 +243,18 @@ LaTeX Warning: Label `sec:Introduction' multiply defined.
 ))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
-LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -407,26 +410,26 @@ Chapter 4.
  (./ch4/ch4.tex [5
 
 
-] [6] [7] <ch4/figure_1.pdf, id=66, 469.755pt x 361.35pt>
+] [6] [7] [8]
+<ch4/figure_1.pdf, id=69, 469.755pt x 361.35pt>
 File: ch4/figure_1.pdf Graphic file (type pdf)
-
-<use ch4/figure_1.pdf>
+ <use ch4/figure_1.pdf>
 Package pdftex.def Info: ch4/figure_1.pdf used on input line 88.
 (pdftex.def)             Requested size: 469.75386pt x 361.34912pt.
- [8] [9 <./ch4/figure_1.pdf>] (./ch4/ch4.bbl [10]
-[11])) [12]
+ [9]
+[10 <./ch4/figure_1.pdf>] [11] (./ch4/ch4.bbl [12] [13])) [14]
 Chapter 5.
-[13
+[15
 
 
 ]
 \openout2 = `ch5/ch5.aux'.
 
- (./ch5/ch5.tex [14
+ (./ch5/ch5.tex [16
 
 
-] [15] [16] [17] [18] [19]
-<ch5/figures/context_map/context-map.pdf, id=155, 505.89pt x 397.485pt>
+] [17] [18] [19] [20] [21] [22]
+<ch5/figures/context_map/context-map.pdf, id=165, 505.89pt x 397.485pt>
 File: ch5/figures/context_map/context-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/context_map/context-map.pdf>
@@ -438,8 +441,8 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 178--179
 [][] 
  []
 
-[20] [21 <./ch5/figures/context_map/context-map.pdf>]
-<ch5/figures/noise/noise-params.pdf, id=203, 505.89pt x 397.485pt>
+[23] [24 <./ch5/figures/context_map/context-map.pdf>] [25]
+<ch5/figures/noise/noise-params.pdf, id=216, 505.89pt x 397.485pt>
 File: ch5/figures/noise/noise-params.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-params.pdf>
@@ -451,7 +454,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 211--212
 [][] 
  []
 
-<ch5/figures/noise/noise-samples.pdf, id=204, 505.89pt x 289.08pt>
+<ch5/figures/noise/noise-samples.pdf, id=217, 505.89pt x 289.08pt>
 File: ch5/figures/noise/noise-samples.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-samples.pdf>
@@ -463,9 +466,9 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 217--218
 [][] 
  []
 
-[22] [23 <./ch5/figures/noise/noise-params.pdf>] [24 <./ch5/figures/noise/noise
--samples.pdf>] [25]
-<ch5/figures/outliers/outliers.pdf, id=292, 505.89pt x 216.81pt>
+[26] [27 <./ch5/figures/noise/noise-params.pdf>] [28 <./ch5/figures/noise/noise
+-samples.pdf>] [29]
+<ch5/figures/outliers/outliers.pdf, id=306, 505.89pt x 216.81pt>
 File: ch5/figures/outliers/outliers.pdf Graphic file (type pdf)
 
 <use ch5/figures/outliers/outliers.pdf>
@@ -482,8 +485,8 @@ Overfull \hbox (44.67795pt too wide) in paragraph at lines 263--272
 [][] 
  []
 
-[26] [27 <./ch5/figures/outliers/outliers.pdf>]
-<ch5/figures/signal_fit/signal-fit.pdf, id=342, 505.89pt x 216.81pt>
+[30] [31 <./ch5/figures/outliers/outliers.pdf>]
+<ch5/figures/signal_fit/signal-fit.pdf, id=355, 505.89pt x 216.81pt>
 File: ch5/figures/signal_fit/signal-fit.pdf Graphic file (type pdf)
 
 <use ch5/figures/signal_fit/signal-fit.pdf>
@@ -495,16 +498,16 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 308--309
 [][] 
  []
 
-[28 <./ch5/figures/signal_fit/signal-fit.pdf>]
-<ch5/figures/strain_map/strain-map.pdf, id=394, 433.62pt x 433.62pt>
+[32] <ch5/figures/strain_map/strain-map.pdf, id=359, 433.62pt x 433.62pt>
 File: ch5/figures/strain_map/strain-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_map/strain-map.pdf>
 Package pdftex.def Info: ch5/figures/strain_map/strain-map.pdf used on input li
 ne 319.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
-
-<ch5/figures/strain_ts/strain-ts.pdf, id=395, 505.89pt x 361.35pt>
+ [33 <./ch5/figures/signal_fit/signal-fit.pdf>] [34 <./ch5/figures/strain_map/s
+train-map.pdf>]
+<ch5/figures/strain_ts/strain-ts.pdf, id=449, 505.89pt x 361.35pt>
 File: ch5/figures/strain_ts/strain-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/strain-ts.pdf>
@@ -516,7 +519,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 327--328
 [][] 
  []
 
-<ch5/figures/strain_ts/mag-ts.pdf, id=396, 505.89pt x 289.08pt>
+<ch5/figures/strain_ts/mag-ts.pdf, id=450, 505.89pt x 289.08pt>
 File: ch5/figures/strain_ts/mag-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/mag-ts.pdf>
@@ -528,26 +531,25 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 333--334
 [][] 
  []
 
-[29] [30 <./ch5/figures/strain_map/strain-map.pdf>] [31 <./ch5/figures/strain_t
-s/strain-ts.pdf>] [32 <./ch5/figures/strain_ts/mag-ts.pdf>] [33] (./ch5/ch5.bbl
-[34] [35]
+[35 <./ch5/figures/strain_ts/strain-ts.pdf>] [36 <./ch5/figures/strain_ts/mag-t
+s.pdf>] [37] [38] (./ch5/ch5.bbl [39] [40]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [36] [37] [38])) [39] (./dissertation.aux (./ch4/ch4.aux)
-(./ch5/ch5.aux))
+ [41] [42] [43])) [44]
+(./dissertation.aux (./ch4/ch4.aux) (./ch5/ch5.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5102 strings out of 494910
- 69703 string characters out of 6179836
- 146809 words of memory out of 5000000
- 8268 multiletter control sequences out of 15000+600000
+ 5136 strings out of 494910
+ 70301 string characters out of 6179836
+ 147119 words of memory out of 5000000
+ 8298 multiletter control sequences out of 15000+600000
  10770 words of font info for 40 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 37i,17n,43p,2415b,485s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,17n,43p,2415b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
@@ -561,10 +563,10 @@ m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (48 pages, 2388967 bytes).
+Output written on dissertation.pdf (53 pages, 2392375 bytes).
 PDF statistics:
- 589 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
+ 605 PDF objects out of 1000 (max. 8388607)
+ 218 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
