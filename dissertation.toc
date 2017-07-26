@@ -1,3 +1,29 @@
-\contentsline {chapter}{\numberline {1}Balls and tits}{1}
-\contentsline {section}{\numberline {1.1}fuck face}{1}
-\contentsline {subsection}{\numberline {1.1.1}fuck faces}{1}
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
+\contentsline {chapter}{LIST OF FIGURES}{vii}
+\contentsline {chapter}{LIST OF TABLES}{viii}
+\contentsline {chapter}{ABSTRACT}{ix}
+\contentsline {chapter}{\numberline {1}Bias in estimates of lithosphere viscosity from interseismic deformation}{1}
+\contentsline {chapter}{\numberline {2}Rapid and simultaneous estimation of fault slip and heterogeneous lithospheric viscosity from postseismic deformation}{2}
+\contentsline {chapter}{\numberline {3}Rheologic constrains on the upper mantle from 5 years of postseismic deformation following the El Mayor-Cucapah earthquake}{3}
+\contentsline {chapter}{\numberline {4}Unbiased characterization of noise in geodetic data}{4}
+\contentsline {section}{\numberline {4.1}abstract}{4}
+\contentsline {section}{\numberline {4.2}Introduction}{4}
+\contentsline {section}{\numberline {4.3}Maximum likelihood methods}{5}
+\contentsline {section}{\numberline {4.4}Synthetic demonstration}{7}
+\contentsline {section}{\numberline {4.5}Discussion and conclusion}{9}
+\contentsline {section}{\numberline {4.6}acknowledgements}{10}
+\contentsline {section}{\numberline {4.7}References}{10}
+\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{16}
+\contentsline {section}{\numberline {5.1}Summary}{16}
+\contentsline {section}{\numberline {5.2}Introduction}{16}
+\contentsline {section}{\numberline {5.3}Estimating Transient Strain Rates}{18}
+\contentsline {section}{\numberline {5.4}Outlier detection}{21}
+\contentsline {section}{\numberline {5.5}Application to Cascadia Slow Slip Events}{22}
+\contentsline {subsection}{\numberline {5.5.1}Noise model}{22}
+\contentsline {subsection}{\numberline {5.5.2}Prior model}{27}
+\contentsline {subsection}{\numberline {5.5.3}Transient Strain Rates}{30}
+\contentsline {section}{\numberline {5.6}Discussion}{31}
+\contentsline {section}{\numberline {5.7}Conclusion}{36}
+\contentsline {section}{\numberline {5.8}Acknowledgements}{36}
+\contentsline {section}{\numberline {5.9}References}{37}
+\contentsfinish 

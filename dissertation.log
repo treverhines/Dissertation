@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  25 JUL 2017 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  25 JUL 2017 21:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -146,24 +146,279 @@ Package: titlesec 2016/03/15 v2.10.1 Sectioning titles
 \titlewidthlast=\dimen123
 \titlewidthfirst=\dimen124
 )
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen125
+)
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip57
+\bibsep=\skip58
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count104
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count106
+\float@exts=\toks22
+\float@box=\box29
+\@float@everytoks=\toks23
+\@floatcapt=\box30
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks24
+\c@algorithm=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/share/texlive/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count108
+\c@ALG@rem=\count109
+\c@ALG@nested=\count110
+\ALG@tlm=\skip59
+\ALG@thistlm=\skip60
+\c@ALG@Lnr=\count111
+\c@ALG@blocknr=\count112
+\c@ALG@storecount=\count113
+\c@ALG@tmpcounter=\count114
+\ALG@tmplength=\skip61
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2016/03/15
 )
-(./dissertation.aux)
+(./dissertation.aux
+
+LaTeX Warning: Label `sec:Introduction' multiply defined.
+
+
+Package natbib Warning: Citation `Agnew1992' multiply defined.
+
+
+Package natbib Warning: Citation `Amiri-Simkooei2007' multiply defined.
+
+
+Package natbib Warning: Citation `Beavan2001' multiply defined.
+
+
+Package natbib Warning: Citation `Cressie1992' multiply defined.
+
+
+Package natbib Warning: Citation `Dmitrieva2015' multiply defined.
+
+
+Package natbib Warning: Citation `Dong2002' multiply defined.
+
+
+Package natbib Warning: Citation `Dong2006' multiply defined.
+
+
+Package natbib Warning: Citation `Dragert2001' multiply defined.
+
+
+Package natbib Warning: Citation `El-Fiky1999' multiply defined.
+
+
+Package natbib Warning: Citation `Feigl1990' multiply defined.
+
+
+Package natbib Warning: Citation `Field2014' multiply defined.
+
+
+Package natbib Warning: Citation `Freed2001' multiply defined.
+
+
+Package natbib Warning: Citation `Gibbs2011' multiply defined.
+
+
+Package natbib Warning: Citation `Gladwin1987' multiply defined.
+
+
+Package natbib Warning: Citation `Harville1974' multiply defined.
+
+
+Package natbib Warning: Citation `Herring2016' multiply defined.
+
+
+Package natbib Warning: Citation `Hill2009' multiply defined.
+
+
+Package natbib Warning: Citation `Hines2016a' multiply defined.
+
+
+Package natbib Warning: Citation `Holt2013' multiply defined.
+
+
+Package natbib Warning: Citation `Kato1998' multiply defined.
+
+
+Package natbib Warning: Citation `King2009' multiply defined.
+
+
+Package natbib Warning: Citation `Langbein2004' multiply defined.
+
+
+Package natbib Warning: Citation `Langbein2008' multiply defined.
+
+
+Package natbib Warning: Citation `Langbein2012' multiply defined.
+
+
+Package natbib Warning: Citation `Langbein1997' multiply defined.
+
+
+Package natbib Warning: Citation `Lisowski2008' multiply defined.
+
+
+Package natbib Warning: Citation `Lohman2013' multiply defined.
+
+
+Package natbib Warning: Citation `Mackay1998' multiply defined.
+
+
+Package natbib Warning: Citation `Mao1999' multiply defined.
+
+
+Package natbib Warning: Citation `McCaffrey2007' multiply defined.
+
+
+Package natbib Warning: Citation `McCaffrey2013' multiply defined.
+
+
+Package natbib Warning: Citation `McGuire2003' multiply defined.
+
+
+Package natbib Warning: Citation `Meade2005' multiply defined.
+
+
+Package natbib Warning: Citation `Miyazaki2003' multiply defined.
+
+
+Package natbib Warning: Citation `Murray2017' multiply defined.
+
+
+Package natbib Warning: Citation `Murray2000' multiply defined.
+
+
+Package natbib Warning: Citation `Ohtani2010' multiply defined.
+
+
+Package natbib Warning: Citation `Okada1992' multiply defined.
+
+
+Package natbib Warning: Citation `Papoulis1991' multiply defined.
+
+
+Package natbib Warning: Citation `Patterson1971' multiply defined.
+
+
+Package natbib Warning: Citation `Press2007' multiply defined.
+
+
+Package natbib Warning: Citation `Rasmussen2006' multiply defined.
+
+
+Package natbib Warning: Citation `Roeloffs2006' multiply defined.
+
+
+Package natbib Warning: Citation `Rogers2003' multiply defined.
+
+
+Package natbib Warning: Citation `Sandwell2016' multiply defined.
+
+
+Package natbib Warning: Citation `Schmidt2010' multiply defined.
+
+
+Package natbib Warning: Citation `Segall1997' multiply defined.
+
+
+Package natbib Warning: Citation `Shen2015' multiply defined.
+
+
+Package natbib Warning: Citation `Shen1996' multiply defined.
+
+
+Package natbib Warning: Citation `Tape2009' multiply defined.
+
+
+Package natbib Warning: Citation `Wdowinski1997' multiply defined.
+
+
+Package natbib Warning: Citation `Wech2009' multiply defined.
+
+
+Package natbib Warning: Citation `Wendland2005' multiply defined.
+
+
+Package natbib Warning: Citation `Williams2004' multiply defined.
+
+
+Package natbib Warning: Citation `Wyatt1982' multiply defined.
+
+
+Package natbib Warning: Citation `Wyatt1989' multiply defined.
+
+
+Package natbib Warning: Citation `Zhang1997' multiply defined.
+
+)
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -199,63 +454,345 @@ LaTeX Font Info:    ... okay on input line 58.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count115
+\scratchdimen=\dimen128
+\scratchbox=\box31
+\nofMPsegments=\count116
+\nofMParguments=\count117
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count118
+\MPscratchDim=\dimen129
+\MPnumerator=\count119
+\makeMPintoPDFobject=\count120
+\everyMPtoPDFconversion=\toks26
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3
 
-] (./dissertation.toc
-LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+]
+(./dissertation.toc
+Overfull \hbox (0.16266pt too wide) detected at line 3
+ \OT1/cmr/bx/n/12 viii
+ []
 
+LaTeX Font Info:    Try loading font information for U+msa on input line 9.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+LaTeX Font Info:    Try loading font information for U+msb on input line 9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [4
+
+])
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [3
+ [5]
+(./dissertation.lof
 
-]
-(./dissertation.lof)
+Package natbib Warning: Citation `Wech2010' on page vi undefined on input line 
+7.
+
+[6
+
+])
 \tf@lof=\write4
 \openout4 = `dissertation.lof'.
 
- [4
-
-] (./dissertation.lot)
+ [7] (./dissertation.lot)
 \tf@lot=\write5
 \openout5 = `dissertation.lot'.
 
- [5
+ [8
 
-] [6
+] [9
 
 ]
 Chapter 1.
 [1
 
 
-] [2] (./dissertation.aux) ) 
+]
+Chapter 2.
+[2
+
+]
+Chapter 3.
+[3
+
+]
+Chapter 4.
+(./ch4/ch4.tex [4
+
+] [5] [6] <ch4/figure_1.pdf, id=63, 469.755pt x 361.35pt>
+File: ch4/figure_1.pdf Graphic file (type pdf)
+
+<use ch4/figure_1.pdf>
+Package pdftex.def Info: ch4/figure_1.pdf used on input line 88.
+(pdftex.def)             Requested size: 469.75386pt x 361.34912pt.
+ [7] [8 <./ch4/figure_1.pdf>] [9] (./dissertation.bbl
+[10] [11]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [12] [13] [14])) [15]
+Chapter 5.
+(./ch5/ch5.tex [16
+
+] [17]
+
+Package natbib Warning: Citation `Moritz1978' on page 18 undefined on input lin
+e 11.
+
+[18] [19] [20]
+
+Package natbib Warning: Citation `Blewitt2016' on page 21 undefined on input li
+ne 144.
+
+[21]
+
+Package natbib Warning: Citation `Wech2010' on page 22 undefined on input line 
+173.
+
+<ch5/figures/context_map/context-map.pdf, id=161, 505.89pt x 397.485pt>
+File: ch5/figures/context_map/context-map.pdf Graphic file (type pdf)
+
+<use ch5/figures/context_map/context-map.pdf>
+Package pdftex.def Info: ch5/figures/context_map/context-map.pdf used on input 
+line 178.
+(pdftex.def)             Requested size: 505.88875pt x 397.48402pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 178--179
+[][] 
+ []
+
+
+Package natbib Warning: Citation `Wech2010' on page 22 undefined on input line 
+179.
+
+
+Package natbib Warning: Citation `Wech2010' on page 22 undefined on input line 
+179.
+
+
+Package natbib Warning: Citation `Hines2017' on page 22 undefined on input line
+ 193.
+
+[22] [23 <./ch5/figures/context_map/context-map.pdf>]
+
+Package natbib Warning: Citation `Hines2017' on page 24 undefined on input line
+ 208.
+
+<ch5/figures/noise/noise-params.pdf, id=210, 505.89pt x 397.485pt>
+File: ch5/figures/noise/noise-params.pdf Graphic file (type pdf)
+
+<use ch5/figures/noise/noise-params.pdf>
+Package pdftex.def Info: ch5/figures/noise/noise-params.pdf used on input line 
+211.
+(pdftex.def)             Requested size: 505.88875pt x 397.48402pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 211--212
+[][] 
+ []
+
+<ch5/figures/noise/noise-samples.pdf, id=211, 505.89pt x 289.08pt>
+File: ch5/figures/noise/noise-samples.pdf Graphic file (type pdf)
+
+<use ch5/figures/noise/noise-samples.pdf>
+Package pdftex.def Info: ch5/figures/noise/noise-samples.pdf used on input line
+ 217.
+(pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 217--218
+[][] 
+ []
+
+[24] [25 <./ch5/figures/noise/noise-params.pdf>] [26 <./ch5/figures/noise/noise
+-samples.pdf>]
+
+Package natbib Warning: Citation `Chen2008' on page 27 undefined on input line 
+240.
+
+[27]
+
+Package natbib Warning: Citation `Wech2010' on page 28 undefined on input line 
+253.
+
+<ch5/figures/outliers/outliers.pdf, id=298, 505.89pt x 216.81pt>
+File: ch5/figures/outliers/outliers.pdf Graphic file (type pdf)
+
+<use ch5/figures/outliers/outliers.pdf>
+Package pdftex.def Info: ch5/figures/outliers/outliers.pdf used on input line 2
+56.
+(pdftex.def)             Requested size: 505.88875pt x 216.80946pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 256--257
+[][] 
+ []
+
+
+Overfull \hbox (44.67795pt too wide) in paragraph at lines 263--272
+[][] 
+ []
+
+[28] [29 <./ch5/figures/outliers/outliers.pdf>]
+<ch5/figures/signal_fit/signal-fit.pdf, id=349, 505.89pt x 216.81pt>
+File: ch5/figures/signal_fit/signal-fit.pdf Graphic file (type pdf)
+
+<use ch5/figures/signal_fit/signal-fit.pdf>
+Package pdftex.def Info: ch5/figures/signal_fit/signal-fit.pdf used on input li
+ne 308.
+(pdftex.def)             Requested size: 505.88875pt x 216.80946pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 308--309
+[][] 
+ []
+
+<ch5/figures/strain_map/strain-map.pdf, id=350, 433.62pt x 433.62pt>
+File: ch5/figures/strain_map/strain-map.pdf Graphic file (type pdf)
+
+<use ch5/figures/strain_map/strain-map.pdf>
+Package pdftex.def Info: ch5/figures/strain_map/strain-map.pdf used on input li
+ne 319.
+(pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
+ [30]
+<ch5/figures/strain_ts/strain-ts.pdf, id=354, 505.89pt x 361.35pt>
+File: ch5/figures/strain_ts/strain-ts.pdf Graphic file (type pdf)
+
+<use ch5/figures/strain_ts/strain-ts.pdf>
+Package pdftex.def Info: ch5/figures/strain_ts/strain-ts.pdf used on input line
+ 327.
+(pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 327--328
+[][] 
+ []
+
+<ch5/figures/strain_ts/mag-ts.pdf, id=355, 505.89pt x 289.08pt>
+File: ch5/figures/strain_ts/mag-ts.pdf Graphic file (type pdf)
+
+<use ch5/figures/strain_ts/mag-ts.pdf>
+Package pdftex.def Info: ch5/figures/strain_ts/mag-ts.pdf used on input line 33
+3.
+(pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
+
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 333--334
+[][] 
+ []
+
+[31 <./ch5/figures/signal_fit/signal-fit.pdf>] [32 <./ch5/figures/strain_map/st
+rain-map.pdf>] [33 <./ch5/figures/strain_ts/strain-ts.pdf>] [34 <./ch5/figures/
+strain_ts/mag-ts.pdf>]
+
+Package natbib Warning: Citation `Dragert2011' on page 35 undefined on input li
+ne 343.
+
+
+Package natbib Warning: Citation `Hart1996' on page 35 undefined on input line 
+343.
+
+
+Package natbib Warning: Citation `Roeloffs2010' on page 35 undefined on input l
+ine 343.
+
+
+Package natbib Warning: Citation `Hodgkinson2013' on page 35 undefined on input
+ line 343.
+
+
+Package natbib Warning: Citation `Roeloffs2010' on page 35 undefined on input l
+ine 343.
+
+[35] (./dissertation.bbl [36] [37]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [38] [39] [40]))
+
+Package natbib Warning: There were undefined citations.
+
+
+Package natbib Warning: There were multiply defined citations.
+
+[41] (./dissertation.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2073 strings out of 494910
- 25462 string characters out of 6179836
- 84471 words of memory out of 5000000
- 5366 multiletter control sequences out of 15000+600000
- 8899 words of font info for 34 fonts, out of 8000000 for 9000
+ 4937 strings out of 494910
+ 66869 string characters out of 6179836
+ 146576 words of memory out of 5000000
+ 8115 multiletter control sequences out of 15000+600000
+ 10770 words of font info for 40 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 27i,10n,43p,1116b,194s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr12.pfb>
-Output written on dissertation.pdf (8 pages, 38320 bytes).
+ 37i,17n,43p,2417b,417s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on dissertation.pdf (50 pages, 2396522 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 596 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
