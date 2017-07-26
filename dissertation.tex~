@@ -13,6 +13,20 @@
 \usepackage{algorithm}
 \usepackage{algpseudocode}
 \usepackage{setspace}
+\usepackage{tocloft}
+
+%% SET CHAPTERNONUM COMMAND
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\chapternonum}[1]{\chapter*{#1}
+                              \addcontentsline{toc}{chapter}{#1}}
+
+%% SET NEWAPPENDIX COMMAND
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newlistof{appendices}{apc}{\listappendicesname}
+\newcommand{\addcontentslines}[1]{\addcontentsline{apc}{appendices}{#1}
+                                  \addcontentsline{toc}{section}{#1}}
+\newcommand{\newappendix}[1]{\section*{#1}
+                             \addcontentslines{#1}}
 
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -28,7 +42,7 @@
 {\bfseries CHAPTER \thecontentslabel:\ } % numbered entry format
 {\bfseries} % numberless entry format
 {\bfseries\hfill\contentspage} % blank filler
-[\vspace{0.05in}] % space after code
+[\vspace{0.0in}] % space after code
 %{\titlerule*[0.77pc]{.}\contentspage} % dotted filler line
 
 %% CUTOMIZE CHAPTER TITLES
@@ -79,6 +93,7 @@
 \renewcommand*\contentsname{\centerline{\large{\textbf{TABLE OF CONTENTS}}}}
 \renewcommand*\listfigurename{\centerline{\large{\textbf{LIST OF FIGURES}}}}
 \renewcommand*\listtablename{\centerline{\large{\textbf{LIST OF TABLES}}}}
+\newcommand*\listappendicesname{\centerline{\large{\textbf{LIST OF APPENDICES}}}}
 
 %% CHANGE BIBLIOGRAPHY NAME TO REFERENCES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -124,19 +139,19 @@ Doctoral Committee:
 
 \vspace*{0.1in}
 \hspace*{0.2in}
-Associate Professor Eric Hetland
-
-\hspace*{0.2in}
-Professor Jeroen Ritsema
+Associate Professor Eric Hetland, Chair
 
 \hspace*{0.2in}
 Associate Professor Jeremy Bassis
 
 \hspace*{0.2in}
-Associate Professor Nathan Niemi
+Professor Jeroen Ritsema
 
 \hspace*{0.2in}
 Professor John Boyd
+
+\hspace*{0.2in}
+Associate Professor Nathan Niemi
 
 \newpage
 
@@ -155,7 +170,7 @@ ORCID iD: 9999-9999-9999-9999
 
 %% ACKNOWLEDGEMENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter*{ACKNOWLEDGEMENTS}\addcontentsline{toc}{chapter}{ACKNOWLEDGEMENTS}
+\chapternonum{ACKNOWLEDGEMENTS}
 
 fuck your face
 
@@ -164,12 +179,17 @@ fuck your face
 %% TABLE OF CONTENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \tableofcontents
+\newpage
 \listoffigures\addcontentsline{toc}{chapter}{LIST OF FIGURES}
+\newpage
 \listoftables\addcontentsline{toc}{chapter}{LIST OF TABLES}
+\newpage
+\listofappendices\addcontentsline{toc}{chapter}{LIST OF APPENDICES}
+\newpage
 
 %% ABSTRACT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapter*{ABSTRACT}\addcontentsline{toc}{chapter}{ABSTRACT}
+\chapternonum{ABSTRACT}
 
 %% MAIN MATTER
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -183,10 +203,8 @@ fuck your face
 
 \chapter{Rheologic constrains on the upper mantle from 5 years of postseismic deformation following the El Mayor-Cucapah earthquake}
 
-\chapter{Unbiased characterization of noise in geodetic data}
 \include{ch4/ch4}
 
-\chapter{Revealing transient strain in geodetic data with Gaussian process regression} 
 \include{ch5/ch5}
 
 \end{document}

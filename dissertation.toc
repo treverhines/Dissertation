@@ -1,33 +1,35 @@
 \contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
 \contentsline {chapter}{LIST OF FIGURES}{vii}
 \contentsline {chapter}{LIST OF TABLES}{viii}
-\contentsline {chapter}{ABSTRACT}{ix}
+\contentsline {chapter}{LIST OF APPENDICES}{ix}
+\contentsline {chapter}{ABSTRACT}{x}
 \contentsline {chapter}{\numberline {1}Bias in estimates of lithosphere viscosity from interseismic deformation}{1}
 \contentsline {chapter}{\numberline {2}Rapid and simultaneous estimation of fault slip and heterogeneous lithospheric viscosity from postseismic deformation}{2}
 \contentsline {chapter}{\numberline {3}Rheologic constrains on the upper mantle from 5 years of postseismic deformation following the El Mayor-Cucapah earthquake}{3}
-\contentsline {chapter}{\numberline {4}Unbiased characterization of noise in geodetic data}{4}
 \gdef \the@ipfilectr {@-1}
-\contentsline {section}{\numberline {4.1}abstract}{5}
-\contentsline {section}{\numberline {4.2}Introduction}{5}
+\contentsline {chapter}{\numberline {4}Unbiased characterization of noise in geodetic data}{4}
+\contentsline {section}{\numberline {4.1}Abstract}{4}
+\contentsline {section}{\numberline {4.2}Introduction}{4}
 \contentsline {section}{\numberline {4.3}Maximum likelihood methods}{6}
 \contentsline {section}{\numberline {4.4}Synthetic demonstration}{8}
-\contentsline {section}{\numberline {4.5}Discussion and conclusion}{11}
-\contentsline {section}{\numberline {4.6}acknowledgements}{11}
-\contentsline {section}{\numberline {4.7}References}{12}
+\contentsline {section}{\numberline {4.5}Discussion and conclusion}{10}
+\contentsline {section}{\numberline {4.6}Acknowledgements}{11}
+\contentsline {section}{\numberline {4.7}References}{11}
+\contentsline {section}{Appendix 4A: REML algorithm}{13}
 \gdef \the@ipfilectr {}
-\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{15}
 \gdef \the@ipfilectr {@-2}
-\contentsline {section}{\numberline {5.1}Summary}{16}
-\contentsline {section}{\numberline {5.2}Introduction}{16}
-\contentsline {section}{\numberline {5.3}Estimating Transient Strain Rates}{18}
-\contentsline {section}{\numberline {5.4}Outlier detection}{22}
-\contentsline {section}{\numberline {5.5}Application to Cascadia Slow Slip Events}{23}
-\contentsline {subsection}{\numberline {5.5.1}Noise model}{23}
-\contentsline {subsection}{\numberline {5.5.2}Prior model}{26}
-\contentsline {subsection}{\numberline {5.5.3}Transient Strain Rates}{32}
-\contentsline {section}{\numberline {5.6}Discussion}{37}
-\contentsline {section}{\numberline {5.7}Conclusion}{38}
-\contentsline {section}{\numberline {5.8}Acknowledgements}{39}
-\contentsline {section}{\numberline {5.9}References}{39}
+\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{14}
+\contentsline {section}{\numberline {5.1}Summary}{14}
+\contentsline {section}{\numberline {5.2}Introduction}{14}
+\contentsline {section}{\numberline {5.3}Estimating transient strain rates}{17}
+\contentsline {section}{\numberline {5.4}Outlier detection}{20}
+\contentsline {section}{\numberline {5.5}Application to Cascadia slow slip events}{21}
+\contentsline {subsection}{\numberline {5.5.1}Noise model}{22}
+\contentsline {subsection}{\numberline {5.5.2}Prior model}{24}
+\contentsline {subsection}{\numberline {5.5.3}Transient strain rates}{30}
+\contentsline {section}{\numberline {5.6}Discussion}{35}
+\contentsline {section}{\numberline {5.7}Conclusion}{36}
+\contentsline {section}{\numberline {5.8}Acknowledgements}{37}
+\contentsline {section}{\numberline {5.9}References}{37}
 \gdef \the@ipfilectr {}
 \contentsfinish 
