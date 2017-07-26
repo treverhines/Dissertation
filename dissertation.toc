@@ -47,7 +47,7 @@
 \contentsline {subsection}{\numberline {3.4.1}Elastic postseismic inversion}{56}
 \contentsline {subsection}{\numberline {3.4.2}Early postseismic inversion}{58}
 \contentsline {subsection}{\numberline {3.4.3}Full postseismic inversion}{67}
-\contentsline {section}{\numberline {3.5}Discussion}{69}
+\contentsline {section}{\numberline {3.5}Discussion}{70}
 \contentsline {section}{\numberline {3.6}Conclusion}{73}
 \contentsline {section}{\numberline {3.7}Supporting information}{73}
 \contentsline {section}{\numberline {3.8}Acknowledgements}{73}

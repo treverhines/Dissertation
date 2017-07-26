@@ -11,20 +11,17 @@ Previous studies which have modeled postseismic deformation following the El May
 
 In this study, we perform a kinematic inversion for fault slip, allowing it to persist throughout the postseismic period, while simultaneously estimating the viscosity of the lower crust and upper mantle.  We create an initial model of the fault slip and effective viscosity necessary to describe early postseismic deformation using the method described in \citet{Hines2016}.  This method uses a first-order approximation of surface deformation resulting from viscoelastic relaxation which is only applicable to the early postseismic period. In this case, our initial model describes the first 0.8 years of postseismic deformation following the El Mayor-Cucapah earthquake.  We then use the inferred effective viscosity structure from the initial model to create a suite of postseismic models which we test against the five years of postseismic data available to date.  Of the suite of models tested, we find that postseismic deformation following the El Mayor-Cucapah earthquake can be explained with a combination of afterslip on a fault segment running through the Sierra Cucapah and viscoelastic relaxation in a Zener rheology upper mantle with a transient viscosity on the order of $10^{18}$ Pa s. 
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:ContextMap}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p01} 
 \caption{Map of the region considered in this study.  The large focal mechanism is the GCMT solution for the El Mayor-Cucapah earthquake, and the three small focal mechanisms are for the Ocotillo earthquake and the two main shocks during the Brawley swarm.  The black dots indicate the locations of GPS stations used in this study.  The fault geometry used in this study is shown in magenta where dashed lines indicate buried edges of the fault segments.  The green and red boxes demarcate the extent of the near-field and far-field maps (Figures \ref{ch3:fig:NearField} and \ref{ch3:fig:FarField}).  Stations inside the blue sector, which highlights the area within 10$^\circ$ of the El Mayor-Cucapah P-axis, are used in Figures \ref{ch3:fig:RecordSectionMain} and \ref{ch3:fig:RecordSection1}.}       
-\label{ch3:fig:ContextMap}
 \end{figure}
 
 \section{Data processing}\label{ch3:sec:Data}
 We use continuous GPS position time series provided by University Navstar Consortium (UNAVCO) for stations within a 400 km radius about the El Mayor-Cucapah epicenter. We collectively describe the coseismic and postseismic displacements resulting from the El Mayor-Cucapah earthquake as $u_\mathrm{post}(t)$.  We consider the GPS position time series, $u_\mathrm{obs}(t)$, to be the combination of $u_\mathrm{post}(t)$, secular tectonic deformation, annual and semi-annual oscillations, and coseismic offsets from significant earthquakes over the time span of this study.  The June 14, 2010, Mw=5.8 Ocotillo earthquake and the Brawley swarm, which included an Mw=5.5 and an Mw=5.4 event on August 26, 2012 (Figure \ref{ch3:fig:ContextMap}), are the only earthquakes that produced noticeable displacements in any of the time series.  We treat the displacements resulting from the Brawley swarm as a single event because the daily solutions provided by UNAVCO cannot resolve the separate events.  Although the Ocotillo earthquake had its own series of aftershocks \citep{Hauksson2011}, neither the Ocotillo earthquake nor the Brawley swarm produced detectable postseismic deformation.  We model displacements resulting from these events with only a Heaviside function, $H(t)$, describing the coseismic offsets.  We then model $u_\mathrm{obs}(t)$ as 
-
 \begin{equation}
   u_\mathrm{obs}(t) = u_\mathrm{pred}(t) + \epsilon,
 \end{equation}
 where
-
 \begin{equation}\label{TimeSeriesModel}
   \begin{split}  
     u_\mathrm{pred}(t) = &u_\mathrm{post}(t)H(t-t_\mathrm{emc}) + c_0 + c_1t + \\
@@ -39,22 +36,18 @@ Stations which recorded displacements that clearly cannot be described by the af
 The October 16, 1999, Mw=7.1 Hector Mine earthquake, which occurred ${\sim}270$ km north of the El Mayor-Cucapah epicenter, produced transient postseismic deformation which we do not wish to model, either mechanically or through empirical line fitting.  We thus restrict our analysis to deformation observed six years after the Hector Mine earthquake, which is when postseismic velocities at sites near the Hector Mine epicenter are approximately constant \citep{Savage2009}. When appraising our model fit in Section \ref{ch3:sec:Model}, we see some systematic residuals in the vicinity of the Hector Mine epicenter, which may be the result of errors in the assumption that the trend in Hector Mine postseismic deformation is linear after six years.   
 
 Studies of postseismic deformation typically assume a parametric form for $u_\mathrm{post}(t)$, such as one with a logarithmic or exponential time dependence \citep[e.g.][]{Savage2005a}.  However, by assuming a logarithmic or exponential form of $u_\mathrm{post}(t)$ we run the risk of over fitting the GPS time series and inferring a non-existent postseismic signal. We therefore do not assume any parametric form for $u_\mathrm{post}(t)$ and rather treat it as integrated Brownian motion, so that 
-
 \begin{equation}
     \dot{u}_\mathrm{post}(t) = \sigma^2\int_0^t w(s) ds,
 \end{equation}    
 where $w(t)$ is white noise and the variance of $\dot{u}_\mathrm{post}(t)$ increases linearly with time by a factor of $\sigma^2$. We use a Kalman filtering approach to estimate $u_\mathrm{post}(t)$ and the unknown parameters in eq. (\ref{TimeSeriesModel}).  In the context of Kalman filtering, our time varying state vector is
-
 \begin{equation}
     \mathbf{X}(t) = [u_\mathrm{post}(t),\dot u_\mathrm{post}(t), c_0, ..., c_7]
 \end{equation}
 and eq. (\ref{TimeSeriesModel}) is the observation function which maps the state vector to the GPS observations. We initiate the Kalman filter by assuming a prior estimate of $\mathbf{X}(t)$ at the first time epoch, denoted $\mathbf{X}_{1|0}$, which has a sufficiently large covariance, denoted $\mathbf{\Sigma}_{1|0}$, to effectively make our prior uninformed.  For each time epoch, $t_i$, Bayesian linear regression is used to incorporate GPS derived estimates of displacement with our prior estimate of the state, $\mathbf{X}_{i|i-1}$, to form a posterior estimate of the state, $\mathbf{X}_{i|i}$, which has covariance $\mathbf{\Sigma}_{i|i}$.  We then use the posterior estimate of the state at time $t_i$ to form a prior estimate of the state at time $t_{i+1}$ through the transition function
-
 \begin{equation}\label{predict}
   \mathbf{X}_{i+1|i} = \mathbf{F}_{i+1}\mathbf{X}_{i|i} + \mathbf{\delta}_{i+1}, 
 \end{equation}
 where 
-
 \begin{equation}
   \mathbf{F}_{i+1} = 
   \left[
@@ -66,7 +59,6 @@ where
   \right]
 \end{equation}
 and $\mathbf{\delta}_{i+1}$ is the process noise, which has zero mean and covariance described by
-
 \begin{equation}
   \mathbf{Q}_{i+1} = 
   \sigma^2 \left[
@@ -78,13 +70,12 @@ and $\mathbf{\delta}_{i+1}$ is the process noise, which has zero mean and covari
   \right].
 \end{equation}
 The covariance of the new prior state, $\mathbf{X}_{i+1|i}$, is then described by
-
 \begin{equation}
   \mathbf{\Sigma}_{i+1|i} = \mathbf{F}_{i+1}\mathbf{\Sigma}_{i|i}\mathbf{F}^T_{i+1} + \mathbf{Q}_{i+1}.
 \end{equation}
 This process is repeated for each of the $N$ time epochs.  We then use Rauch-Tung-Striebel smoothing \citep{Rauch1965} to find $\mathbf{X}_{i|N}$, which is an estimate of the state at time $t_i$ that incorporates GPS observation for all $N$ time epochs.  Our final estimates of $u_\mathrm{post}(t)$ are used in subsequent analysis, while the remaining components of the state vector are considered nuisance parameters. In the interests of computational tractability, we down sample our smoothed time series from daily solutions down to weekly solutions.
 
-The smoothness of $u_\mathrm{post}(t)$ is controlled by the chosen value of $\sigma^2$, which describes how rapidly we expect postseismic displacements to vary over time.  Setting $\sigma^2$ equal to zero will effectively result in modeling $u_\mathrm{post}(t)$ as a straight line which is insufficient to describe the expected transient behavior in postseismic deformation. The other end member, where $\sigma^2$ is infinitely large, will result in $u_\mathrm{pred}(t)$ overfitting the data. While one can use a maximum likelihood based approach for picking $\sigma^2$ \citep[e.g.][]{Segall1997}, we instead take a subjective approach and choose a value for $\sigma^2$ that is just large enough to faithfully describe the observed deformation at the most near-field station in our study, P496, which exhibits the most rapid changes in velocity. This ensures that $\sigma^2$ will be sufficiently large so that our estimate of $u_\mathrm{post}(t)$ does not smooth out potentially valuable postseismic signal at the remaining stations. We find that using $\sigma^2 = 0.05 \mathrm{m}^2 / \mathrm{yr}^3$ adequately describe all but the first week of postseismic deformation at station P496, which slightly increases our estimate of coseismic displacements (Figure \ref{ch3:fig:P496}).  We include an example of estimating $u_\mathrm{post}(t)$ for a far-field station, P619, which is about 359 km north of the El Mayor-Cucapah epicenter (Figure \ref{ch3:fig:P619}).  At station P619, along with all the other stations in the Mojave region, there is a south-trending postseismic transience that persists for the first three years after the El Mayor-Cucapah earthquake.  Postseismic deformation that extends to these epicentral distances has also been observed after the Hector Mine earthquake \citep{Freed2007a}.
+The smoothness of $u_\mathrm{post}(t)$ is controlled by the chosen value of $\sigma$, which describes how rapidly we expect postseismic displacements to vary over time.  Setting $\sigma$ equal to zero will effectively result in modeling $u_\mathrm{post}(t)$ as a straight line which is insufficient to describe the expected transient behavior in postseismic deformation. The other end member, where $\sigma$ is infinitely large, will result in $u_\mathrm{pred}(t)$ overfitting the data. While one can use a maximum likelihood based approach for picking $\sigma$ \citep[e.g.][]{Segall1997}, we instead take a subjective approach and choose a value for $\sigma$ that is just large enough to faithfully describe the observed deformation at the most near-field station in our study, P496, which exhibits the most rapid changes in velocity. This ensures that $\sigma$ will be sufficiently large so that our estimate of $u_\mathrm{post}(t)$ does not smooth out potentially valuable postseismic signal at the remaining stations. We find that using $\sigma = 50\  \mathrm{mm}/\mathrm{yr}^{1.5}$ adequately describe all but the first week of postseismic deformation at station P496, which slightly increases our estimate of coseismic displacements (Figure \ref{ch3:fig:P496}).  We include an example of estimating $u_\mathrm{post}(t)$ for a far-field station, P619, which is about 359 km north of the El Mayor-Cucapah epicenter (Figure \ref{ch3:fig:P619}).  At station P619, along with all the other stations in the Mojave region, there is a south-trending postseismic transience that persists for the first three years after the El Mayor-Cucapah earthquake.  Postseismic deformation that extends to these epicentral distances has also been observed after the Hector Mine earthquake \citep{Freed2007a}.
 
 \begin{figure}\label{ch3:fig:P496}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p02}
@@ -135,12 +126,10 @@ We estimate coseismic and time-dependent postseismic fault slip, both of which a
 
 \subsection{Elastic postseismic inversion}\label{ch3:sec:ElasticInversion}    
 We consider a variety of rheologic models for the lower crust and upper mantle. The simplest rheologic model is to consider them to be effectively elastic and isotropic.  In such case, the rheologic parameters consist of the reasonably well known Lam\'e parameters, $\lambda$ and $\mu$, and we use the same values used by \citet{Wei2011} throughout this paper (Table 1).  The only unknown is the distribution of fault slip, which can be estimated from postseismic deformation through linear least squares.  \citet{Rollins2015} used a subset of the GPS stations considered in this study and found that three years of postseismic deformation following the El Mayor-Cucapah earthquake can be explained with afterslip on the coseismic fault plane without requiring any viscoelastic relaxation. We also perform an elastic slip inversion, but we use GPS stations within a larger radius about the El Mayor-Cucapah epicenter (400 km instead of ${\sim}200$ km). Our forward problem describing predicted postseismic deformation, $u_\mathrm{pred}$, in terms of time dependent fault slip, $s$, is
-
 \begin{equation}\label{ch3:eq:ElasticForward}
   u_\mathrm{pred}(x,t) = \int_F s(\xi,t)g(x,\xi)d\xi, 
 \end{equation}           
 where $F$ denotes the fault and $g(x,\xi)$ is the elastic Green's function describing displacement at surface position $x$ resulting from slip at $\xi$ on the fault.  We estimate coseismic slip and the rate of afterslip over the postseismic time intervals 0.0-0.125, 0.125-0.25, 0.25-0.5, 0.5-1.0, 1.0-2.0, 2.0-3.0, 3.0-4.0, and 4.0-5.0 years.  Each fault segment is discretized into roughly 4 km by 4 km patches an we impose that the direction of slip and slip rate are within 45$^\circ$ of right-lateral. We also add zeroth-order Tikhonov regularization so that our solution for $s$ satisfies
-
 \begin{equation}\label{ch3:eq:ElasticObjective}
   \min_s \left(\left|\left|\frac{u_\mathrm{pred}(s) - u_\mathrm{post}}                
                                 {\sigma_\mathrm{post}}\right|\right|_2^2 + 
@@ -162,7 +151,6 @@ Our coseismic slip and afterslip solutions are shown in Figure \ref{ch3:fig:Elas
 
 \subsection{Early postseismic inversion}\label{ch3:sec:InitialInversion}
 For any linear viscoelastic rheology of the crust and mantle, postseismic displacements resulting from time dependent fault slip can be described as  
-
 \begin{equation}\label{GeneralForward}
   u_\mathrm{pred}(x,t) = \int_F s(\xi,t)g(x,\xi)d\xi + 
            \int_0^t\int_F s(\xi,\tau) f(t-\tau,x,\xi) d\xi d\tau,
@@ -175,17 +163,14 @@ where $f(t,x,\xi)$ describes the time-dependent velocity at $x$ resulting from v
 \end{figure}
 
 In order to greatly simplify the inverse problem, we use the method described in \citet{Hines2016} to constrain an initial effective viscosity structure from the early postseismic deformation.  Our method uses the fact that coseismic stresses throughout the crust and upper mantle depend on the instantaneous elastic parameters and are independent of the viscoelastic parameters which we wish to estimate. Immediately following an earthquake, each parcel will have a strain rate that is proportional to the coseismic stress and inversely proportional to the parcel's effective viscosity, $\eta_\mathrm{eff}$.  Using one-dimensional rheologic models, we define the effective viscosity as
-
 \begin{equation}
   \eta_\mathrm{eff} = \left.\frac{\sigma}{\dot{\varepsilon}}\right|_{t=0},
 \end{equation}
 where $\sigma$ is an applied stress at $t=0$ and $\dot\varepsilon$ is the resulting strain rate.  Figure \ref{ch3:fig:Rheology} shows how $\eta_\mathrm{eff}$ relates to the parameters for various linear viscoelastic rheologies.   We can deduce that the initial rate of surface deformation resulting from viscoelastic relaxation is a summation of the surface deformation resulting from relaxation in each parcel, scaled by the reciprocal of the parcel's effective viscosity.  That is to say   
-
 \begin{equation}\label{InitialRate}
   f(0,x,\xi) = \int_L \frac{h(x,\xi,\zeta)}{\eta_\mathrm{eff}(\zeta)} d\zeta, 
 \end{equation}
 where $L$ denotes the crust and mantle and $h(x,\xi,\zeta)$ describes the initial rate of deformation resulting from viscoelastic relaxation at $\zeta$ induced by slip at $\xi$. We can combine eq. (\ref{InitialRate}) with eq. (\ref{GeneralForward}) to get a first-order approximation for early postseismic deformation,
-
 \begin{equation}\label{ApproxForward}
   u_\mathrm{pred}(x,t) \approx \int_F s(\xi,t)g(x,\xi)d\xi + 
            \int_0^t\int_F\int_L \frac{s(\tau,\xi)}{\eta_\mathrm{eff}(\zeta)} h(x,\xi,\zeta) d\zeta d\xi d\tau,
@@ -209,7 +194,6 @@ We must determine at which point the early postseismic approximation breaks down
 \end{figure}
 
 We estimate coseismic slip, afterslip, and effective viscosities by solving 
-
 \begin{equation}\label{ObjectiveFunction}
  \mathrm{min}_{s,\eta_\mathrm{eff}} \left(\left|\left|
  \frac{u_\mathrm{pred}(s,\eta_\mathrm{eff}) - u_\mathrm{post}}
@@ -235,7 +219,6 @@ Our estimated effective viscosities, and corresponding fluidities, are shown in 
 
 \subsection{Full postseismic inversion}\label{ch3:sec:FullInversion} 
 In the previous section, we used the inverse method from \citet{Hines2016} to constrain the effective viscosity structure required to explain the first 0.8 years of postseismic deformation. In this section, we use these effective viscosities as a prior constraint when searching for models which are capable of describing the available five years of postseismic data, where our forward problem is now eq. (\ref{GeneralForward}) rather than the approximation given by eq. (\ref{ApproxForward}).  We perform a series of fault slip inversions assuming a variety of rheologies for the lower crust and upper mantle which are consistent with our findings from Section \ref{ch3:sec:InitialInversion}.  We appraise each model using the mean chi-squared value,
-
 \begin{equation}\label{ch3:eq:Misfit}
   \bar\chi^2 = \frac{1}{N}\left|\left|\frac{u_\mathrm{pred} - u_\mathrm{post}}{\sigma_\mathrm{post}}\right|\right|_2^2,
 \end{equation}
@@ -280,7 +263,7 @@ Figures S1 and S2 provide additional information about the inversion in Section 
 text. Figures S3 and S4 show the predicted displacements, which have been decomposed into
 elastic and viscoelastic components, for the preferred model from Section 3.3.
 
-\begin{figure}\label{fig:S1}
+\begin{figure}\label{ch3:fig:S1}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-fS01}
 \caption{Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lambda_\eta$ in eq.  
 (15) of the main text.  The left panel shows the trade-off curve for the fault slip penalty
@@ -293,7 +276,7 @@ $||s||$.  Our choice of $\lambda_\eta$ is a balance between $\bar{\chi}^2$ and t
 Laplacian of fluidity, $||\nabla \eta_\mathrm{eff}^{-1}||$.}
 \end{figure}
 
-\begin{figure}\label{fig:S2}
+\begin{figure}\label{ch3:fig:S2}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS02}
 \caption{Checkerboard test used to assess the resolving power of the inversion in Section 3.2 of the main 
 text.  We create synthetic data at all of the GPS stations considered in this study by
@@ -308,7 +291,7 @@ the southern end of the fault, farthest from the available data.  Also note that
 constraint on fluidity largely obscures the jump in the synthetic model.}
 \end{figure}
 
-\begin{figure}\label{fig:S3}
+\begin{figure}\label{ch3:fig:S3}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS03}
 \caption{Elastic (black) and viscoelastic (green) components of the near-field predicted displacements
 for the preferred Zener model from Section 3.3.  The elastic component is the deformation
@@ -319,7 +302,7 @@ vertical elastic component is shown as an interpolated field and the vertical vi
 component is shown within the green circles.}
 \end{figure}
 
-\begin{figure}\label{fig:S4}
+\begin{figure}\label{ch3:fig:S4}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS04}
 \caption{Same as figure S3 but for far-field stations.}
 \end{figure}
