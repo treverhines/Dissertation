@@ -212,7 +212,6 @@ demonstrated by \citet{Segall2010} for an elastic layer over a Maxwell
 viscoelastic substrate. 
 
 \begin{figure}\label{figure1}
-  \centering 
   \includegraphics{ch2/figures/Fig1.pdf}
   \caption{Surface displacements predicted by
     eq. (\ref{TwoLayerViscous}) truncated after ten terms (green) and
@@ -483,7 +482,6 @@ computational burden is in computing $F_i(x)$ and $G_{ij}(x)$ which
 only needs to be done once for a given fault and lithosphere geometry.
 
 \begin{figure}\label{figure2}
-  \centering
   \includegraphics{ch2/figures/Fig2.pdf}
   \caption{L-curves used to select the penalty parameters. Panel (a)
     shows the trade-off between slip smoothness and data misfit while
@@ -567,7 +565,6 @@ creep.
 \subsection{Synthetic model with Maxwell viscoelasticity}\label{MaxModel}
 
 \begin{figure}\label{figure3}
-  \centering
   \includegraphics{ch2/figures/Fig3.pdf}
   \caption{Slip distribution imposed in both synthetic models (left),
     slip recovered for the synthetic model with Maxwell
@@ -583,7 +580,6 @@ creep.
 \end{figure}
 
 \begin{figure}\label{figure4}
-  \centering
   \includegraphics{ch2/figures/Fig4.pdf}
   \caption{Synthetic and recovered lithospheric viscosities (left)
     and associated fluidities (right).  Semi-transparent lines are recovered
@@ -593,7 +589,6 @@ creep.
 \end{figure}
 
 \begin{figure}\label{figure5}
-  \centering
   \includegraphics{ch2/figures/Fig5.pdf}
   \caption{Synthetic surface displacements (black) and best fitting
     surface displacements using eq. (\ref{Postseismic_Approximation2})
@@ -693,7 +688,6 @@ afterslip and fluidity in layers below 30 km depth.
 \subsubsection{Validation}\label{Validation}
 
 \begin{figure}\label{figure6}
-  \centering
   \includegraphics{ch2/figures/Fig6.pdf}
   \caption{Displacement time series for the position shown in Fig. 5
     (black), best fitting surface displacements using the
@@ -705,7 +699,6 @@ afterslip and fluidity in layers below 30 km depth.
 \end{figure}
 
 \begin{figure}\label{figure7}
-  \centering
   \includegraphics{ch2/figures/Fig7.pdf}
   \caption{Approximation error at $t=10$ years and $t=20$ years.
     Circles with 1 mm radius are centered at each station to compare
@@ -849,7 +842,6 @@ each of the recovered models to see how well they predict the later
 deformation.
 
 \begin{figure}\label{figure8}
-  \centering
   \includegraphics{ch2/figures/Fig8.pdf}
   \caption{Synthetic and recovered lithospheric viscosities (left) and
     fluidities (right) for the synthetic model with a Burgers
@@ -865,7 +857,6 @@ deformation.
 \end{figure}
 
 \begin{figure}\label{figure9}
-  \centering
   \includegraphics{ch2/figures/Fig9.pdf}
   \caption{Afterslip moment over time for the synthetic model (black) and
     the inferred afterslip moment when inverting 0.5, 2.0, and 5.0 years of
@@ -874,7 +865,6 @@ deformation.
 \end{figure}
 
 \begin{figure}\label{figure10}
-  \centering
   \includegraphics{ch2/figures/Fig10.pdf}
   \caption{Synthetic and predicted displacement time series with
     length 0.5, 2.0, and 5.0 years.  The time series shown is for the
@@ -992,8 +982,8 @@ postseismic period, we demonstrate that our method is capable of
 robustly recovering the mechanisms driving postseismic deformation.
 
 
-\bibliographystyle{ch5/agu04}
-\bibliography{ch5/refs5}
+\bibliographystyle{agu04}
+\bibliography{refs}
 
 \newappendix{Appendix 2A: Inverse Laplace transform through series expansion}
 Let $f(t)$ be analytic at $t=0$ and let there

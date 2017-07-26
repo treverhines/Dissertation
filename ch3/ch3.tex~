@@ -86,36 +86,28 @@ This process is repeated for each of the $N$ time epochs.  We then use Rauch-Tun
 
 The smoothness of $u_\mathrm{post}(t)$ is controlled by the chosen value of $\sigma^2$, which describes how rapidly we expect postseismic displacements to vary over time.  Setting $\sigma^2$ equal to zero will effectively result in modeling $u_\mathrm{post}(t)$ as a straight line which is insufficient to describe the expected transient behavior in postseismic deformation. The other end member, where $\sigma^2$ is infinitely large, will result in $u_\mathrm{pred}(t)$ overfitting the data. While one can use a maximum likelihood based approach for picking $\sigma^2$ \citep[e.g.][]{Segall1997}, we instead take a subjective approach and choose a value for $\sigma^2$ that is just large enough to faithfully describe the observed deformation at the most near-field station in our study, P496, which exhibits the most rapid changes in velocity. This ensures that $\sigma^2$ will be sufficiently large so that our estimate of $u_\mathrm{post}(t)$ does not smooth out potentially valuable postseismic signal at the remaining stations. We find that using $\sigma^2 = 0.05 \mathrm{m}^2 / \mathrm{yr}^3$ adequately describe all but the first week of postseismic deformation at station P496, which slightly increases our estimate of coseismic displacements (Figure \ref{ch3:fig:P496}).  We include an example of estimating $u_\mathrm{post}(t)$ for a far-field station, P619, which is about 359 km north of the El Mayor-Cucapah epicenter (Figure \ref{ch3:fig:P619}).  At station P619, along with all the other stations in the Mojave region, there is a south-trending postseismic transience that persists for the first three years after the El Mayor-Cucapah earthquake.  Postseismic deformation that extends to these epicentral distances has also been observed after the Hector Mine earthquake \citep{Freed2007a}.
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:P496}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p02}
-\centering
 \caption{Left panels show GPS time series from UNAVCO (black) and the predicted displacement (blue) from eq. (\ref{TimeSeriesModel}) for a near-field station.  Red lines indicate the times of the El Mayor-Cucapah and Ocotillo earthquake. The right panels show estimated coseismic and postseismic displacements, $u_\mathrm{post}$, which are extracted from the predicted displacements.  The 68\% confidence interval is shown in light blue.}
-\label{ch3:fig:P496}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:P619}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-p03}
-\centering
 \caption{same as Figure \ref{ch3:fig:P496} but for a far-field station.} 
-\label{ch3:fig:P619}
 \end{figure}
 
 It is important to note that the shown uncertainties in $u_\mathrm{post}(t)$ do not account for the non-negligible epistemic uncertainty in eq. (\ref{TimeSeriesModel}).  For example, we assume a constant rate of secular deformation, which appears to be an appropriate approximation for all but perhaps the stations closest to the Hector Mine epicenter, as noted above.  Also, our model for seasonal deformation in eq. (\ref{TimeSeriesModel}) assumes a constant amplitude over time, which means that any yearly variability in the climatic conditions could introduce systematic residuals \citep{Davis2012}. Indeed, it would be more appropriate to consider the seasonal amplitudes $c_2-c_5$ in eq. (\ref{TimeSeriesModel}) as stochastic variables \citep{Murray2005}. By using constant seasonal amplitudes, our estimate of $u_\mathrm{post}(t)$ seems to describe some of the unmodeled annual and semi-annual oscillations (e.g. Figure \ref{ch3:fig:P619}).          
 
 We show in Figures \ref{ch3:fig:NearField} and \ref{ch3:fig:FarField} the near and far-field coseismic displacements and the postseismic displacements accumulated over the time intervals 0-1 years, 1-3 years, and 3-5 years.  Stations at epicentral distances beyond ${\sim}200$ km have an elevated rate of deformation for the first three years following the earthquake.  This far-field deformation is trending southward at a rate of a few millimeters per year along the direction of the El Mayor-Cucapah P-axis.  A similar eastward trend can be seen in the few far-field stations in Arizona, located along the T-axis.  After three years, the trend in far-field postseismic deformation is barely perceptible.  Most far-field stations display an initial subsidence for the first year after the El Mayor-Cucapah earthquake followed by continued uplift.  This trend in vertical deformation can be observed in all three of the quadrants where postseismic data is available, which means that the vertical deformation does not exhibit an anti-symmetric quadrant pattern, as would be expected for postseismic processes.  Although we use vertical deformation in our analysis in Section \ref{ch3:sec:Model},  we do not put an emphasis on trying to describe the vertical deformation because it likely does not have postseismic origins.        
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:NearField}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p04}
-\centering 
 \caption{Near-field coseismic and cumulative postseismic displacements over the indicated time periods (black) and predicted displacements for our preferred model from Section \ref{ch3:sec:FullInversion} (green).  The black error ellipses show the 68\% confidence interval for the observed horizontal displacements.  Observed vertical displacements are shown as an interpolated field and predicted vertical displacements are shown within the green circles.  Note that the interpolant is not well constrained in Mexico where there is no data available.}
-\label{ch3:fig:NearField}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:FarField}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p05}
-\centering 
 \caption{Same as Figure \ref{ch3:fig:NearField} but for far-field stations.}
-\label{ch3:fig:FarField}
 \end{figure}
 
 The near-field postseismic deformation is notably sustained when compared to the far-field deformation.  Namely, the station in this study which is closest to the El Mayor-Cucapah epicenter, P496, has a steady postseismic trend of ${\sim}1.5$ cm/yr to the south after about one year.  Vertical postseismic deformation in the near-field does display a quadrant pattern which is consistent with the coseismic vertical deformation, suggesting that it is resulting from postseismic processes.  However, the vertical postseismic signal is only apparent for the first year after the earthquake (Figure \ref{ch3:fig:NearField}).  As with the far-field deformation, there is a general trend of uplift in the near-field after about one year. 
@@ -158,16 +150,14 @@ where $\sigma_\mathrm{post}$ is the uncertainty on postseismic displacements and
 
 Our coseismic slip and afterslip solutions are shown in Figure \ref{ch3:fig:ElasticSlip}.  Similar to \citet{Rollins2015}, we find that a large amount of afterslip on the Indiviso fault segment is required to explain the observations. The potency of our inferred coseismic slip is $3.2\times10^9\ \mathrm{m}^3$, equivalent to a Mw=7.28 earthquake when assuming a shear modulus of 32 GPa.  The potency of our inferred cumulative five years of afterslip is $6.1\times10^9\ \mathrm{m}^3$, equivalent to a Mw=7.46 earthquake, which is unrealistically large if we consider afterslip to be driven by coseismically induced stresses.  Figure \ref{ch3:fig:RecordSectionMain} shows the time series for the observed and predicted postseismic displacements at stations along the El Mayor-Cucapah P-axis.  We show the radial component of displacements with respect to the El Mayor-Cucapah epicenter and we also rescale the displacements so that the difference between the minimum and maximum observed displacements are the same for each station.  Our elastic slip model accurately describes near-field postseismic deformation and systematically underestimates postseismic deformation at epicentral distances ${\gtrsim}150$ km.  When the fault segments used in the inversion are extended down to 30 km depth, rather than 15 km, the systematic far-field residuals are smaller but remain apparent. Because an elastic model requires an unrealistic amount of afterslip and is unable to predict far-field deformation, we move on to consider viscoelastic models in the next section.  
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:ElasticSlip}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p06}
 \caption{Coseismic slip and cumulative afterslip over the indicated time intervals when assuming the crust and mantle are elastic.  Color indicates the magnitude of slip and arrows indicate the motion of the hanging wall.}
-\label{ch3:fig:ElasticSlip}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:RecordSectionMain}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p07}
 \caption{Scaled radial component of postseismic displacements. Downward motion indicates that the station is moving toward the El Mayor-Cucapah epicenter.  Displacement time series are scaled so that the minimum and maximum observed values lie on the grid lines.  The observed postseismic displacements, $u_\mathrm{post}$ are shown in black with gray indicating the 68\% confidence interval.  The displacements predicted by the best fitting elastic model are shown in red.  The blue and green lines are the predicted postseismic displacements for the models discussed in Section 3.3. The blue lines show the predicted displacements for the model with a Maxwell viscoelastic lower crust and upper mantle.  The green line shows the predicted displacements for our preferred model, which has a Maxwell viscoelastic lower crust and a Zener viscoelastic upper mantle.  The effective viscosities are the same for both models and are shown in Figure \ref{ch3:fig:EffectiveViscosity}.}
-\label{ch3:fig:RecordSectionMain}
 \end{figure}
 
 \subsection{Early postseismic inversion}\label{ch3:sec:InitialInversion}
@@ -179,11 +169,9 @@ For any linear viscoelastic rheology of the crust and mantle, postseismic displa
 \end{equation}
 where $f(t,x,\xi)$ describes the time-dependent velocity at $x$ resulting from viscoelastic relaxation of stresses induced by slip at $\xi$. $f$ is a function of $\lambda$, $\mu$, and any additional rheologic parameters controlling the viscoelastic response, which are generally not well known. Schematic representations of the viscoelastic rheologic models considered in this study are shown in Figure \ref{ch3:fig:Rheology}.  We discuss these rheologic models and their use in geophysical studies in Section \ref{Discussion}. 
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:Rheology}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-f08}
-\centering 
 \caption{Schematic illustration of the rheologic models considered in this paper as well as their effective viscosities.}
-\label{ch3:fig:Rheology}
 \end{figure}
 
 In order to greatly simplify the inverse problem, we use the method described in \citet{Hines2016} to constrain an initial effective viscosity structure from the early postseismic deformation.  Our method uses the fact that coseismic stresses throughout the crust and upper mantle depend on the instantaneous elastic parameters and are independent of the viscoelastic parameters which we wish to estimate. Immediately following an earthquake, each parcel will have a strain rate that is proportional to the coseismic stress and inversely proportional to the parcel's effective viscosity, $\eta_\mathrm{eff}$.  Using one-dimensional rheologic models, we define the effective viscosity as
@@ -208,19 +196,16 @@ Details on how eq. (\ref{ApproxForward}) is used to estimate $s$ and $\eta_\math
 
 We estimate coseismic slip and afterslip with the same spatial and temporal discretization as in Section \ref{ch3:sec:ElasticInversion}. Simultaneously, we estimate $\eta_{\mathrm{eff}}$ within six vertically stratified layers which have depths ranging from 15-30 km, 30-60 km, 60-90 km, 90-120 km, 120-150 km, and from 150 km to the bottom of our numerical model domain at 800 km.  We again restrict fault slip to occur between 0 and 15 km depth, which is done in order to help eliminate inevitable non-uniqueness in the inversion.  It is well understood that fault slip at sufficiently great depths can produce surface deformation that is indistinguishable from viscoelastic relaxation, at least in two-dimensional earthquake models \citep{Savage1990}.  Additionally, we note that when simultaneously estimating both afterslip and viscosity in the lower crust, the inverse problem becomes particularly ill-posed. This ill-posedness is illustrated in Figure \ref{ch3:fig:LowerCrust}, which shows the displacements resulting from a meter of slip on a fault extending from 15 to 30 km depth and the initial velocity resulting from subsequent viscoelastic relaxation in the lower crust, which is given a viscosity of $10^{18}$ Pa s.  In this demonstration, the viscoelastic relaxation is entirely driven by the fault slip in the lower crust.  The horizontal displacements from fault slip are in the opposite direction as the displacements resulting from viscoelastic relaxation.  This means that surface displacements resulting from afterslip at lower crustal depths can be cancelled out, at least partially, by a low viscosity lower crust.  We eliminate this null space by allowing only one mechanism in the lower crust, which we choose to be viscoelastic relaxation.  This is not to say that we do not believe deep afterslip is a possibility; rather, we restrict slip to seismogenic depths as a modeling necessity. Although, it has been noted that the pattern of vertical postseismic deformation following the El Mayor-Cucpah earthquake indicates that a significant amount of afterslip must be shallow \citep{Rollins2015}.  
  
-\begin{figure}
+\begin{figure}\label{ch3:fig:LowerCrust}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p09}
 \caption{Displacements resulting from fault slip at lower crustal depths (a), and initial velocities resulting from subsequent relaxation of a viscoelastic lower crust (b).  The fault segment dips $75^\circ$ to the north-east and its surface projection is outlined in magenta.  The highlighted area on the fault extends from 15 to 30 km depth and indicates where 1 meter of right-lateral slip was imposed.  The elastic properties of the crust and mantle are the same as in Table 1, and $\eta_\mathrm{eff}$  is $10^{18}$ Pa s in the lower crust.  Vertical displacements are interpolated between station locations.}
-\label{ch3:fig:LowerCrust}
 \end{figure}
  
 We must determine at which point the early postseismic approximation breaks down, which we will denote as $t_{\mathrm{bd}}$.  As noted, eq. (\ref{ApproxForward}) is valid for as long as the rate of deformation resulting from viscoelastic relaxation is approximately constant. We can almost certainly assume that deformation at the most far-field stations, which are ${\sim}400$ km away from the El Mayor-Cucapah epicenter, is the result of viscoelastic relaxation. The approximation should then be valid for as long as a linear trend adequately approximates the far-field deformation. Using this logic, it would appear that $t_{\mathrm{bd}}$ is about one year after the El Mayor-Cucapah earthquake.  Another way to determine $t_{\mathrm{bd}}$ is to find the best fitting prediction of eq. (\ref{ApproxForward}) to observed deformation using increasing durations of the postseismic time series.  $t_\mathrm{bd}$ should be the point when eq. (\ref{ApproxForward}) is no longer capable of describing the observed deformation without incurring systematic misfits.  When using eq. (\ref{ApproxForward}) to fit the entire five years of postseismic displacements, we see that the near-field displacements (e.g., station P501) are accurately predicted. When looking at displacements in the far-field (e.g., station P621), we see that eq. (\ref{ApproxForward}) overestimates the rate of deformation in the later postseismic period and underestimates the rate of deformation in the early period (Figure \ref{ch3:fig:RecordSection1}).  Due to the low signal-to-noise ratios for far-field stations, it is difficult to determine at what point eq. (\ref{ApproxForward}) is no longer able to predict the observed displacements; however, we settle on $t_{\mathrm{bd}}=0.8$ years after the earthquake, while acknowledging that the choice is subjective. As noted in \citet{Hines2016}, overestimating $t_{\mathrm{bd}}$ will result in a bias towards overestimating $\eta_{\mathrm{eff}}$, while picking a $t_\mathrm{bd}$ which is too low will not necessarily result in a biased estimate of $\eta_\mathrm{eff}$, although the uncertainties would be larger. We can then consider inferences of $\eta_{\mathrm{eff}}$ to be an upper bound on the viscosity needed to describe the far-field rate of deformation during the first 0.8 years of postseismic deformation. 
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:RecordSection1}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p10}
-\centering 
 \caption{Observed postseismic displacements (black) and best fitting predictions of eq. (\ref{ApproxForward}) to 5.0 (blue), 3.0 (green), and 0.8 (yellow) years of the postseismic data.} 
-\label{ch3:fig:RecordSection1}
 \end{figure}
 
 We estimate coseismic slip, afterslip, and effective viscosities by solving 
@@ -238,17 +223,14 @@ Our initial estimate for coseismic slip and cumulative afterslip over the first 
 
 Our estimated effective viscosities, and corresponding fluidities, are shown in Figure \ref{ch3:fig:EffectiveViscosity}.  Although fluidity is rarely used in geophysical literature, eq. (\ref{InitialRate}) is linear with respect to fluidity and so the fluidity indicates the amplitude of the viscoelastic signal coming from each layer.  We use bootstrapping to find the 95\% confidence intervals for our estimated effective viscosities which are shown as shaded regions in Figure \ref{ch3:fig:EffectiveViscosity}.  It is important to remember that the presented effective viscosities were estimated with a smoothing regularization constraint and so the uncertainties are almost certainly underestimated \citep{Aster2011}.  Indeed, many viscosity profiles which are outside of the shown confidence intervals can just as adequately described the first 0.8 years of postseismic deformation. Our solution in Figure \ref{ch3:fig:EffectiveViscosity} should be interpreted as the smoothest effective viscosity profile which is capable of describing the data.  This means that any  sharp viscosity transitions will be tapered out in the inversion, which we demonstrate with a synthetic test in Figure S2.  Nonetheless, a robust feature that we see with a variety of choices for $\lambda_s$, $\lambda_\eta$, and $t_\mathrm{bd}$ is that the largest jump in fluidity is at 60 km depth, which is consistent with the range of lithosphere-asthenosphere boundary depths inferred by \citet{Lekic2011}. This transitional depth is also consistent with the the viscosity structure required to explain far-field postseismic deformation following the Hector Mine earthquake \citep{Freed2007a}. We find that the viscosity below 60 km depth needs to be ${\sim}1\times10^{18}$ Pa s to describe the early rate of postseismic deformation at far-field stations while the lower crust and uppermost mantle need to be relatively stronger.  The viscosity of the lower crust has the largest uncertainties because there is no evidence of relaxation in that layer, meaning that it is effectively elastic over the first 0.8 years after the earthquake.  
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:InitialSlip}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p11}
 \caption{Coseismic slip and afterslip inferred by fitting eq. (\ref{ApproxForward}) to the first 0.8 years of postseismic displacements.}
-\label{ch3:fig:InitialSlip}
 \end{figure} 
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:EffectiveViscosity}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p12}
-\centering 
 \caption{Effective viscosities and associated fluidities inferred by fitting eq. (\ref{ApproxForward}) to the first 0.8 years of postseismic displacements. 95\% confidence intervals, estimated from bootstrapping, are indicated by shaded regions.}
-\label{ch3:fig:EffectiveViscosity}
 \end{figure} 
 
 \subsection{Full postseismic inversion}\label{ch3:sec:FullInversion} 
@@ -263,11 +245,9 @@ We first assume that the crust and mantle can be described with a Maxwell rheolo
 
 Instead of exploring a Burgers rheology mantle, which introduces two new parameters that need to be estimated, the transient viscosity, $\eta_{K}$, and transient shear modulus, $\mu_{K}$, we first consider a Zener rheology for the mantle, which only introduces one unknown model parameter, $\mu_{K}$.  We assume that the lower crust still has a Maxwell rheology. The steady-state viscosity in the crust and the transient viscosity in the mantle are set equal to the inferred effective viscosities.  We then estimate the ratio of shear moduli, $\frac{\mu_K}{\mu}$. We compute nine different sets of Green's functions, $f$ and $g$, where we assume values of $\frac{\mu_K}{\mu}$ ranging from 0 to 1. The former being a degenerate case where the Zener model reduces to the above Maxwell model.  We estimate coseismic slip and afterslip for each realization of $\frac{\mu_K}{\mu}$.  We find that a shear moduli ratio of 0.375 yields the best prediction to the observed postseismic displacements with a misfit of $\bar\chi^2=31.2$ (Figure \ref{ch3:fig:ShearModulusRatio}).  The improvement in the Zener model over the Maxwell model can be seen in the fit to the far-field data (Figure \ref{ch3:fig:RecordSectionMain}) where the Zener model does a significantly better job at explaining the transient rate of deformation throughout the five years considered in this study.  The rheologic parameters for our preferred Zener model are summarized in Table 1.
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:ShearModulusRatio}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-f13}
-\centering 
 \caption{Mean chi-squared value as a function of the transient shear modulus relative to the elastic shear modulus in a Zener rheology upper mantle. Large dot indicates our preferred ratio.}
-\label{ch3:fig:ShearModulusRatio}
 \end{figure}
 
 Because we are able to adequately describe the available five years of postseismic deformation with a Zener model, we do not find it necessary to explore the parameter space for a more complicated Burgers rheology.  However, since the Zener model is a Burgers model with an infinite steady-state viscosity, we can conclude that any Burgers rheology that has a transient viscosity consistent with that found in Section \ref{ch3:sec:InitialInversion} and a steady-state viscosity $\gtrsim10^{20}$ Pa s, which is effectively infinite on the time scale of five years, would also be able to satisfactorily describe the observable postseismic deformation.        
@@ -276,11 +256,9 @@ The regularized inference of coseismic slip and afterslip for our preferred Zene
 
 The postseismic displacements predicted by our preferred Zener model are shown in Figures \ref{ch3:fig:NearField}, \ref{ch3:fig:FarField} and \ref{ch3:fig:RecordSectionMain}.  The largest misfit occur within the Imperial Valley where there does not appear to be any systematic trend in the residuals.  This suggests that the large errors are due to localized processes such as fault slip in the Imperial Valley triggered by the El Mayor-Cucapah earthquake \citep{Wei2011a,Wei2015}.  We do not see any pattern in the residuals that would suggest a laterally heterogeneous viscosity structure, which has been explored by \citet{Pollitz2012} and \citet{Rollins2015}.  We do notice regional scale seasonal oscillations in the lateral and vertical components of the residuals with an amplitude of 1-2 millimeters.  This is the result of our method for data processing which is not able to completely remove the seasonal signal in the GPS data, which was discussed in Section \ref{ch3:sec:Data}.  Additionally, we see systematic misfit in the later postseismic period west of the Landers and Hector Mine earthquakes, which may be the result of unmodeled postseismic deformation following those earthquakes.  Lastly, there are clear discrepancies between the observed and predicted vertical displacements following the first year after the El Mayor-Cucapah earthquake. We observe a broad uplift throughout Southern California which is inconsistent with any postseismic model.
 
-\begin{figure}
+\begin{figure}\label{ch3:fig:FinalSlip}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p14}
-\centering 
 \caption{Inferred coseismic slip and afterslip for our preferred model, which has a Maxwell rheology in the lower crust and a Zener rheology in the upper mantle.  The transient viscosity, $\eta_K$, in the mantle and steady-state viscosity, $\eta_M$, in the crust are set equal to the effective viscosities from Figure \ref{ch3:fig:EffectiveViscosity}. We use $\frac{\mu_K}{\mu}=0.375$ in the upper mantle.}
-\label{ch3:fig:FinalSlip}
 \end{figure}
   
 \section{Discussion}\label{Discussion}
@@ -302,10 +280,9 @@ Figures S1 and S2 provide additional information about the inversion in Section 
 text. Figures S3 and S4 show the predicted displacements, which have been decomposed into
 elastic and viscoelastic components, for the preferred model from Section 3.3.
 
-\begin{figure}
+\begin{figure}\label{fig:S1}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-fS01}
-\caption{
-Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lambda_\eta$ in eq.  
+\caption{Trade-off curves used to determine the damping parameters $\lambda_s$ and $\lambda_\eta$ in eq.  
 (15) of the main text.  The left panel shows the trade-off curve for the fault slip penalty
 parameter, $\lambda_s$.  We pick $\lambda_s$ while keeping the penalty parameter for fluidity,
 $\lambda_\eta$, fixed at zero.  The right panel shows the trade of curve for selecting
@@ -313,15 +290,12 @@ $\lambda_\eta$, where we fix $\lambda_s$ at the chosen value from the left panel
 are indicated with the larger marker.  When picking $\lambda_s$, we try to find a good balance
 between the mean chi-squared value, $\bar{\chi}^2$, and the size of the slip parameters,
 $||s||$.  Our choice of $\lambda_\eta$ is a balance between $\bar{\chi}^2$ and the size of the
-Laplacian of fluidity, $||\nabla \eta_\mathrm{eff}^{-1}||$.
-}
-\label{fig:S1}
+Laplacian of fluidity, $||\nabla \eta_\mathrm{eff}^{-1}||$.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{fig:S2}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS02}
-\caption{
-Checkerboard test used to assess the resolving power of the inversion in Section 3.2 of the main 
+\caption{Checkerboard test used to assess the resolving power of the inversion in Section 3.2 of the main 
 text.  We create synthetic data at all of the GPS stations considered in this study by
 evaluating eq. (14) with the synthetic coseismic slip distribution and fluidity distributions.
 Our synthetic fluidity model has a jump from 0.0 to $10^{-18}$ Pa$^{-1}$ s$^{-1}$ at 60 km
@@ -331,35 +305,27 @@ as described in the main text and we also use the same penalty parameters.  We d
 noise to our synthetic data so that the recovered model just indicates how much the
 regularization influences the solution.  Note that our ability to recover slip decreases towards
 the southern end of the fault, farthest from the available data.  Also note that the smoothing
-constraint on fluidity largely obscures the jump in the synthetic model.
-}
-\label{fig:S2}
+constraint on fluidity largely obscures the jump in the synthetic model.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{fig:S3}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS03}
-\caption{
-Elastic (black) and viscoelastic (green) components of the near-field predicted displacements
+\caption{Elastic (black) and viscoelastic (green) components of the near-field predicted displacements
 for the preferred Zener model from Section 3.3.  The elastic component is the deformation
 resulting from fault slip and the viscoelastic component is the deformation resulting from
 viscoelastic relaxation of stresses induced by the fault slip.  The elastic and viscoelastic
 components are calculated from the first and second terms in eq. (11), respectively.  The
 vertical elastic component is shown as an interpolated field and the vertical viscoelastic
-component is shown within the green circles.
-}
-\label{fig:S3}
+component is shown within the green circles.}
 \end{figure}
 
-\begin{figure}
+\begin{figure}\label{fig:S4}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS04}
-\caption{
-Same as figure S3 but for far-field stations.
-}
-\label{fig:S4}
+\caption{Same as figure S3 but for far-field stations.}
 \end{figure}
 
 \section{Acknowledgements}
 We thank Andy Freed for an illuminating discussion on the data used in this study.  We thank Fred Pollitz and an anonymous reviewer for comments that improved this manuscript. We also thank the editor, Martha Savage.  This material is based on EarthScope Plate Boundary Observatory data services provided by UNAVCO through the GAGE Facility with support from the National Science Foundation (NSF) and National Aeronautics and Space Administration (NASA) under NSF Cooperative Agreement No. EAR-1261833.  The data used in this study can be found at www.unavco.org. This material is based upon work supported by the National Science Foundation under Grant Numbers EAR 1045372 and EAR 1245263.
 
-\bibliographystyle{ch3/agu04}
-\bibliography{ch3/refs3}
+\bibliographystyle{agu04}
+\bibliography{refs}

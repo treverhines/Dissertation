@@ -3,7 +3,7 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ch2/ch2.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 5069 of file refs.bib
+Repeated entry---line 740 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
@@ -11,37 +11,37 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Aster2011
 You've used 42 entries,
             3098 wiz_defined-function locations,
-            1380 strings with 17759 characters,
-and the built_in function-call counts, 42218 in all, are:
-= -- 4821
-> -- 1430
+            1380 strings with 17788 characters,
+and the built_in function-call counts, 42301 in all, are:
+= -- 4827
+> -- 1443
 < -- 26
-+ -- 799
-- -- 342
-* -- 2705
-:= -- 3737
++ -- 805
+- -- 345
+* -- 2711
+:= -- 3746
 add.period$ -- 42
 call.type$ -- 42
-change.case$ -- 237
+change.case$ -- 238
 chr.to.int$ -- 41
 cite$ -- 127
-duplicate$ -- 4469
-empty$ -- 2298
-format.name$ -- 478
-if$ -- 8493
+duplicate$ -- 4472
+empty$ -- 2299
+format.name$ -- 481
+if$ -- 8511
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 448
+missing$ -- 449
 newline$ -- 133
 num.names$ -- 168
-pop$ -- 1734
+pop$ -- 1737
 preamble$ -- 1
-purify$ -- 198
+purify$ -- 199
 quote$ -- 0
-skip$ -- 2755
+skip$ -- 2762
 stack$ -- 0
 substring$ -- 1732
-swap$ -- 3858
+swap$ -- 3860
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0

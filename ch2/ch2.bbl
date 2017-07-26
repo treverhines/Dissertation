@@ -32,13 +32,14 @@ Barbot, S., Y.~Fialko, and Y.~Bock (2009), {Postseismic deformation due to the
   Geophysical Research: Solid Earth}, \textit{114}, 1--26,
   \doi{10.1029/2008JB005748}.
 
-\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ergintav,
-  Segall, Hearn, McClusky, Reilinger, Woith, and Zschau}}]{Burgmann2002}
-B{\"{u}}rgmann, R., S.~Ergintav, P.~Segall, E.~H. Hearn, S.~McClusky, R.~E.
-  Reilinger, H.~Woith, and J.~Zschau (2002), {Time-dependent distributed
-  afterslip on and deep below the İzmit earthquake rupture}, \textit{Bulletin
-  of the Seismological Society of America}, \textit{92}(February), 126--137,
-  \doi{10.1785/0120000833}.
+\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ayhan,
+  Fielding, Wright, McClusky, Aktug, Demir, Lenk, and
+  T{\"{u}}rkezer}}]{Burgmann2002}
+B{\"{u}}rgmann, R., M.~E. Ayhan, E.~J. Fielding, T.~J. Wright, S.~McClusky,
+  B.~Aktug, C.~Demir, O.~Lenk, and A.~T{\"{u}}rkezer (2002), {Deformation
+  during the 12 November 1999 D{\"{u}}zce, Turkey, earthquake, from GPS and
+  InSAR data}, \textit{Bulletin of the Seismological Society of America},
+  \textit{92}(February), 161--171, \doi{10.1785/0120000834}.
 
 \bibitem[{\textit{Chinnery and Jovanovich}(1972)}]{Chinnery1972}
 Chinnery, M.~A., and D.~B. Jovanovich (1972), {Effect of earth layering on

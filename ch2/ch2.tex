@@ -212,7 +212,6 @@ demonstrated by \citet{Segall2010} for an elastic layer over a Maxwell
 viscoelastic substrate. 
 
 \begin{figure}\label{figure1}
-  \centering 
   \includegraphics{ch2/figures/Fig1.pdf}
   \caption{Surface displacements predicted by
     eq. (\ref{TwoLayerViscous}) truncated after ten terms (green) and
@@ -223,7 +222,6 @@ viscoelastic substrate.
     function of distance from the fault at times $t/\tau_2 =
     0.0,0.5,1.0$ and $1.5$. The inset figure shows displacement time
     series at locations $x/D = 1, 2, 4$ and $8$.}
-  \label{Figure 1}
 \end{figure} 
 
 Fig. 1 shows the series solution from eq. (\ref{TwoLayerViscous})
@@ -483,7 +481,6 @@ computational burden is in computing $F_i(x)$ and $G_{ij}(x)$ which
 only needs to be done once for a given fault and lithosphere geometry.
 
 \begin{figure}\label{figure2}
-  \centering
   \includegraphics{ch2/figures/Fig2.pdf}
   \caption{L-curves used to select the penalty parameters. Panel (a)
     shows the trade-off between slip smoothness and data misfit while
@@ -492,7 +489,6 @@ only needs to be done once for a given fault and lithosphere geometry.
     misfit while varying $\lambda_v$ and keeping $\lambda_s$ fixed at
     the value chosen from Panel (a).  Stars indicate our chosen penalty
     parameters.}
-  \label{Figure 2}
 \end{figure}
 
 \section{Synthetic test}\label{SynthTest}
@@ -567,7 +563,6 @@ creep.
 \subsection{Synthetic model with Maxwell viscoelasticity}\label{MaxModel}
 
 \begin{figure}\label{figure3}
-  \centering
   \includegraphics{ch2/figures/Fig3.pdf}
   \caption{Slip distribution imposed in both synthetic models (left),
     slip recovered for the synthetic model with Maxwell
@@ -579,21 +574,17 @@ creep.
     slip uncertainties are the standard deviation of inferred slip
     magnitude during the specified period, which were derived from 100
     iterations of bootstrapping.}
-  \label{Figure 3}
 \end{figure}
 
 \begin{figure}\label{figure4}
-  \centering
   \includegraphics{ch2/figures/Fig4.pdf}
   \caption{Synthetic and recovered lithospheric viscosities (left)
     and associated fluidities (right).  Semi-transparent lines are recovered
     models found through bootstrapping and indicate the degree of
     uncertainty on the inferred viscosity structure.}
-  \label{Figure 4}
 \end{figure}
 
 \begin{figure}\label{figure5}
-  \centering
   \includegraphics{ch2/figures/Fig5.pdf}
   \caption{Synthetic surface displacements (black) and best fitting
     surface displacements using eq. (\ref{Postseismic_Approximation2})
@@ -604,7 +595,6 @@ creep.
     deviation uncertainty in the synthetic data. Red dot indicates the
     position of the time series shown in Fig. 6 and Fig. 9. The surface
     projection of the discretized synthetic fault is depicted in red.}
-  \label{Figure 5}
 \end{figure}
 
 The lithosphere in our first synthetic model is Maxwell viscoelastic
@@ -693,7 +683,6 @@ afterslip and fluidity in layers below 30 km depth.
 \subsubsection{Validation}\label{Validation}
 
 \begin{figure}\label{figure6}
-  \centering
   \includegraphics{ch2/figures/Fig6.pdf}
   \caption{Displacement time series for the position shown in Fig. 5
     (black), best fitting surface displacements using the
@@ -701,17 +690,14 @@ afterslip and fluidity in layers below 30 km depth.
     and surface displacements computed with PyLith using the inferred
     slip distribution and viscosity structure (red). Coseismic displacements
     at $t=0$ are not shown.}
-  \label{Figure 6}
 \end{figure}
 
 \begin{figure}\label{figure7}
-  \centering
   \includegraphics{ch2/figures/Fig7.pdf}
   \caption{Approximation error at $t=10$ years and $t=20$ years.
     Circles with 1 mm radius are centered at each station to compare
     the accuracy of $\vec{u}(\vec{x},t)$ to the noise in
     the synthetic data.}
-  \label{Figure 7}
 \end{figure}
 
 The fact that our recovered fault slip and lithospheric viscosity are
@@ -849,7 +835,6 @@ each of the recovered models to see how well they predict the later
 deformation.
 
 \begin{figure}\label{figure8}
-  \centering
   \includegraphics{ch2/figures/Fig8.pdf}
   \caption{Synthetic and recovered lithospheric viscosities (left) and
     fluidities (right) for the synthetic model with a Burgers
@@ -861,25 +846,20 @@ deformation.
     2.0, and 5.0 year long time series, respectively.  The light red
     lines are the bootstrapped fluidities and viscosities inferred
     using the 0.5 year time series.}
-  \label{Figure 8}
 \end{figure}
 
 \begin{figure}\label{figure9}
-  \centering
   \includegraphics{ch2/figures/Fig9.pdf}
   \caption{Afterslip moment over time for the synthetic model (black) and
     the inferred afterslip moment when inverting 0.5, 2.0, and 5.0 years of
     displacements (red, green, and blue)}.
-  \label{Figure 9}
 \end{figure}
 
 \begin{figure}\label{figure10}
-  \centering
   \includegraphics{ch2/figures/Fig10.pdf}
   \caption{Synthetic and predicted displacement time series with
     length 0.5, 2.0, and 5.0 years.  The time series shown is for the
     observation point indicated in Fig 5.}
-  \label{Figure 10}
 \end{figure}
 
 \section{Discussion}
