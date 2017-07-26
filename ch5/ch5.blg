@@ -1,15 +1,15 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ch5/ch5.aux
-The style file: ch5/agu04.bst
-Database file #1: ch5/refs5.bib
+The style file: agu04.bst
+Database file #1: refs.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
 You've used 58 entries,
             3098 wiz_defined-function locations,
-            1485 strings with 20567 characters,
+            1485 strings with 20558 characters,
 and the built_in function-call counts, 58532 in all, are:
 = -- 6679
 > -- 2016

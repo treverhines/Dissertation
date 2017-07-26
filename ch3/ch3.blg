@@ -1,9 +1,9 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: ch3/ch3.aux
-The style file: ch3/agu04.bst
-Database file #1: ch3/refs3.bib
-Repeated entry---line 3610 of file ch3/refs3.bib
+The style file: agu04.bst
+Database file #1: refs.bib
+Repeated entry---line 4417 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
@@ -11,7 +11,7 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Aster2011
 You've used 56 entries,
             3098 wiz_defined-function locations,
-            1491 strings with 22156 characters,
+            1491 strings with 22147 characters,
 and the built_in function-call counts, 61572 in all, are:
 = -- 7254
 > -- 2075

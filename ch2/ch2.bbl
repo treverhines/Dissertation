@@ -1,0 +1,260 @@
+\begin{thebibliography}{42}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Aagaard et~al.}(2013)\textit{Aagaard, Knepley, and
+  Williams}}]{Aagaard2013}
+Aagaard, B.~T., M.~G. Knepley, and C.~A. Williams (2013), {A domain
+  decomposition approach to implementing fault slip in finite-element models of
+  quasi-static and dynamic crustal deformation}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{118}, 3059--3079, \doi{10.1002/jgrb.50217}.
+
+\bibitem[{\textit{Aster et~al.}(2011)\textit{Aster, Borchers, and
+  Thurber}}]{Aster2011}
+Aster, R.~C., B.~Borchers, and C.~H. Thurber (2011), \textit{{Parameter
+  Estimation and Inverse Problems}}, vol.~90, 360 pp.
+
+\bibitem[{\textit{Barbot and Fialko}(2010)}]{Barbot2010}
+Barbot, S., and Y.~Fialko (2010), {A unified continuum representation of
+  post-seismic relaxation mechanisms: Semi-analytic models of afterslip,
+  poroelastic rebound and viscoelastic flow}, \textit{Geophysical Journal
+  International}, \textit{182}(3), 1124--1140,
+  \doi{10.1111/j.1365-246X.2010.04678.x}.
+
+\bibitem[{\textit{Barbot et~al.}(2009)\textit{Barbot, Fialko, and
+  Bock}}]{Barbot2009}
+Barbot, S., Y.~Fialko, and Y.~Bock (2009), {Postseismic deformation due to the
+  Mw 6.0 2004 Parkfield earthquake: Stress-driven creep on a fault with
+  spatially variable rate-and-state friction parameters}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{114}, 1--26,
+  \doi{10.1029/2008JB005748}.
+
+\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ergintav,
+  Segall, Hearn, McClusky, Reilinger, Woith, and Zschau}}]{Burgmann2002}
+B{\"{u}}rgmann, R., S.~Ergintav, P.~Segall, E.~H. Hearn, S.~McClusky, R.~E.
+  Reilinger, H.~Woith, and J.~Zschau (2002), {Time-dependent distributed
+  afterslip on and deep below the İzmit earthquake rupture}, \textit{Bulletin
+  of the Seismological Society of America}, \textit{92}(February), 126--137,
+  \doi{10.1785/0120000833}.
+
+\bibitem[{\textit{Chinnery and Jovanovich}(1972)}]{Chinnery1972}
+Chinnery, M.~A., and D.~B. Jovanovich (1972), {Effect of earth layering on
+  earthquake displacement fields}, \textit{Bulletin of the Seismological
+  Society of America}, \textit{62}(6), 1629--1639.
+
+\bibitem[{\textit{Desbrun et~al.}(1999)\textit{Desbrun, Meyer, Schr{\"{o}}der,
+  and Barr}}]{Desbrun1999}
+Desbrun, M., M.~Meyer, P.~Schr{\"{o}}der, and A.~H. Barr (1999), {Implicit
+  fairing of irregular meshes using diffusion and curvature flow},
+  \textit{Proceedings of the 26th annual conference on Computer graphics and
+  interactive techniques - SIGGRAPH '99}, \textit{33}, 317--324,
+  \doi{10.1145/311535.311576}.
+
+\bibitem[{\textit{Ergintav et~al.}(2009)\textit{Ergintav, McClusky, Hearn,
+  Reilinger, Cakmak, Herring, Ozener, Lenk, and Tari}}]{Ergintav2009}
+Ergintav, S., S.~McClusky, E.~Hearn, R.~Reilinger, R.~Cakmak, T.~Herring,
+  H.~Ozener, O.~Lenk, and E.~Tari (2009), {Seven years of postseismic
+  deformation following the 1999, M = 7.4 and M = 7.2, Izmit-D{\"{u}}zce,
+  Turkey earthquake sequence}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{114}, \doi{10.1029/2008JB006021}.
+
+\bibitem[{\textit{Fl{\"{u}}gge}(1975)}]{Flugge1975}
+Fl{\"{u}}gge, W. (1975), \textit{{Viscoelasticity}}, Springer-Verlag Berlin
+  Heidelberg, \doi{10.1007/978-3-662-02276-4}.
+
+\bibitem[{\textit{Freed}(2007)}]{Freed2007}
+Freed, A.~M. (2007), {Afterslip (and only afterslip) following the 2004
+  Parkfield, California, earthquake}, \textit{Geophysical Research Letters},
+  \textit{34}, 1--5, \doi{10.1029/2006GL029155}.
+
+\bibitem[{\textit{Freed et~al.}(2006{\natexlab{a}})\textit{Freed,
+  B{\"{u}}rgmann, Calais, and Freymueller}}]{Freed2006b}
+Freed, A.~M., R.~B{\"{u}}rgmann, E.~Calais, and J.~Freymueller
+  (2006{\natexlab{a}}), {Stress-dependent power-law flow in the upper mantle
+  following the 2002 Denali, Alaska, earthquake}, \textit{Earth and Planetary
+  Science Letters}, \textit{252}, 481--489, \doi{10.1016/j.epsl.2006.10.011}.
+
+\bibitem[{\textit{Freed et~al.}(2006{\natexlab{b}})\textit{Freed,
+  B{\"{u}}rgmann, Calais, Freymueller, and Hreinsd{\'{o}}ttir}}]{Freed2006a}
+Freed, A.~M., R.~B{\"{u}}rgmann, E.~Calais, J.~Freymueller, and
+  S.~Hreinsd{\'{o}}ttir (2006{\natexlab{b}}), {Implications of deformation
+  following the 2002 Denali, Alaska, earthquake for postseismic relaxation
+  processes and lithospheric rheology}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{111}(B01401), 1--23,
+  \doi{10.1029/2005JB003894}.
+
+\bibitem[{\textit{Fukahata and Matsu'ura}(2006)}]{Fukahata2006}
+Fukahata, Y., and M.~Matsu'ura (2006), {Quasi-static internal deformation due
+  to a dislocation source in a multilayered elastic/viscoelastic half-space and
+  an equivalence theorem}, \textit{Geophysical Journal International},
+  \textit{166}(1), 418--434, \doi{10.1111/j.1365-246X.2006.02921.x}.
+
+\bibitem[{\textit{Harris and Segall}(1987)}]{Harris1987}
+Harris, R.~a., and P.~Segall (1987), {Detection of a locked zone at depth on
+  the Parkfield, California, segment of the San Andreas Fault}, \textit{Journal
+  of Geophysical Research}, \textit{92}, 7945, \doi{10.1029/JB092iB08p07945}.
+
+\bibitem[{\textit{Hearn et~al.}(2002)\textit{Hearn, B{\"{u}}rgmann, and
+  Reilinger}}]{Hearn2002}
+Hearn, E.~H., R.~B{\"{u}}rgmann, and R.~E. Reilinger (2002), {Dynamics of
+  İzmit earthquake postseismic deformation and loading of the D{\"{u}}zce
+  earthquake hypocenter}, \textit{Bulletin of the Seismological Society of
+  America}, \textit{92}(1), 172--193, \doi{10.1785/0120000832}.
+
+\bibitem[{\textit{Hearn et~al.}(2009)\textit{Hearn, McClusky, Ergintav, and
+  Reilinger}}]{Hearn2009}
+Hearn, E.~H., S.~McClusky, S.~Ergintav, and R.~E. Reilinger (2009), {Izmit
+  earthquake postseismic deformation and dynamics of the North Anatolian Fault
+  Zone}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{114}(B08405), 1--21, \doi{10.1029/2008JB006026}.
+
+\bibitem[{\textit{Hetland}(2003)}]{Hetland2003}
+Hetland, E.~A. (2003), {Postseismic relaxation across the Central Nevada
+  Seismic Belt}, \textit{Journal of Geophysical Research}, \textit{108}(B8),
+  1--13, \doi{10.1029/2002JB002257}.
+
+\bibitem[{\textit{Hetland and Hager}(2005)}]{Hetland2005}
+Hetland, E.~A., and B.~H. Hager (2005), {Postseismic and interseismic
+  displacements near a strike-slip fault: A two-dimensional theory for general
+  linear viscoelastic rheologies}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{110}, 1--21, \doi{10.1029/2005JB003689}.
+
+\bibitem[{\textit{Hetland and Zhang}(2014)}]{Hetland2014}
+Hetland, E.~A., and G.~Zhang (2014), {Effect of shear zones on post-seismic
+  deformation with application to the 1997 Mw 7.6 manyi earthquake},
+  \textit{Geophysical Journal International}, \textit{206}(2), 1--11,
+  \doi{10.1093/gji/ggu127}.
+
+\bibitem[{\textit{Hines and Hetland}(2013)}]{Hines2013}
+Hines, T.~T., and E.~A. Hetland (2013), {Bias in estimates of lithosphere
+  viscosity from interseismic deformation}, \textit{Geophysical Research
+  Letters}, \textit{40}(16), 4260--4265, \doi{10.1002/grl.50839}.
+
+\bibitem[{\textit{Hsu et~al.}(2006)\textit{Hsu, Simons, Avouac, Galetzka, Sieh,
+  Chlieh, Natawidjaja, Prawirodirdjo, and Bock}}]{Hsu2006}
+Hsu, Y.-J., M.~Simons, J.-P. Avouac, J.~Galetzka, K.~Sieh, M.~Chlieh,
+  D.~Natawidjaja, L.~Prawirodirdjo, and Y.~Bock (2006), {Frictional Afterslip
+  Following the 2005 Nias-Simeulue Earthquake, Sumatra}, \textit{Science},
+  \textit{312}(June), 1921--1926.
+
+\bibitem[{\textit{Johnson and Segall}(2004)}]{Johnson2004}
+Johnson, K.~M., and P.~Segall (2004), {Viscoelastic earthquake cycle models
+  with deep stress-driven creep along the San Andreas fault system},
+  \textit{Journal of Geophysical Research B: Solid Earth},
+  \textit{109}(B10403), 1--19, \doi{10.1029/2004JB003096}.
+
+\bibitem[{\textit{Johnson et~al.}(2009)\textit{Johnson, B{\"{u}}rgmann, and
+  Freymueller}}]{Johnson2009}
+Johnson, K.~M., R.~B{\"{u}}rgmann, and J.~T. Freymueller (2009), {Coupled
+  afterslip and viscoelastic flow following the 2002 Denali Fault, Alaska
+  earthquake}, \textit{Geophysical Journal International}, \textit{176}(3),
+  670--682, \doi{10.1111/j.1365-246X.2008.04029.x}.
+
+\bibitem[{\textit{Kenner and Segall}(2003)}]{Kenner2003}
+Kenner, S.~J., and P.~Segall (2003), {Lower crustal structure in northern
+  California: Implications from strain rate variations following the 1906 San
+  Francisco earthquake}, \textit{Journal of Geophysical Research},
+  \textit{108}(B1), \doi{10.1029/2001JB000189}.
+
+\bibitem[{\textit{Kirby and Kronenberg}(1987)}]{Kirby1987}
+Kirby, S.~H., and A.~K. Kronenberg (1987), {Rheology of the Lithosphere '
+  Selected Topics}, \textit{Reviews of Geophysics}, \textit{25}, 12191,244.
+
+\bibitem[{\textit{Lawson and Hanson}(1995)}]{Lawson1995}
+Lawson, C.~L., and R.~J. Hanson (1995), {Solving least squares problems},
+  \textit{SIAM classics in applied mathematics}, \textit{15}, 337,
+  \doi{10.2307/2005340}.
+
+\bibitem[{\textit{Marone et~al.}(1991)\textit{Marone, Scholz, and
+  Bilham}}]{Marone1991}
+Marone, C.~J., C.~H. Scholz, and R.~Bilham (1991), {On the mechanics of
+  earthquake afterslip}, \textit{Journal of Geophysical Research},
+  \textit{96}(B5), 8441--8452.
+
+\bibitem[{\textit{Meade}(2007)}]{Meade2007}
+Meade, B.~J. (2007), {Algorithms for the calculation of exact displacements,
+  strains, and stresses for triangular dislocation elements in a uniform
+  elastic half space}, \textit{Computers and Geosciences}, \textit{33}(8),
+  1064--1075, \doi{10.1016/j.cageo.2006.12.003}.
+
+\bibitem[{\textit{Nur and Mavko}(1974)}]{Nur1974}
+Nur, A., and G.~Mavko (1974), {Postseismic viscoelastic rebound},
+  \textit{Science}, \textit{183}(4121), 204--206, \doi{10.1038/098448b0}.
+
+\bibitem[{\textit{Okada}(1992)}]{Okada1992}
+Okada, Y. (1992), {Internal deformation due to shear and tensile faults in a
+  half space}, \textit{Bulletin of the Seismological Society of America},
+  \textit{82}(2), 1018--1040.
+
+\bibitem[{\textit{Peltzer et~al.}(1998)\textit{Peltzer, Rosen, Rogez, and
+  Hudnut}}]{Peltzer1998}
+Peltzer, G., P.~Rosen, F.~Rogez, and K.~Hudnut (1998), {Poroelastic rebound
+  along the Landers 1992 earthquake surface rupture}, \textit{Journal of
+  Geophysical Research}, \textit{103}(B12), 30,131, \doi{10.1029/98JB02302}.
+
+\bibitem[{\textit{Perfettini et~al.}(2005)\textit{Perfettini, Avouac, and
+  Ruegg}}]{Perfettini2005}
+Perfettini, H., J.~P. Avouac, and J.~C. Ruegg (2005), {Geodetic displacements
+  and aftershocks following the 2001 Mw = 8.4 Peru earthquake: Implications for
+  the mechanics of the earthquake cycle along subduction zones},
+  \textit{Journal of Geophysical Research B: Solid Earth}, \textit{110}(9),
+  1--19, \doi{10.1029/2004JB003522}.
+
+\bibitem[{\textit{Pollitz}(1997)}]{Pollitz1997}
+Pollitz, F.~F. (1997), {Gravitational viscoelastic postseismic relaxation on a
+  layered spherical Earth}, \textit{Journal of Geophysical Research},
+  \textit{102}, 17,921, \doi{10.1029/97JB01277}.
+
+\bibitem[{\textit{Pollitz}(2003)}]{Pollitz2003}
+Pollitz, F.~F. (2003), {Transient rheology of the uppermost mantle beneath the
+  Mojave Desert, California}, \textit{Earth and Planetary Science Letters},
+  \textit{215}, 89--104, \doi{10.1016/S0012-821X(03)00432-1}.
+
+\bibitem[{\textit{Pollitz}(2005)}]{Pollitz2005}
+Pollitz, F.~F. (2005), {Transient rheology of the upper mantle beneath central
+  Alaska inferred from the crustal velocity field following the 2002 Denali
+  earthquake}, \textit{Journal of Geophysical Research B: Solid Earth},
+  \textit{110}, 1--16, \doi{10.1029/2005JB003672}.
+
+\bibitem[{\textit{Riva and Govers}(2009)}]{Riva2009}
+Riva, R. E.~M., and R.~Govers (2009), {Relating viscosities from postseismic
+  relaxation to a realistic viscosity structure for the lithosphere},
+  \textit{Geophysical Journal International}, \textit{176}, 614--624,
+  \doi{10.1111/j.1365-246X.2008.04004.x}.
+
+\bibitem[{\textit{Rollins et~al.}(2015)\textit{Rollins, Barbot, and
+  Avouac}}]{Rollins2015}
+Rollins, C., S.~Barbot, and J.-P. Avouac (2015), {Postseismic Deformation
+  Following the 2010 M7.2 El Mayor-Cucapah Earthquake: Observations, Kinematic
+  Inversions, and Dynamic Models}, \textit{Pure and Applied Geophysics},
+  \textit{172}(5), 1305--1358, \doi{10.1007/s00024-014-1005-6}.
+
+\bibitem[{\textit{Rybicki}(1971)}]{Rybicki1971}
+Rybicki, K. (1971), {The elastic residual field of a very long strike-slip
+  fault in the presence of a discontinuity}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{61}(1), 79--92.
+
+\bibitem[{\textit{Savage and Prescott}(1978)}]{Savage1978}
+Savage, J.~C., and W.~H. Prescott (1978), {Asthenosphere readjustment and the
+  earthquake cycle}, \textit{Journal of Geophysical Research}, \textit{83}(8),
+  3369, \doi{10.1029/JB083iB07p03369}.
+
+\bibitem[{\textit{Savage and Svarc}(1997)}]{Savage1997}
+Savage, J.~C., and J.~L. Svarc (1997), {Postseismic deformation associated with
+  the 1992 Mw=7.3 Landers earthquake, southern California}, \textit{Journal of
+  Geophysical Research}, \textit{102}(B4), 7565--7577.
+
+\bibitem[{\textit{Savage et~al.}(2005)\textit{Savage, Svarc, and
+  Yu}}]{Savage2005}
+Savage, J.~C., J.~L. Svarc, and S.~B. Yu (2005), {Postseismic relaxation and
+  transient creep}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{110}(11), 1--14, \doi{10.1029/2005JB003687}.
+
+\bibitem[{\textit{Segall}(2010)}]{Segall2010}
+Segall, P. (2010), \textit{{Earthquake and volcano deformation}}, Princeton
+  University Press, Princeton, NJ.
+
+\end{thebibliography}

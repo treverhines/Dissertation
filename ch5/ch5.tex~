@@ -359,5 +359,5 @@ In this paper we propose using Gaussian process regression (GPR) to estimate tra
 This material is based upon work supported by the National Science Foundation under grant EAR 1245263. The EarthScope Plate Boundary Observatory data is provided by UNAVCO through the GAGE Facility with support from the National Science Foundation (NSF) and National Aeronautics and Space Administration (NASA) under NSF Cooperative Agreement EAR-1261833. An implementation of the method described in this paper is named Python-based Geodetic Network Strain software (PyGeoNS). PyGeoNS is distributed under the MIT License and can be found at www.github.com/treverhines/PyGeoNS. 
 
 \bibliographystyle{ch5/agu04}
-\bibliography{ch5/ref5}  
+\bibliography{ch5/refs5}  
 
