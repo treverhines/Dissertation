@@ -434,11 +434,11 @@ subject to the constraint that
 where 
 \begin{equation}\label{ch2:eq:ResidualFunction}
 \mathbf{f(m)} = 
-\begin{array}{c}
+\left[\begin{array}{c}
   \mathbf{W\left(u(m)-u_{\mathrm{obs}}\right)}\\
   \lambda_s\mathbf{L_sm}\\
   \lambda_v\mathbf{L_vm}\\
-\end{array}.
+\end{array}\right].
 \end{equation}  
 In the above equation, $\mathbf{W}$ is a diagonal matrix containing
 the reciprocal of the data uncertainties (i.e. $\mathbf{W^TW} =
