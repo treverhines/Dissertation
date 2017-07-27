@@ -86,11 +86,11 @@ where $\delta_{ij}$ is the Kronecker delta function. Similar to \citet{Langbein2
 
 We consider $\sigma_w$ to be known, and we want to estimate $\sigma_{rw}$ from the synthetic data. Although our synthetic data just consists of noise, we assume that the unknown underlying geophysical signal (i.e. $\mathbf{G}\mathbf{m}$) consists of an offset plus a linear trend. We estimate $\sigma_{rw}$ with the MLE and REML methods using varying lengths of the synthetic time series. The time series lengths range from 0.1 yr to 2.5 yr at 0.1 yr increments. The distribution of estimated $\sigma_{rw}$ is shown in Figure \ref{ch4:fig:1}. 
 
-\begin{figure*}
+\begin{figure}
 \includegraphics{ch4/figures/fig1.pdf}
 \caption{Random walk amplitudes, $\sigma_{rw}$, estimated by the MLE and REML methods from synthetic data. The length of the synthetic time series used to estimate $\sigma_{rw}$ is varied from 0.1 yr to 2.5 yr. The black line indicates the true random walk amplitude ($\sigma_{rw}=1.3$), the light blue region shows the 10-90 percentile of estimates, the dark blue region shows the 25-75 percentile of estimates, the solid blue line indicates the median, and the dashed blue line indicates the mean.}   
 \label{ch4:fig:1}
-\end{figure*}
+\end{figure}
 
 The distribution of $\sigma_{rw}$ estimated by the MLE method indicates that there is a bias towards underestimating $\sigma_{rw}$ when the length of the time series is comparable to $f_c^{-1}$, which is 0.3 yr in this demonstration. The bias is appreciable when the time series is shorter than ${\sim}1$ yr, and estimates of $\sigma_{rw}$ cluster around 0.0 when the time series is shorter than $f_c^{-1}$. The distribution tightens up around the true value and remains relatively constant for time series with length greater than ${\sim}1$ yr. This is consistent with \citet{Langbein1997} who said that the time series should be at least 5 times greater than $f_c^{-1}$ to get a good estimate of the random walk component. Even when the full length of the time series is used, the mean and median of the distribution tend to be slightly less than the true value.
 

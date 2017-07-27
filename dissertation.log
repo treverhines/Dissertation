@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  26 JUL 2017 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  26 JUL 2017 21:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -436,73 +436,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout3 = `dissertation.toc'.
 
  [6]
-(./dissertation.lof [7] [8]
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page ix undefined on input line
- 23.
-
-
-Package caption Warning: \label without proper reference on input line 99.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FarField' on page ix undefined on input line 
-23.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page ix undefined on in
-put line 23.
-
-
-Package caption Warning: \label without proper reference on input line 191.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSection1' on page ix undefined on input
- line 23.
-
-
-Package caption Warning: \label without proper reference on input line 80.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P496' on page ix undefined on input line 25.
-
-[9]
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page x undefined on input line 
-27.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page x undefined on in
-put line 29.
-
-[10]
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page xi undefined on i
-nput line 36.
-
-[11] [12])
+(./dissertation.lof [7] [8] [9] [10] [11] [12])
 \tf@lof=\write4
 \openout4 = `dissertation.lof'.
 
@@ -510,7 +444,8 @@ nput line 36.
 \tf@lot=\write5
 \openout5 = `dissertation.lot'.
 
- [14] (./dissertation.apc)
+
+[14] (./dissertation.apc)
 \tf@apc=\write6
 \openout6 = `dissertation.apc'.
 
@@ -519,8 +454,7 @@ nput line 36.
 ]
 \openout2 = `ch1/ch1.aux'.
 
-
-(./ch1/ch1.tex
+ (./ch1/ch1.tex
 Chapter 1.
 [1
 
@@ -536,7 +470,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure1.eps>
 (epstopdf)                    size: 54533 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure1-eps-co
 nverted-to.pdf ch1/figures/Figure1.eps>
-(epstopdf)             \includegraphics on input line 16.
+(epstopdf)             \includegraphics on input line 118.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure1-eps-converted-to.pdf, id=68, 168.63pt x 217.81375pt>
@@ -544,7 +478,7 @@ File: ch1/figures/Figure1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure1-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure1-eps-converted-to.pdf used on input
- line 16.
+ line 118.
 (pdftex.def)             Requested size: 168.62958pt x 217.8132pt.
  [3] [4 <./ch1/figures/Figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ch1/figures/Figure2.eps>
@@ -555,7 +489,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure2.eps>
 (epstopdf)                    size: 106390 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure2-eps-co
 nverted-to.pdf ch1/figures/Figure2.eps>
-(epstopdf)             \includegraphics on input line 34.
+(epstopdf)             \includegraphics on input line 198.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure2-eps-converted-to.pdf, id=107, 463.7325pt x 165.61874pt>
@@ -563,7 +497,7 @@ File: ch1/figures/Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure2-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure2-eps-converted-to.pdf used on input
- line 34.
+ line 198.
 (pdftex.def)             Requested size: 463.73135pt x 165.61833pt.
 Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
 (epstopdf)                    date: 2017-07-26 14:55:08
@@ -573,7 +507,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
 (epstopdf)                    size: 555310 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure3-eps-co
 nverted-to.pdf ch1/figures/Figure3.eps>
-(epstopdf)             \includegraphics on input line 39.
+(epstopdf)             \includegraphics on input line 214.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure3-eps-converted-to.pdf, id=108, 433.62pt x 303.1325pt>
@@ -581,7 +515,7 @@ File: ch1/figures/Figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure3-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure3-eps-converted-to.pdf used on input
- line 39.
+ line 214.
 (pdftex.def)             Requested size: 433.61894pt x 303.13176pt.
  [5 <./ch1/figures/Figure2-eps-converted-to.pdf>] [6 <./ch1/figures/Figure3-eps
 -converted-to.pdf>] [7] [8]
@@ -593,7 +527,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure4.eps>
 (epstopdf)                    size: 43015 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure4-eps-co
 nverted-to.pdf ch1/figures/Figure4.eps>
-(epstopdf)             \includegraphics on input line 65.
+(epstopdf)             \includegraphics on input line 351.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure4-eps-converted-to.pdf, id=160, 458.71375pt x 220.825pt>
@@ -601,7 +535,7 @@ File: ch1/figures/Figure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure4-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure4-eps-converted-to.pdf used on input
- line 65.
+ line 351.
 (pdftex.def)             Requested size: 458.71263pt x 220.82445pt.
  [9 <./ch1/figures/Figure4-eps-converted-to.pdf>] [10] (./ch1/ch1.bbl [11] [12]
 )) [13]
@@ -625,28 +559,28 @@ Package pdftex.def Info: ch2/figures/Fig1.pdf used on input line 215.
 File: ch2/figures/Fig2.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig2.pdf>
-Package pdftex.def Info: ch2/figures/Fig2.pdf used on input line 484.
+Package pdftex.def Info: ch2/figures/Fig2.pdf used on input line 485.
 (pdftex.def)             Requested size: 425.50053pt x 167.42598pt.
  [24 <./ch2/figures/Fig2.pdf>] [25]
 <ch2/figures/Fig3.pdf, id=279, 457.13011pt x 426.23732pt>
 File: ch2/figures/Fig3.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig3.pdf>
-Package pdftex.def Info: ch2/figures/Fig3.pdf used on input line 566.
+Package pdftex.def Info: ch2/figures/Fig3.pdf used on input line 568.
 (pdftex.def)             Requested size: 457.129pt x 426.23627pt.
 
 <ch2/figures/Fig4.pdf, id=280, 427.99397pt x 242.15132pt>
 File: ch2/figures/Fig4.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig4.pdf>
-Package pdftex.def Info: ch2/figures/Fig4.pdf used on input line 580.
+Package pdftex.def Info: ch2/figures/Fig4.pdf used on input line 582.
 (pdftex.def)             Requested size: 427.99292pt x 242.15071pt.
 
 <ch2/figures/Fig5.pdf, id=281, 419.05794pt x 516.15485pt>
 File: ch2/figures/Fig5.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig5.pdf>
-Package pdftex.def Info: ch2/figures/Fig5.pdf used on input line 588.
+Package pdftex.def Info: ch2/figures/Fig5.pdf used on input line 591.
 (pdftex.def)             Requested size: 419.0569pt x 516.15358pt.
  [26] [27 <./ch2/figures/Fig3.pdf>] [28 <./ch2/figures/Fig4.pdf>] [29 <./ch2/fi
 gures/Fig5.pdf>]
@@ -654,35 +588,35 @@ gures/Fig5.pdf>]
 File: ch2/figures/Fig6.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig6.pdf>
-Package pdftex.def Info: ch2/figures/Fig6.pdf used on input line 686.
+Package pdftex.def Info: ch2/figures/Fig6.pdf used on input line 690.
 (pdftex.def)             Requested size: 431.75063pt x 316.99258pt.
 
 <ch2/figures/Fig7.pdf, id=5110, 425.23222pt x 261.14494pt>
 File: ch2/figures/Fig7.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig7.pdf>
-Package pdftex.def Info: ch2/figures/Fig7.pdf used on input line 696.
+Package pdftex.def Info: ch2/figures/Fig7.pdf used on input line 701.
 (pdftex.def)             Requested size: 425.23119pt x 261.1443pt.
  [30] [31 <./ch2/figures/Fig6.pdf>] [32 <./ch2/figures/Fig7.pdf>] [33] <ch2/fig
 ures/Fig8.pdf, id=41821, 429.8851pt x 243.11604pt>
 File: ch2/figures/Fig8.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig8.pdf>
-Package pdftex.def Info: ch2/figures/Fig8.pdf used on input line 838.
+Package pdftex.def Info: ch2/figures/Fig8.pdf used on input line 843.
 (pdftex.def)             Requested size: 429.88405pt x 243.11543pt.
 
 <ch2/figures/Fig9.pdf, id=41822, 276.66435pt x 180.18898pt>
 File: ch2/figures/Fig9.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig9.pdf>
-Package pdftex.def Info: ch2/figures/Fig9.pdf used on input line 852.
+Package pdftex.def Info: ch2/figures/Fig9.pdf used on input line 857.
 (pdftex.def)             Requested size: 276.66367pt x 180.18852pt.
 
 <ch2/figures/Fig10.pdf, id=41823, 431.63963pt x 315.55492pt>
 File: ch2/figures/Fig10.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig10.pdf>
-Package pdftex.def Info: ch2/figures/Fig10.pdf used on input line 859.
+Package pdftex.def Info: ch2/figures/Fig10.pdf used on input line 865.
 (pdftex.def)             Requested size: 431.63858pt x 315.55414pt.
  [34 <./ch2/figures/Fig8.pdf>] [35 <./ch2/figures/Fig9.pdf> <./ch2/figures/Fig1
 0.pdf
@@ -720,544 +654,199 @@ Overfull \hbox (1.62666pt too wide) in paragraph at lines 15--16
 [][] 
  []
 
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 47 undefined on input line
- 16.
-
-
-Package caption Warning: \label without proper reference on input line 99.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FarField' on page 47 undefined on input line 
-16.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 47 undefined on in
-put line 16.
-
-
-Package caption Warning: \label without proper reference on input line 191.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSection1' on page 47 undefined on input
- line 16.
-
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 47 undefined on input line
- 16.
-
-
-Package caption Warning: \label without proper reference on input line 99.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FarField' on page 47 undefined on input line 
-16.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 47 undefined on in
-put line 16.
-
-
-Package caption Warning: \label without proper reference on input line 191.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSection1' on page 47 undefined on input
- line 16.
-
-
-Package caption Warning: \label without proper reference on input line 14.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:ContextMap' on page 47 undefined on input lin
-e 20.
-
 [47] [48 <./ch3/figures/2016jb013114-p01.pdf>] [49] [50]
-
-Package caption Warning: \label without proper reference on input line 80.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P496' on page 51 undefined on input line 78.
-
-
-Package caption Warning: \label without proper reference on input line 85.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P619' on page 51 undefined on input line 78.
-
-<ch3/figures/2016jb013114-p02.pdf, id=50504, 528.90703pt x 210.2912pt>
+<ch3/figures/2016jb013114-p02.pdf, id=50503, 528.90703pt x 210.2912pt>
 File: ch3/figures/2016jb013114-p02.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p02.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p02.pdf used on input line 81
+Package pdftex.def Info: ch3/figures/2016jb013114-p02.pdf used on input line 82
 .
 (pdftex.def)             Requested size: 528.90573pt x 210.29066pt.
 
-Overfull \hbox (59.15071pt too wide) in paragraph at lines 81--82
+Overfull \hbox (59.15071pt too wide) in paragraph at lines 82--83
 [][] 
  []
 
-<ch3/figures/2016jb013114-p03.pdf, id=50505, 538.917pt x 210.2912pt>
+<ch3/figures/2016jb013114-p03.pdf, id=50504, 538.917pt x 210.2912pt>
 File: ch3/figures/2016jb013114-p03.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p03.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p03.pdf used on input line 86
+Package pdftex.def Info: ch3/figures/2016jb013114-p03.pdf used on input line 88
 .
 (pdftex.def)             Requested size: 538.9157pt x 210.29066pt.
 
-Overfull \hbox (69.16068pt too wide) in paragraph at lines 86--87
+Overfull \hbox (69.16068pt too wide) in paragraph at lines 88--89
 [] 
  []
-
-
-Package caption Warning: \label without proper reference on input line 80.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P496' on page 51 undefined on input line 87.
-
-
-Package caption Warning: \label without proper reference on input line 80.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P496' on page 51 undefined on input line 87.
-
-
-Package caption Warning: \label without proper reference on input line 85.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:P619' on page 51 undefined on input line 90.
 
 [51] [52 <./ch3/figures/2016jb013114-p02.pdf> <./ch3/figures/2016jb013114-p03.p
 df
 
 pdfTeX warning: pdflatex (file ./ch3/figures/2016jb013114-p03.pdf): PDF inclusi
 on: multiple pdfs with page group included in a single page
->]
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 53 undefined on input line
- 92.
-
-
-Package caption Warning: \label without proper reference on input line 99.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FarField' on page 53 undefined on input line 
-92.
-
-<ch3/figures/2016jb013114-p04.pdf, id=78629, 529.22792pt x 456.00827pt>
+>] <ch3/figures/2016jb013114-p04.pdf, id=78628, 529.22792pt x 456.00827pt>
 File: ch3/figures/2016jb013114-p04.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p04.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p04.pdf used on input line 95
+Package pdftex.def Info: ch3/figures/2016jb013114-p04.pdf used on input line 98
 .
 (pdftex.def)             Requested size: 529.22662pt x 456.00714pt.
 
-Overfull \hbox (59.4716pt too wide) in paragraph at lines 95--96
+Overfull \hbox (59.4716pt too wide) in paragraph at lines 98--99
 [][] 
  []
 
-<ch3/figures/2016jb013114-p05.pdf, id=78630, 538.79173pt x 456.0083pt>
+<ch3/figures/2016jb013114-p05.pdf, id=78629, 538.79173pt x 456.0083pt>
 File: ch3/figures/2016jb013114-p05.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p05.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-p05.pdf used on input line 10
-0.
+4.
 (pdftex.def)             Requested size: 538.79042pt x 456.00717pt.
 
-Overfull \hbox (69.0354pt too wide) in paragraph at lines 100--101
+Overfull \hbox (69.0354pt too wide) in paragraph at lines 104--105
 [][] 
  []
 
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 53 undefined on input line
- 101.
-
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 53 undefined on input line
- 101.
-
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 53 undefined on input line
- 104.
-
 [53] [54 <./ch3/figures/2016jb013114-p04.pdf>] [55 <./ch3/figures/2016jb013114-
-p05.pdf>]
-
-Package caption Warning: \label without proper reference on input line 14.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:ContextMap' on page 56 undefined on input lin
-e 125.
-
-[56]
-
-Package caption Warning: \label without proper reference on input line 142.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:ElasticSlip' on page 57 undefined on input li
-ne 140.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 57 undefined on in
-put line 140.
-
-[57] <ch3/figures/2016jb013114-p06.pdf, id=78961, 541.35625pt x 244.15169pt>
+p05.pdf>] [56] [57]
+<ch3/figures/2016jb013114-p06.pdf, id=78960, 541.35625pt x 244.15169pt>
 File: ch3/figures/2016jb013114-p06.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p06.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-p06.pdf used on input line 14
-3.
+8.
 (pdftex.def)             Requested size: 541.35492pt x 244.15108pt.
 
-Overfull \hbox (71.5999pt too wide) in paragraph at lines 143--144
+Overfull \hbox (71.5999pt too wide) in paragraph at lines 148--149
 [][] 
  []
 
-<ch3/figures/2016jb013114-p07.pdf, id=78962, 517.59235pt x 413.53906pt>
+<ch3/figures/2016jb013114-p07.pdf, id=78961, 517.59235pt x 413.53906pt>
 File: ch3/figures/2016jb013114-p07.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p07.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p07.pdf used on input line 14
-8.
+Package pdftex.def Info: ch3/figures/2016jb013114-p07.pdf used on input line 15
+4.
 (pdftex.def)             Requested size: 517.59106pt x 413.53804pt.
 
-Overfull \hbox (47.83604pt too wide) in paragraph at lines 148--149
+Overfull \hbox (47.83604pt too wide) in paragraph at lines 154--155
 [][] 
  []
 
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 58 undefined on i
-nput line 149.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 58 undefined on i
-nput line 149.
-
-
-Package caption Warning: \label without proper reference on input line 160.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:Rheology' on page 58 undefined on input line 
-158.
-
-<ch3/figures/2016jb013114-f08.pdf, id=78963, 239.37053pt x 176.8289pt>
+<ch3/figures/2016jb013114-f08.pdf, id=78962, 239.37053pt x 176.8289pt>
 File: ch3/figures/2016jb013114-f08.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-f08.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-f08.pdf used on input line 16
-1.
+8.
 (pdftex.def)             Requested size: 239.36993pt x 176.82846pt.
  [58 <./ch3/figures/2016jb013114-p06.pdf>] [59 <./ch3/figures/2016jb013114-p07.
-pdf>]
-
-Package caption Warning: \label without proper reference on input line 160.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:Rheology' on page 60 undefined on input line 
-169.
-
-[60 <./ch3/figures/2016jb013114-f08.pdf>]
-
-Package caption Warning: \label without proper reference on input line 184.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:LowerCrust' on page 61 undefined on input lin
-e 182.
-
-[61] <ch3/figures/2016jb013114-p09.pdf, id=79408, 456.5322pt x 185.0767pt>
+pdf>] [60 <./ch3/figures/2016jb013114-f08.pdf>] [61]
+<ch3/figures/2016jb013114-p09.pdf, id=79407, 456.5322pt x 185.0767pt>
 File: ch3/figures/2016jb013114-p09.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p09.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p09.pdf used on input line 18
-5.
+Package pdftex.def Info: ch3/figures/2016jb013114-p09.pdf used on input line 19
+3.
 (pdftex.def)             Requested size: 456.53107pt x 185.07625pt.
-
-
-Package caption Warning: \label without proper reference on input line 191.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSection1' on page 62 undefined on input
- line 189.
-
-[62 <./ch3/figures/2016jb013114-p09.pdf>]
-<ch3/figures/2016jb013114-p10.pdf, id=79465, 516.94884pt x 413.52374pt>
+ [62 <./ch3/figures/2016jb013114-p09.pdf>] <ch3/figures/2016jb013114-p10.pdf, i
+d=79464, 516.94884pt x 413.52374pt>
 File: ch3/figures/2016jb013114-p10.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p10.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p10.pdf used on input line 19
-2.
+Package pdftex.def Info: ch3/figures/2016jb013114-p10.pdf used on input line 20
+1.
 (pdftex.def)             Requested size: 516.94757pt x 413.52272pt.
 
-Overfull \hbox (47.19255pt too wide) in paragraph at lines 192--193
+Overfull \hbox (47.19255pt too wide) in paragraph at lines 201--202
 [][] 
  []
 
-[63 <./ch3/figures/2016jb013114-p10.pdf>]
-
-Package caption Warning: \label without proper reference on input line 210.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:InitialSlip' on page 64 undefined on input li
-ne 206.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 64 undefined on i
-nput line 208.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 64 undefined on i
-nput line 208.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 64 undefined on i
-nput line 208.
-
-[64] <ch3/figures/2016jb013114-p11.pdf, id=79476, 270.38544pt x 243.88765pt>
+[63 <./ch3/figures/2016jb013114-p10.pdf>] [64]
+<ch3/figures/2016jb013114-p11.pdf, id=79475, 270.38544pt x 243.88765pt>
 File: ch3/figures/2016jb013114-p11.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p11.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p11.pdf used on input line 21
+Package pdftex.def Info: ch3/figures/2016jb013114-p11.pdf used on input line 22
 1.
 (pdftex.def)             Requested size: 270.38477pt x 243.88704pt.
 
-<ch3/figures/2016jb013114-p12.pdf, id=79477, 247.27501pt x 302.37466pt>
+<ch3/figures/2016jb013114-p12.pdf, id=79476, 247.27501pt x 302.37466pt>
 File: ch3/figures/2016jb013114-p12.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p12.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p12.pdf used on input line 21
-6.
+Package pdftex.def Info: ch3/figures/2016jb013114-p12.pdf used on input line 22
+7.
 (pdftex.def)             Requested size: 247.2744pt x 302.37392pt.
  [65 <./ch3/figures/2016jb013114-p11.pdf>] [66 <./ch3/figures/2016jb013114-p12.
-pdf>]
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 67 undefined on in
-put line 227.
-
-
-Package caption Warning: \label without proper reference on input line 231.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:ShearModulusRatio' on page 67 undefined on in
-put line 229.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 67 undefined on in
-put line 229.
-
-[67] <ch3/figures/2016jb013114-f13.pdf, id=79495, 245.72348pt x 245.08922pt>
+pdf>] [67]
+<ch3/figures/2016jb013114-f13.pdf, id=79494, 245.72348pt x 245.08922pt>
 File: ch3/figures/2016jb013114-f13.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-f13.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-f13.pdf used on input line 23
-2.
+Package pdftex.def Info: ch3/figures/2016jb013114-f13.pdf used on input line 24
+4.
 (pdftex.def)             Requested size: 245.72287pt x 245.08861pt.
-
-
-Package caption Warning: \label without proper reference on input line 242.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FinalSlip' on page 68 undefined on input line
- 238.
-
-[68 <./ch3/figures/2016jb013114-f13.pdf>]
-
-Package caption Warning: \label without proper reference on input line 94.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:NearField' on page 69 undefined on input line
- 240.
-
-
-Package caption Warning: \label without proper reference on input line 99.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:FarField' on page 69 undefined on input line 
-240.
-
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 69 undefined on in
-put line 240.
-
-<ch3/figures/2016jb013114-p14.pdf, id=79517, 539.90674pt x 243.49792pt>
+ [68 <./ch3/figures/2016jb013114-f13.pdf>] <ch3/figures/2016jb013114-p14.pdf, i
+d=79516, 539.90674pt x 243.49792pt>
 File: ch3/figures/2016jb013114-p14.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p14.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p14.pdf used on input line 24
-3.
+Package pdftex.def Info: ch3/figures/2016jb013114-p14.pdf used on input line 25
+6.
 (pdftex.def)             Requested size: 539.90541pt x 243.49733pt.
 
-Overfull \hbox (70.15039pt too wide) in paragraph at lines 243--244
+Overfull \hbox (70.15039pt too wide) in paragraph at lines 256--257
 [][] 
  []
 
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 69 undefined on i
-nput line 244.
-
-
-Package caption Warning: \label without proper reference on input line 215.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:EffectiveViscosity' on page 69 undefined on i
-nput line 244.
-
-
-Package caption Warning: \label without proper reference on input line 184.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:LowerCrust' on page 69 undefined on input lin
-e 248.
-
-[69] [70 <./ch3/figures/2016jb013114-p14.pdf>]
-
-Package caption Warning: \label without proper reference on input line 147.
-See the caption package documentation for explanation.
-
-
-LaTeX Warning: Reference `ch3:fig:RecordSectionMain' on page 71 undefined on in
-put line 252.
-
-[71] [72]
-<ch3/figures/2016jb013114-fS01.pdf, id=79541, 499.32538pt x 229.7398pt>
+[69] [70 <./ch3/figures/2016jb013114-p14.pdf>] [71] [72]
+<ch3/figures/2016jb013114-fS01.pdf, id=79540, 499.32538pt x 229.7398pt>
 File: ch3/figures/2016jb013114-fS01.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-fS01.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-fS01.pdf used on input line 2
-67.
+81.
 (pdftex.def)             Requested size: 499.32416pt x 229.73923pt.
 
-Overfull \hbox (29.56914pt too wide) in paragraph at lines 267--276
+Overfull \hbox (29.56914pt too wide) in paragraph at lines 281--290
 [] 
  []
 
-<ch3/figures/2016jb013114-pS02.pdf, id=79542, 500.08627pt x 257.75772pt>
+<ch3/figures/2016jb013114-pS02.pdf, id=79541, 500.08627pt x 257.75772pt>
 File: ch3/figures/2016jb013114-pS02.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS02.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-pS02.pdf used on input line 2
-80.
+95.
 (pdftex.def)             Requested size: 500.08504pt x 257.75708pt.
 
-Overfull \hbox (30.33002pt too wide) in paragraph at lines 280--291
+Overfull \hbox (30.33002pt too wide) in paragraph at lines 295--306
 [] 
  []
 
-<ch3/figures/2016jb013114-pS03.pdf, id=79543, 529.04187pt x 456.36111pt>
+<ch3/figures/2016jb013114-pS03.pdf, id=79542, 529.04187pt x 456.36111pt>
 File: ch3/figures/2016jb013114-pS03.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS03.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-pS03.pdf used on input line 2
-95.
+Package pdftex.def Info: ch3/figures/2016jb013114-pS03.pdf used on input line 3
+11.
 (pdftex.def)             Requested size: 529.04057pt x 456.36pt.
 
-Overfull \hbox (59.28555pt too wide) in paragraph at lines 295--302
+Overfull \hbox (59.28555pt too wide) in paragraph at lines 311--318
 [] 
  []
 
-<ch3/figures/2016jb013114-pS04.pdf, id=79544, 538.48602pt x 456.36118pt>
+<ch3/figures/2016jb013114-pS04.pdf, id=79543, 538.48602pt x 456.36118pt>
 File: ch3/figures/2016jb013114-pS04.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS04.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-pS04.pdf used on input line 3
-06.
+23.
 (pdftex.def)             Requested size: 538.4847pt x 456.36006pt.
 
-Overfull \hbox (68.72968pt too wide) in paragraph at lines 306--307
+Overfull \hbox (68.72968pt too wide) in paragraph at lines 323--324
 [] 
  []
 
@@ -1286,7 +875,7 @@ Chapter 4.
 
 
 
-] [85] [86] [87] <ch4/figures/fig1.pdf, id=83212, 469.755pt x 361.35pt>
+] [85] [86] [87] <ch4/figures/fig1.pdf, id=83211, 469.755pt x 361.35pt>
 File: ch4/figures/fig1.pdf Graphic file (type pdf)
 
 <use ch4/figures/fig1.pdf>
@@ -1304,7 +893,7 @@ Chapter 5.
 
 
 ] [95] [96] [97] [98] [99] [100]
-<ch5/figures/context_map/context-map.pdf, id=83303, 505.89pt x 397.485pt>
+<ch5/figures/context_map/context-map.pdf, id=83302, 505.89pt x 397.485pt>
 File: ch5/figures/context_map/context-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/context_map/context-map.pdf>
@@ -1317,7 +906,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 180--181
  []
 
 [101] [102] [103 <./ch5/figures/context_map/context-map.pdf>]
-<ch5/figures/noise/noise-params.pdf, id=83356, 505.89pt x 397.485pt>
+<ch5/figures/noise/noise-params.pdf, id=83355, 505.89pt x 397.485pt>
 File: ch5/figures/noise/noise-params.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-params.pdf>
@@ -1329,7 +918,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 213--214
 [][] 
  []
 
-<ch5/figures/noise/noise-samples.pdf, id=83357, 505.89pt x 289.08pt>
+<ch5/figures/noise/noise-samples.pdf, id=83356, 505.89pt x 289.08pt>
 File: ch5/figures/noise/noise-samples.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-samples.pdf>
@@ -1343,7 +932,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 219--220
 
 [104] [105 <./ch5/figures/noise/noise-params.pdf>] [106 <./ch5/figures/noise/no
 ise-samples.pdf>] [107]
-<ch5/figures/outliers/outliers.pdf, id=83445, 505.89pt x 216.81pt>
+<ch5/figures/outliers/outliers.pdf, id=83444, 505.89pt x 216.81pt>
 File: ch5/figures/outliers/outliers.pdf Graphic file (type pdf)
 
 <use ch5/figures/outliers/outliers.pdf>
@@ -1361,7 +950,7 @@ Overfull \hbox (44.67795pt too wide) in paragraph at lines 265--274
  []
 
 [108] [109 <./ch5/figures/outliers/outliers.pdf>]
-<ch5/figures/signal_fit/signal-fit.pdf, id=83494, 505.89pt x 216.81pt>
+<ch5/figures/signal_fit/signal-fit.pdf, id=83493, 505.89pt x 216.81pt>
 File: ch5/figures/signal_fit/signal-fit.pdf Graphic file (type pdf)
 
 <use ch5/figures/signal_fit/signal-fit.pdf>
@@ -1373,7 +962,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 310--311
 [][] 
  []
 
-[110] <ch5/figures/strain_map/strain-map.pdf, id=83498, 433.62pt x 433.62pt>
+[110] <ch5/figures/strain_map/strain-map.pdf, id=83497, 433.62pt x 433.62pt>
 File: ch5/figures/strain_map/strain-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_map/strain-map.pdf>
@@ -1382,7 +971,7 @@ ne 321.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
  [111 <./ch5/figures/signal_fit/signal-fit.pdf>] [112 <./ch5/figures/strain_map
 /strain-map.pdf>]
-<ch5/figures/strain_ts/strain-ts.pdf, id=83588, 505.89pt x 361.35pt>
+<ch5/figures/strain_ts/strain-ts.pdf, id=83587, 505.89pt x 361.35pt>
 File: ch5/figures/strain_ts/strain-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/strain-ts.pdf>
@@ -1394,7 +983,7 @@ Overfull \hbox (36.13373pt too wide) in paragraph at lines 329--330
 [][] 
  []
 
-<ch5/figures/strain_ts/mag-ts.pdf, id=83589, 505.89pt x 289.08pt>
+<ch5/figures/strain_ts/mag-ts.pdf, id=83588, 505.89pt x 289.08pt>
 File: ch5/figures/strain_ts/mag-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/mag-ts.pdf>
@@ -1413,41 +1002,37 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
  [119] [120] [121])) [122]
 (./dissertation.aux (./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux)
-(./ch4/ch4.aux) (./ch5/ch5.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(./ch4/ch4.aux) (./ch5/ch5.aux)) ) 
 Here is how much of TeX's memory you used:
  7214 strings out of 494910
  108779 string characters out of 6179836
- 184336 words of memory out of 5000000
+ 183326 words of memory out of 5000000
  10292 multiletter control sequences out of 15000+600000
  13578 words of font info for 50 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  41i,17n,50p,2979b,464s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (138 pages, 17137709 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.
+pfb>
+Output written on dissertation.pdf (138 pages, 17127792 bytes).
 PDF statistics:
- 83761 PDF objects out of 95282 (max. 8388607)
- 55276 compressed objects within 553 object streams
+ 83757 PDF objects out of 95282 (max. 8388607)
+ 55273 compressed objects within 553 object streams
  0 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
