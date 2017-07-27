@@ -16,9 +16,14 @@
 \usepackage{tocloft}
 \usepackage{caption}
 
+%% STOP GIVING SMALL FIGURES A FULL PAGE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\floatpagefraction}{.6}
+
 %% SET SMALLER FIGURE CAPTION FONT SIZE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\captionsetup[figure]{font=small,labelfont=small}
+\captionsetup[figure]{font=footnotesize,labelfont=footnotesize}
+\captionsetup[table]{font=footnotesize,labelfont=footnotesize}
 
 %% SET CHAPTERNONUM COMMAND
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -36,7 +41,8 @@
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\doublespacing
-\onehalfspacing
+%\onehalfspacing
+\singlespacing
 
 %% INCLUDE THE WORD "CHAPTER" IN TOC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -222,6 +228,6 @@ Blerg blargle blorg blerp
 
 \include{ch5/ch5}
 
-\include{ch5/ch5_appendix}
+\include{ch6/ch6}
 
 \end{document}

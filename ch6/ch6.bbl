@@ -1,0 +1,80 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Agnew}(1997)}]{Agnew1997}
+Agnew, D.~C. (1997), {NLOADF: A program for computing ocean-tide loading},
+  \textit{Journal of Geophysical Research}, \textit{102}, 5109--5110.
+
+\bibitem[{\textit{Barbour and Crowell}(2017)}]{Barbour2017}
+Barbour, A.~J., and B.~W. Crowell (2017), {Dynamic Strains for Earthquake
+  Source Characterization}, \textit{Seismological Research Letters},
+  \textit{88}(2A), 354--370, \doi{10.1785/0220160155}.
+
+\bibitem[{\textit{Berger and Beaumont}(1976)}]{Berger1976}
+Berger, J., and C.~Beaumont (1976), {An analysis of tidal strain observations
+  from the United States of America II. The inhomogeneous tide},
+  \textit{Bulletin of the Seismological Society of America}, \textit{66}(6),
+  1821--1846.
+
+\bibitem[{\textit{Dragert and Wang}(2011)}]{Dragert2011}
+Dragert, H., and K.~Wang (2011), {Temporal evolution of an episodic tremor and
+  slip event along the northern Cascadia margin}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{116}(12), 1--12,
+  \doi{10.1029/2011JB008609}.
+
+\bibitem[{\textit{Gladwin and Hart}(1985)}]{Gladwin1985}
+Gladwin, M.~T., and R.~Hart (1985), {Design parameters for borehole strain
+  instrumentation}, \textit{Pure and Applied Geophysics}, \textit{123}(1),
+  59--80, \doi{10.1007/BF00877049}.
+
+\bibitem[{\textit{Gladwin et~al.}(1987)\textit{Gladwin, Gwyther, Hart, Francis,
+  and Johnston}}]{Gladwin1987}
+Gladwin, M.~T., R.~L. Gwyther, R.~Hart, M.~Francis, and M.~J.~S. Johnston
+  (1987), {Borehole tensor strain measurements in California}, \textit{Journal
+  of Geophysical Research: Solid Earth}, \textit{92}(B8), 7981--7988,
+  \doi{10.1029/JB092iB08p07981}.
+
+\bibitem[{\textit{Hart et~al.}(1996)\textit{Hart, Gladwin, Gwyther, Agnew, and
+  Wyatt}}]{Hart1996}
+Hart, R. H.~G., M.~T. Gladwin, R.~L. Gwyther, D.~C. Agnew, and F.~K. Wyatt
+  (1996), {Tidal calibration of borehole strain meters: Removing the effects of
+  small-scale inhomogeneity}, \textit{Journal of Geophysical Research},
+  \textit{101}(96).
+
+\bibitem[{\textit{Hines and Hetland}(2017)}]{Hines2017a}
+Hines, T.~T., and E.~A. Hetland (2017), {Revealing transient strain in geodetic
+  data with Gaussian process regression}, \textit{submitted to Geophysical
+  Journal International}, pp. 1--25.
+
+\bibitem[{\textit{Hodgkinson et~al.}(2013)\textit{Hodgkinson, Agnew, and
+  Roeloffs}}]{Hodgkinson2013}
+Hodgkinson, K., D.~Agnew, and E.~Roeloffs (2013), {Working With Strainmeter
+  Data}, \textit{Eos, Transactions American Geophysical Union}, \textit{94}(9),
+  91--91, \doi{10.1002/2013EO090011}.
+
+\bibitem[{\textit{Langbein}(2015)}]{Langbein2015}
+Langbein, J. (2015), {Borehole strainmeter measurements spanning the 2014 Mw6.0
+  South Napa Earthquake, California: The effect from instrument calibration},
+  \textit{Journal of Geophysical Research B: Solid Earth}, \textit{120}(10),
+  7190--7202, \doi{10.1002/2015JB012278}.
+
+\bibitem[{\textit{Langbein et~al.}(2006)\textit{Langbein, Murray, and
+  Snyder}}]{Langbein2006}
+Langbein, J., J.~R. Murray, and H.~A. Snyder (2006), {Coseismic and initial
+  postseismic deformation from the 2004 Parkfield, California, earthquake,
+  observed by global positioning system, electronic distance meter,
+  creepmeters, and borehole strainmeters}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{96}(4 B), 304--320,
+  \doi{10.1785/0120050823}.
+
+\bibitem[{\textit{Roeloffs}(2010)}]{Roeloffs2010}
+Roeloffs, E. (2010), {Tidal calibration of Plate Boundary Observatory borehole
+  strainmeters: Roles of vertical and shear coupling}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{115}(6), 1--25,
+  \doi{10.1029/2009JB006407}.
+
+\end{thebibliography}
