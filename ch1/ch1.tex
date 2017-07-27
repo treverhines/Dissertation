@@ -179,7 +179,7 @@ fault from $0.5D$ to $12D$\@.  We note that the upper limit of
 $\hat{\tau}_j$ searched over is a bit excessive because, for practical
 purposes, $v_{L}$ is insensitive to changes in relaxation time for
 $\tau \gtrsim 10^1$, as the layer is effectively elastic over
-interseismic periods \citep{Savage1978} (Auxiliary Figure 1).
+interseismic periods \citep{Savage1978} (Figure \ref{ch1:fig:A1}).
 Finally, we assume that the fault slip-rate and thickness of the lower
 crust and upper mantle are known.
 
@@ -226,7 +226,7 @@ overlapping vectors.}
 
 In general, the misfit between $v_{DD}$ and $v_{L}$ is largest early
 in the earthquake cycle for models with low $\bar{\tau}_{LC}$ and/or
-$\bar{\tau}_{UM}$ (Auxiliary Figure 2). The heightened misfit reflects
+$\bar{\tau}_{UM}$ (Figure \ref{ch1:fig:A2}). The heightened misfit reflects
 the fact that there is more postseismic creep in the mid-crust and/or
 beneath the Moho in the layered models, resulting in differences in
 the wavelength of surface deformation compared to the depth-dependent
@@ -288,7 +288,7 @@ period, the biases we calculate are not well constrained, but are
 generally towards a stronger lower crust and uppermost mantle (Figure
 \ref{ch1:fig:3}B). These biases hold when we only consider $\tau$
 profiles in which $\tau$ decays with depth faster than log-linearly
-(Auxiliary Figure 4), which indicates the biases are not sensitive to
+(Figure \ref{ch1:fig:A4}), which indicates the biases are not sensitive to
 the specific decay of viscosity with depth provided that there is
 still some depth-dependence within both layers.
 
@@ -297,13 +297,13 @@ include a depth-dependent $\tau$ only in the uppermost mantle, there
 is no clear bias when $\bar{\tau}_{LC} / \bar{\tau}_{UM} < 1$.
 However, when $\bar{\tau}_{LC} / \bar{\tau}_{UM} > 1$, there is a bias
 to a stronger lower crust and only a slight bias in the upper mantle
-strength (Auxiliary Figure 3A,C).  Conversely, when the
+strength (Figure \ref{ch1:fig:A3}A,C).  Conversely, when the
 uppermost mantle has a uniform relaxation time and $\tau$ is
 depth-dependent only in the lower crust, there is no bias when
 $\bar{\tau}_{LC} / \bar{\tau}_{UM} > 1$, but when $\bar{\tau}_{LC} /
 \bar{\tau}_{UM} < 1$ there is a bias towards a weaker upper mantle,
 while the lower crust relaxation time is accurately represented
-(Auxiliary Figure 3D,F). This may be counterintuitive, as one might
+(Figure \ref{ch1:fig:A3}D,F). This may be counterintuitive, as one might
 think that if the lower crust or mantle was truly homogenous with
 respect to its relaxation time, then a simplified layered model should
 accurately capture that uniform relaxation time. In the case of both
@@ -459,7 +459,83 @@ Calais, G. Houseman, and an anonymous reviewer.
 \bibliographystyle{agu04}
 \bibliography{refs}
 
+\section{Supporting information}
+The following figures provide additional information supporting our
+conclusions regarding the biases in apparent viscosities estimated for
+the lower crust and upper mantle. The sensitivity of surface
+deformation to viscosities in the lower crust or upper mantle is shown
+in Figure \ref{ch1:fig:A1}.  Figure \ref{ch1:fig:A2} is the same as
+Figure \ref{ch1:fig:3}, except Figure \ref{ch1:fig:A3} also shows all
+of the $\hat{\tau}$ for the lower crust and uppermost mantle estimated
+from $v_{DD}$ for all models, as well as indicates the misfit of the
+associated $v_L$ to $v_{DD}$. Figure \ref{ch1:fig:A3} shows the bias
+for end-member scenarios when only the lower crust or upper mantle has
+a depth dependent tau. Figure \ref{ch1:fig:A4} shows the bias when tau
+in the lower crust and upper mantle has a high decay rate (i.e., a
+decay rate larger than a log-linear decrease in $\tau$).
 
+\begin{figure}
+\includegraphics{ch1/figures/AuxFigure1.eps}
+\caption{Surface velocities at $t/T = 0.01$ in models with uniform
+$\tau$ in the lower crust or uppermost mantle layers ($\tau = \tau_M/T
+= (\eta T)/\mu$, where $T$ is the earthquake repeat time, $\tau_M$ is
+the Maxwell relaxation time, $\eta$ is the Newtonian viscosity, and
+$\mu$ is the elastic shear modulus).  Velocities in models with
+constant tau in the upper mantle ($\tau_{UM}$), and variable tau in
+the lower crust ($\tau_{LC}$) are shown in (A).  Models with constant
+$\tau_{LC}$ and variable $\tau_{UM}$ are shown in (B).  For
+sufficiently high $\tau_{UM}$ or $\tau_{LC}$ the surface velocities
+converge, indicating that the surface deformation is insensitive to
+layer viscosities when $\mathrm{log}_{10}(\tau)$ is above about 1, as
+the layer is effectively elastic over earthquake repeat time scales.}
+\label{ch1:fig:A1}
+\end{figure}
 
+\begin{figure}
+\includegraphics{ch1/figures/AuxFigure2.eps}
+\caption{$\bar{\tau}_j$ (gray dots) for all depth dependent $\tau$
+models considered, along with the estimation of $\mathrm{Bias}(\hat{tau}_j)$,
+represented as vectors, early (A), midway (B), and late (C) in the
+interseismic period.  Each vector points to the mean value of
+$\hat{\tau}_j$ estimated from depth dependent models with the same
+$\bar{\tau}_j$.  Colored dots indicate $\hat{\tau}_j$ of each of the best fit
+layered models (dot color corresponds to the RMSE of how well $v_L$ fits
+$v_{DD}$).}
+\label{ch1:fig:A2}
+\end{figure}
 
+\begin{figure}
+\includegraphics{ch1/figures/AuxFigure3.eps}
+\caption{$\bar{\tau}_j$ (gray dots) for all depth dependent $\tau$
+models with a homogeneous lower crust (A,B,C) or homogeneous upper
+mantle (D,E,F), along with the estimation of $\mathrm{Bias}(\hat{\tau}_j)$,
+represented as vectors, early (A), midway (B), and late (C) in the
+interseismic period.  Each vector points to the mean value of
+$\hat{tau}_j$ estimated from depth dependent models with the same
+$\bar{tau}_j$, and the gray ovals indicate one standard deviation of
+$\hat{tau}_j$ estimated from models with the same $\bar{tau}_j$.}
+\label{ch1:fig:A3}
+\end{figure}
+
+\begin{figure}
+\includegraphics{ch1/figures/AuxFigure4.eps}
+\caption{$\bar{\tau}_j$ (gray dots) for all depth dependent $\tau$
+models in which $\tau$ in the lower crust and upper mantle decreases
+with depth more than log-linearly (i.e., with $\tau$ at any depth
+lower than would be predicted by a log-linear decrease, for instance
+the left- most $\tau$ profiles shown in Figure \ref{ch1:fig:1}), along
+with the estimation of $\mathrm{Bias}(\hat{\tau}_j)$, represented as
+vectors, early (A), midway (B), and late (C) in the interseismic
+period.  Each vector points to the mean value of $\hat{\tau}_j$
+estimated from depth dependent models with the same $\bar{\tau}_j$,
+and the gray ovals indicate one standard deviation of $\hat{\tau}_j$
+estimated from models with the same $\bar{\tau}_j$.  The estimated
+biases in these models are similar to the biases estimated from all
+depth-dependent tau models considered in this paper (Figure
+\ref{ch1:fig:3}), indicating that consideration of tau profiles that
+decay less than log-linearly do not drive our conclusions that the
+lower crust (uppermost mantle) appear stronger (weaker) than the
+average $\tau$ during much of the interseismic period.}
+\label{ch1:fig:A4}
+\end{figure}
 

@@ -1,8 +1,8 @@
 \contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
-\contentsline {chapter}{LIST OF FIGURES}{xiii}
-\contentsline {chapter}{LIST OF TABLES}{xiv}
-\contentsline {chapter}{LIST OF APPENDICES}{xv}
-\contentsline {chapter}{ABSTRACT}{xvi}
+\contentsline {chapter}{LIST OF FIGURES}{xiv}
+\contentsline {chapter}{LIST OF TABLES}{xv}
+\contentsline {chapter}{LIST OF APPENDICES}{xvi}
+\contentsline {chapter}{ABSTRACT}{xvii}
 \gdef \the@ipfilectr {@-1}
 \contentsline {chapter}{\numberline {1}Bias in estimates of lithosphere viscosity from interseismic deformation}{1}
 \contentsline {section}{\numberline {1.1}Abstract}{1}
@@ -16,67 +16,68 @@
 \contentsline {section}{\numberline {1.8}Conclusions}{11}
 \contentsline {section}{\numberline {1.9}Acknowledgments}{11}
 \contentsline {section}{\numberline {1.10}References}{11}
+\contentsline {section}{\numberline {1.11}Supporting information}{13}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-2}
-\contentsline {chapter}{\numberline {2}Rapid and simultaneous estimation of fault slip and heterogeneous lithospheric viscosity from postseismic deformation}{14}
-\contentsline {section}{\numberline {2.1}Summary}{14}
-\contentsline {section}{\numberline {2.2}Introduction}{14}
-\contentsline {section}{\numberline {2.3}Approximation for postseismic deformation}{15}
-\contentsline {subsection}{\numberline {2.3.1}Two-dimensional earthquake models}{16}
-\contentsline {subsubsection}{Two layered model}{16}
-\contentsline {subsubsection}{Three layered and continuous depth dependent models}{20}
-\contentsline {subsection}{\numberline {2.3.2}Three-dimensional earthquake models}{21}
-\contentsline {section}{\numberline {2.4}Inversion method}{22}
-\contentsline {section}{\numberline {2.5}Synthetic test}{25}
-\contentsline {subsection}{\numberline {2.5.1}Green's functions}{25}
-\contentsline {subsection}{\numberline {2.5.2}Synthetic model with Maxwell viscoelasticity}{26}
-\contentsline {subsubsection}{Validation}{30}
-\contentsline {subsection}{\numberline {2.5.3}Synthetic model with Burgers viscoelasticity}{32}
-\contentsline {section}{\numberline {2.6}Discussion}{34}
-\contentsline {section}{\numberline {2.7}Conclusion}{38}
-\contentsline {section}{\numberline {2.8}References}{38}
-\contentsline {section}{Appendix 2A: Inverse Laplace transform through series expansion}{42}
-\contentsline {section}{Appendix 2B: Postseismic approximation for a two-dimensional earthquake model with a depth dependent viscosity}{43}
+\contentsline {chapter}{\numberline {2}Rapid and simultaneous estimation of fault slip and heterogeneous lithospheric viscosity from postseismic deformation}{18}
+\contentsline {section}{\numberline {2.1}Summary}{18}
+\contentsline {section}{\numberline {2.2}Introduction}{18}
+\contentsline {section}{\numberline {2.3}Approximation for postseismic deformation}{19}
+\contentsline {subsection}{\numberline {2.3.1}Two-dimensional earthquake models}{20}
+\contentsline {subsubsection}{Two layered model}{20}
+\contentsline {subsubsection}{Three layered and continuous depth dependent models}{24}
+\contentsline {subsection}{\numberline {2.3.2}Three-dimensional earthquake models}{25}
+\contentsline {section}{\numberline {2.4}Inversion method}{26}
+\contentsline {section}{\numberline {2.5}Synthetic test}{29}
+\contentsline {subsection}{\numberline {2.5.1}Green's functions}{29}
+\contentsline {subsection}{\numberline {2.5.2}Synthetic model with Maxwell viscoelasticity}{30}
+\contentsline {subsubsection}{Validation}{34}
+\contentsline {subsection}{\numberline {2.5.3}Synthetic model with Burgers viscoelasticity}{36}
+\contentsline {section}{\numberline {2.6}Discussion}{38}
+\contentsline {section}{\numberline {2.7}Conclusion}{42}
+\contentsline {section}{\numberline {2.8}References}{42}
+\contentsline {section}{Appendix 2A: Inverse Laplace transform through series expansion}{46}
+\contentsline {section}{Appendix 2B: Postseismic approximation for a two-dimensional earthquake model with a depth dependent viscosity}{47}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-3}
-\contentsline {chapter}{\numberline {3}Rheologic constraints on the upper mantle from five years of postseismic deformation following the El Mayor-Cucapah earthquake}{45}
-\contentsline {section}{\numberline {3.1}Abstract}{45}
-\contentsline {section}{\numberline {3.2}Introduction}{45}
-\contentsline {section}{\numberline {3.3}Data processing}{47}
-\contentsline {section}{\numberline {3.4}Postseismic modeling}{53}
-\contentsline {subsection}{\numberline {3.4.1}Elastic postseismic inversion}{56}
-\contentsline {subsection}{\numberline {3.4.2}Early postseismic inversion}{58}
-\contentsline {subsection}{\numberline {3.4.3}Full postseismic inversion}{67}
-\contentsline {section}{\numberline {3.5}Discussion}{70}
-\contentsline {section}{\numberline {3.6}Conclusion}{73}
-\contentsline {section}{\numberline {3.7}Supporting information}{73}
-\contentsline {section}{\numberline {3.8}Acknowledgements}{73}
-\contentsline {section}{\numberline {3.9}References}{78}
+\contentsline {chapter}{\numberline {3}Rheologic constraints on the upper mantle from five years of postseismic deformation following the El Mayor-Cucapah earthquake}{49}
+\contentsline {section}{\numberline {3.1}Abstract}{49}
+\contentsline {section}{\numberline {3.2}Introduction}{49}
+\contentsline {section}{\numberline {3.3}Data processing}{51}
+\contentsline {section}{\numberline {3.4}Postseismic modeling}{57}
+\contentsline {subsection}{\numberline {3.4.1}Elastic postseismic inversion}{60}
+\contentsline {subsection}{\numberline {3.4.2}Early postseismic inversion}{62}
+\contentsline {subsection}{\numberline {3.4.3}Full postseismic inversion}{71}
+\contentsline {section}{\numberline {3.5}Discussion}{74}
+\contentsline {section}{\numberline {3.6}Conclusion}{77}
+\contentsline {section}{\numberline {3.7}Acknowledgements}{77}
+\contentsline {section}{\numberline {3.8}References}{77}
+\contentsline {section}{\numberline {3.9}Supporting information}{83}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-4}
-\contentsline {chapter}{\numberline {4}Unbiased characterization of noise in geodetic data}{84}
-\contentsline {section}{\numberline {4.1}Abstract}{84}
-\contentsline {section}{\numberline {4.2}Introduction}{84}
-\contentsline {section}{\numberline {4.3}Maximum likelihood methods}{86}
-\contentsline {section}{\numberline {4.4}Synthetic demonstration}{88}
-\contentsline {section}{\numberline {4.5}Discussion and conclusion}{90}
-\contentsline {section}{\numberline {4.6}Acknowledgements}{91}
-\contentsline {section}{\numberline {4.7}References}{91}
-\contentsline {section}{Appendix 4A: REML algorithm}{93}
+\contentsline {chapter}{\numberline {4}Unbiased characterization of noise in geodetic data}{88}
+\contentsline {section}{\numberline {4.1}Abstract}{88}
+\contentsline {section}{\numberline {4.2}Introduction}{88}
+\contentsline {section}{\numberline {4.3}Maximum likelihood methods}{90}
+\contentsline {section}{\numberline {4.4}Synthetic demonstration}{92}
+\contentsline {section}{\numberline {4.5}Discussion and conclusion}{94}
+\contentsline {section}{\numberline {4.6}Acknowledgements}{95}
+\contentsline {section}{\numberline {4.7}References}{95}
+\contentsline {section}{Appendix 4A: REML algorithm}{97}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
-\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{94}
-\contentsline {section}{\numberline {5.1}Summary}{94}
-\contentsline {section}{\numberline {5.2}Introduction}{94}
-\contentsline {section}{\numberline {5.3}Estimating transient strain rates}{97}
-\contentsline {section}{\numberline {5.4}Outlier detection}{100}
-\contentsline {section}{\numberline {5.5}Application to Cascadia slow slip events}{101}
-\contentsline {subsection}{\numberline {5.5.1}Noise model}{102}
-\contentsline {subsection}{\numberline {5.5.2}Prior model}{104}
-\contentsline {subsection}{\numberline {5.5.3}Transient strain rates}{110}
-\contentsline {section}{\numberline {5.6}Discussion}{115}
-\contentsline {section}{\numberline {5.7}Conclusion}{116}
-\contentsline {section}{\numberline {5.8}Acknowledgements}{117}
-\contentsline {section}{\numberline {5.9}References}{117}
+\contentsline {chapter}{\numberline {5}Revealing transient strain in geodetic data with Gaussian process regression}{98}
+\contentsline {section}{\numberline {5.1}Summary}{98}
+\contentsline {section}{\numberline {5.2}Introduction}{98}
+\contentsline {section}{\numberline {5.3}Estimating transient strain rates}{101}
+\contentsline {section}{\numberline {5.4}Outlier detection}{104}
+\contentsline {section}{\numberline {5.5}Application to Cascadia slow slip events}{105}
+\contentsline {subsection}{\numberline {5.5.1}Noise model}{106}
+\contentsline {subsection}{\numberline {5.5.2}Prior model}{108}
+\contentsline {subsection}{\numberline {5.5.3}Transient strain rates}{114}
+\contentsline {section}{\numberline {5.6}Discussion}{119}
+\contentsline {section}{\numberline {5.7}Conclusion}{120}
+\contentsline {section}{\numberline {5.8}Acknowledgements}{121}
+\contentsline {section}{\numberline {5.9}References}{121}
 \gdef \the@ipfilectr {}
 \contentsfinish 

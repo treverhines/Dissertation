@@ -6,13 +6,13 @@
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-3}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Assumed and estimated material properties. $\lambda $ and $\mu $ are assumed known \textit {a priori} and are based on the values used for the coseismic model by \citet {Wei2011}. The values for $\eta _\mathrm {eff}$ are estimated in Section 3.4.2\hbox {}, and $\frac {\mu _k}{\mu }$ are the optimal shear moduli ratios found in Section 3.4.3\hbox {} for a Zener rheology upper mantle.\relax }}{56}
+\contentsline {table}{\numberline {3.1}{\ignorespaces Assumed and estimated material properties. $\lambda $ and $\mu $ are assumed known \textit {a priori} and are based on the values used for the coseismic model by \citet {Wei2011}. The values for $\eta _\mathrm {eff}$ are estimated in Section 3.4.2\hbox {}, and $\frac {\mu _k}{\mu }$ are the optimal shear moduli ratios found in Section 3.4.3\hbox {} for a Zener rheology upper mantle.\relax }}{60}
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-4}
 \addvspace {10\p@ }
 \gdef \the@ipfilectr {}
 \gdef \the@ipfilectr {@-5}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {5.1}{\ignorespaces Optimal hyperparameters for the prior on transient displacements determined with the REML method. The temporal covariance function is indicated by the ``$T$'' column. The SE, IBM, and Wendland covariance functions are defined in eqs. (5.24\hbox {}), (5.25\hbox {}), and (5.27\hbox {}), respectively. The spatial covariance function, $X$, is the squared exponential (eq. 5.23\hbox {}) in all cases. The hyperparameters are estimated for each of the seven SSEs considered in this study, and the tabulated values indicate the median and interquartile ranges of estimates. The ``diff $\qopname \relax o{log}$(REML)'' column compares the log REML likelihood to the log REML likelihood when using the SE covariance function for $T$. Negative values indicate that observations are more consistent with the SE covariance function.\relax }}{109}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Optimal hyperparameters for the prior on transient displacements determined with the REML method. The temporal covariance function is indicated by the ``$T$'' column. The SE, IBM, and Wendland covariance functions are defined in eqs. (5.24\hbox {}), (5.25\hbox {}), and (5.27\hbox {}), respectively. The spatial covariance function, $X$, is the squared exponential (eq. 5.23\hbox {}) in all cases. The hyperparameters are estimated for each of the seven SSEs considered in this study, and the tabulated values indicate the median and interquartile ranges of estimates. The ``diff $\qopname \relax o{log}$(REML)'' column compares the log REML likelihood to the log REML likelihood when using the SE covariance function for $T$. Negative values indicate that observations are more consistent with the SE covariance function.\relax }}{113}
 \gdef \the@ipfilectr {}
 \contentsfinish 

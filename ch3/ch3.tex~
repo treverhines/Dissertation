@@ -1126,6 +1126,22 @@ preferred model does not conflict with the generally higher
 steady-state viscosities inferred from geophysical processes occurring
 over longer time scales.
 
+\section{Acknowledgements}
+We thank Andy Freed for an illuminating discussion on the data used in
+this study.  We thank Fred Pollitz and an anonymous reviewer for
+comments that improved this manuscript. We also thank the editor,
+Martha Savage.  This material is based on EarthScope Plate Boundary
+Observatory data services provided by UNAVCO through the GAGE Facility
+with support from the National Science Foundation (NSF) and National
+Aeronautics and Space Administration (NASA) under NSF Cooperative
+Agreement No. EAR-1261833.  The data used in this study can be found
+at www.unavco.org. This material is based upon work supported by the
+National Science Foundation under Grant Numbers EAR 1045372 and EAR
+1245263.
+
+\bibliographystyle{agu04}
+\bibliography{refs}
+
 \section{Supporting information}
 Figures \ref{ch3:fig:S1} and \ref{ch3:fig:S2} provide additional
 information about the inversion in Section \ref{ch3:sec:Model} of the
@@ -1155,7 +1171,7 @@ size of the Laplacian of fluidity, $||\nabla
 \begin{figure}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS02}
 \caption{Checkerboard test used to assess the resolving power of the
-inversion in Section 3.2 of the main text.  We create synthetic data
+inversion in Section \ref{ch3:sec:InitialInversion} of the main text.  We create synthetic data
 at all of the GPS stations considered in this study by evaluating eq.
 (14) with the synthetic coseismic slip distribution and fluidity
 distributions. Our synthetic fluidity model has a jump from 0.0 to
@@ -1176,7 +1192,7 @@ fluidity largely obscures the jump in the synthetic model.}
 \noindent\includegraphics[scale=1.0]{ch3/figures/2016jb013114-pS03}
 \caption{Elastic (black) and viscoelastic (green) components of the
 near-field predicted displacements for the preferred Zener model from
-Section 3.3.  The elastic component is the deformation resulting from
+Section \ref{ch3:sec:FullInversion}.  The elastic component is the deformation resulting from
 fault slip and the viscoelastic component is the deformation resulting
 from viscoelastic relaxation of stresses induced by the fault slip.
 The elastic and viscoelastic components are calculated from the first
@@ -1192,18 +1208,3 @@ viscoelastic component is shown within the green circles.}
 \label{ch3:fig:S4}
 \end{figure}
 
-\section{Acknowledgements}
-We thank Andy Freed for an illuminating discussion on the data used in
-this study.  We thank Fred Pollitz and an anonymous reviewer for
-comments that improved this manuscript. We also thank the editor,
-Martha Savage.  This material is based on EarthScope Plate Boundary
-Observatory data services provided by UNAVCO through the GAGE Facility
-with support from the National Science Foundation (NSF) and National
-Aeronautics and Space Administration (NASA) under NSF Cooperative
-Agreement No. EAR-1261833.  The data used in this study can be found
-at www.unavco.org. This material is based upon work supported by the
-National Science Foundation under Grant Numbers EAR 1045372 and EAR
-1245263.
-
-\bibliographystyle{agu04}
-\bibliography{refs}
