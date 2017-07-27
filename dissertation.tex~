@@ -7,7 +7,7 @@
 \usepackage{titlesec}
 \usepackage{titletoc}
 \usepackage{natbib}
-\usepackage{chapterbib}
+%\usepackage{chapterbib}
 \usepackage{graphicx}
 \usepackage{etoolbox}
 \usepackage{algorithm}
@@ -15,6 +15,11 @@
 \usepackage{setspace}
 \usepackage{tocloft}
 \usepackage{caption}
+\usepackage{footmisc}
+
+%% MAKE FOOTNOTES USE SYMBOLS INSTEAD OF NUMBER
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
 
 %% STOP GIVING SMALL FIGURES A FULL PAGE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -41,8 +46,8 @@
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\doublespacing
-%\onehalfspacing
-\singlespacing
+\onehalfspacing
+%\singlespacing
 
 %% INCLUDE THE WORD "CHAPTER" IN TOC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -108,11 +113,11 @@
 
 %% CHANGE BIBLIOGRAPHY NAME TO REFERENCES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand\bibname{References}
+\renewcommand\bibname{REFERENCES}
 
 %% CHANGE BIBLIOGRAPHY FROM A CHAPTER TO NUMBERED SECTION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\renewcommand{\bibsection}{\section{\bibname}}
+%\renewcommand{\bibsection}{\section{\bibname}}
 
 \begin{document}
 %% FRONT MATTER
@@ -229,5 +234,9 @@ Blerg blargle blorg blerp
 \include{ch5/ch5}
 
 \include{ch6/ch6}
+
+\bibliographystyle{agu04}
+\addcontentsline{toc}{chapter}{REFERENCES}
+\bibliography{refs}
 
 \end{document}

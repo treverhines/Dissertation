@@ -22,6 +22,12 @@ study, we assess the ability of BSMs to measure strain resulting from
 SSEs on the Cascadia subduction zone. This is done by comparing BSM
 data to strain derived from GNSS data.
 
+\begin{figure}
+\includegraphics{ch6/figures/map.pdf}
+\caption{Location of BSM and GNSS stations used in this study.}   
+\label{fig:Map}
+\end{figure}
+
 \section{BSM Data}
 The are about forty PBO BSMs in the Pacific Northwest, and only five
 of them, B003, B004, B005, B007, and B018, record noticeable
@@ -167,9 +173,16 @@ spatially differentiate the posterior displacements to obtain
 transient strain.
 
 \begin{figure}
-\includegraphics{ch6/figures/map.pdf}
-\caption{Location of BSM and GNSS stations used in this study.}   
-\label{fig:Map}
+\includegraphics{ch6/figures/SSE1.pdf}
+\caption{differential (left) and engineering shear (right) strains
+during the summer 2010 SSE observed at BSMs (solid) and derived from
+GNSS data (dashed). The horizontal dotted lines are spaced by 0.1
+micro-strain. The shaded region around the GNSS derived strains show
+the one standard deviation confidence interval. The dotted line for
+station B018 shows the BSM data using the optimal instrument
+orientation. The shown BSM data has been detrended by estimating and
+removing a second-order polynomial from each timeseries.}
+\label{fig:SSE1}
 \end{figure}
 
 \section{Results}
@@ -187,19 +200,6 @@ B004, B007, and B018 because the areal strains derived from different
 combinations of gauges at these stations are not self consistent.
 \citet{Roeloffs2010} also noted an inconsistency in the differential
 strains at B003.
-
-\begin{figure}
-\includegraphics{ch6/figures/SSE1.pdf}
-\caption{differential (left) and engineering shear (right) strains
-during the summer 2010 SSE observed at BSMs (solid) and derived from
-GNSS data (dashed). The horizontal dotted lines are spaced by 0.1
-micro-strain. The shaded region around the GNSS derived strains show
-the one standard deviation confidence interval. The dotted line for
-station B018 shows the BSM data using the optimal instrument
-orientation. The shown BSM data has been detrended by estimating and
-removing a second-order polynomial from each timeseries.}
-\label{fig:SSE1}
-\end{figure}
 
 Station B004 records differential and engineering shear strains that
 are most consistent with the GNSS derived strains. However, the
@@ -239,35 +239,6 @@ SSE signal, even though a signal is observed in the GNSS derived
 strains. This too could be due to distortion of the strain field from
 local features.
 
-The differential and engineering shear strains recorded at station
-B018 have notably less noise than most BSMs. Nonetheless, the
-engineering shear strains at B018 are not consistent with the GNSS
-derived strains. For example, BSM data shows a strain increase from
-the summer 2010 SSE, and the GNSS derived strains predict a strain
-decrease with about equal magnitude. We consider the possibility that
-this discrepancy is due to an error in the instrument orientation, and
-we identify a new, optimal orientation for station B018. We want to
-find the value for $\theta_0$ that causes the strain drops (or
-increases) recorded at B018 to best match the strain drops derived
-from GNSS data. We identify 11 strain drops in the GNSS derived
-strains, which are due to SSEs in the Puget Sound region and in Oregon
-(Figure \ref{fig:Gnss}). We define strain drops as the total strain
-change over the hand-selected intervals shown in Figure
-\ref{fig:Gnss}. The strain drops for each event are shown in Figure
-\ref{fig:Fit}. For each tested $\theta_0$, we use eq.
-(\ref{eq:GaugeToStrain}) to convert the strain drops recorded at each
-gauge (Figure \ref{fig:Gauge}) to the differential and engineering
-shear strain drops. We then use the L2 norm of the residuals, the
-difference between the BSM strain drops and the GNSS derived strain
-drops, as the misfit metric. We find an optimal value of $\theta_0$ to
-be $293^\circ$ east of north, which can be compared to the recorded
-value of $267^\circ$ (Figure \ref{fig:Misfit}). With the new
-orientation, the engineering shear strain recorded at B018 decreases
-during the summer 2010 SSE, which is now consistent with the GNSS data
-(Figure \ref{fig:SSE1}). The differential strains at B018 are roughly
-consistent with the GNSS derived strains, regardless of whether the
-recorded $\theta_0$ or optimal $\theta_0$ is used.
-
 \begin{figure}
 \includegraphics{ch6/figures/gnss.pdf}
 \caption{GNSS derived differential and engineering shear strains for
@@ -299,6 +270,35 @@ strain drops using the optimal orientation for B018 (green dots).}
 B018.}
 \label{fig:Misfit}
 \end{figure}
+
+The differential and engineering shear strains recorded at station
+B018 have notably less noise than most BSMs. Nonetheless, the
+engineering shear strains at B018 are not consistent with the GNSS
+derived strains. For example, BSM data shows a strain increase from
+the summer 2010 SSE, and the GNSS derived strains predict a strain
+decrease with about equal magnitude. We consider the possibility that
+this discrepancy is due to an error in the instrument orientation, and
+we identify a new, optimal orientation for station B018. We want to
+find the value for $\theta_0$ that causes the strain drops (or
+increases) recorded at B018 to best match the strain drops derived
+from GNSS data. We identify 11 strain drops in the GNSS derived
+strains, which are due to SSEs in the Puget Sound region and in Oregon
+(Figure \ref{fig:Gnss}). We define strain drops as the total strain
+change over the hand-selected intervals shown in Figure
+\ref{fig:Gnss}. The strain drops for each event are shown in Figure
+\ref{fig:Fit}. For each tested $\theta_0$, we use eq.
+(\ref{eq:GaugeToStrain}) to convert the strain drops recorded at each
+gauge (Figure \ref{fig:Gauge}) to the differential and engineering
+shear strain drops. We then use the L2 norm of the residuals, the
+difference between the BSM strain drops and the GNSS derived strain
+drops, as the misfit metric. We find an optimal value of $\theta_0$ to
+be $293^\circ$ east of north, which can be compared to the recorded
+value of $267^\circ$ (Figure \ref{fig:Misfit}). With the new
+orientation, the engineering shear strain recorded at B018 decreases
+during the summer 2010 SSE, which is now consistent with the GNSS data
+(Figure \ref{fig:SSE1}). The differential strains at B018 are roughly
+consistent with the GNSS derived strains, regardless of whether the
+recorded $\theta_0$ or optimal $\theta_0$ is used.
 
 \section{Conclusion}
 We have compared BSM data to GNSS derived strains for eight of the
@@ -359,5 +359,5 @@ when attempting to use BSM data to describe regional strains.
 \label{fig:SSE7}
 \end{figure}
 
-\bibliographystyle{agu04}
-\bibliography{refs}  
+%\bibliographystyle{agu04}
+%\bibliography{refs}  

@@ -1,0 +1,1010 @@
+\begin{thebibliography}{167}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Aagaard et~al.}(2013)\textit{Aagaard, Knepley, and
+  Williams}}]{Aagaard2013}
+Aagaard, B.~T., M.~G. Knepley, and C.~A. Williams (2013), {A domain
+  decomposition approach to implementing fault slip in finite-element models of
+  quasi-static and dynamic crustal deformation}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{118}, 3059--3079, \doi{10.1002/jgrb.50217}.
+
+\bibitem[{\textit{Agnew}(1992)}]{Agnew1992}
+Agnew, D.~C. (1992), {The time-domain behavior of power-law noises},
+  \textit{Geophysical Research Letters}, \textit{19}(4), 333--336.
+
+\bibitem[{\textit{Agnew}(1997)}]{Agnew1997}
+Agnew, D.~C. (1997), {NLOADF: A program for computing ocean-tide loading},
+  \textit{Journal of Geophysical Research}, \textit{102}, 5109--5110.
+
+\bibitem[{\textit{Amiri-Simkooei et~al.}(2007)\textit{Amiri-Simkooei, Tiberius,
+  and Teunissen}}]{Amiri-Simkooei2007}
+Amiri-Simkooei, A.~R., C.~C. J.~M. Tiberius, and P.~J.~G. Teunissen (2007),
+  {Assessment of noise in GPS coordinate time series: Methodology and results},
+  \textit{Journal of Geophysical Research: Solid Earth}, \textit{112}(7),
+  1--19, \doi{10.1029/2006JB004913}.
+
+\bibitem[{\textit{Argus et~al.}(2005)\textit{Argus, Heflin, Peltzer,
+  Cramp{\'{e}}, and Webb}}]{Argus2005}
+Argus, D.~F., M.~B. Heflin, G.~Peltzer, F.~Cramp{\'{e}}, and F.~H. Webb (2005),
+  {Interseismic strain accumulation and anthropogenic motion in metropolitan
+  Los Angeles}, \textit{Journal of Geophysical Research B: Solid Earth},
+  \textit{110}(B04401), 1--26, \doi{10.1029/2003JB002934}.
+
+\bibitem[{\textit{Aster et~al.}(2011)\textit{Aster, Borchers, and
+  Thurber}}]{Aster2011}
+Aster, R.~C., B.~Borchers, and C.~H. Thurber (2011), \textit{{Parameter
+  Estimation and Inverse Problems}}, vol.~90, 360 pp.
+
+\bibitem[{\textit{Barbot and Fialko}(2010)}]{Barbot2010}
+Barbot, S., and Y.~Fialko (2010), {A unified continuum representation of
+  post-seismic relaxation mechanisms: Semi-analytic models of afterslip,
+  poroelastic rebound and viscoelastic flow}, \textit{Geophysical Journal
+  International}, \textit{182}(3), 1124--1140,
+  \doi{10.1111/j.1365-246X.2010.04678.x}.
+
+\bibitem[{\textit{Barbot et~al.}(2009)\textit{Barbot, Fialko, and
+  Bock}}]{Barbot2009}
+Barbot, S., Y.~Fialko, and Y.~Bock (2009), {Postseismic deformation due to the
+  Mw 6.0 2004 Parkfield earthquake: Stress-driven creep on a fault with
+  spatially variable rate-and-state friction parameters}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{114}, 1--26,
+  \doi{10.1029/2008JB005748}.
+
+\bibitem[{\textit{Barbour and Crowell}(2017)}]{Barbour2017}
+Barbour, A.~J., and B.~W. Crowell (2017), {Dynamic Strains for Earthquake
+  Source Characterization}, \textit{Seismological Research Letters},
+  \textit{88}(2A), 354--370, \doi{10.1785/0220160155}.
+
+\bibitem[{\textit{Bawden et~al.}(2001)\textit{Bawden, Thatcher, Stein, Hudnut,
+  and Peltzer}}]{Bawden2001}
+Bawden, G.~W., W.~Thatcher, R.~S. Stein, K.~W. Hudnut, and G.~Peltzer (2001),
+  {Tectonic contraction across Los Angeles after removal of groundwater pumping
+  effects.}, \textit{Nature}, \textit{412}, 812--815, \doi{10.1038/35090558}.
+
+\bibitem[{\textit{Beavan and Haines}(2001)}]{Beavan2001}
+Beavan, J., and J.~Haines (2001), {Contemporary horizontal velocity and strain
+  rate fields of the Pacific-Australian plate boundary zone through New
+  Zealand}, \textit{Journal of Geophysical Research}, \textit{106}(B1),
+  741--770.
+
+\bibitem[{\textit{Berger and Beaumont}(1976)}]{Berger1976}
+Berger, J., and C.~Beaumont (1976), {An analysis of tidal strain observations
+  from the United States of America II. The inhomogeneous tide},
+  \textit{Bulletin of the Seismological Society of America}, \textit{66}(6),
+  1821--1846.
+
+\bibitem[{\textit{Bills and May}(1987)}]{Bills1987}
+Bills, B.~G., and G.~M. May (1987), {Lake Bonneville: Constraints on
+  Lithospheric Thickness and Upper Mantle Viscosity From Isostatic Warping of
+  Bonneville, Provo, and Gilbert Stage Shorelines}, \textit{Journal of
+  Geophysical Research-Solid Earth and Planets}, \textit{92}(B11),
+  11,493--11,508, \doi{10.1029/JB092iB11p11493}.
+
+\bibitem[{\textit{Blewitt et~al.}(2016)\textit{Blewitt, Kreemer, Hammond, and
+  Gazeaux}}]{Blewitt2016}
+Blewitt, G., C.~Kreemer, W.~C. Hammond, and J.~Gazeaux (2016), {MIDAS robust
+  trend estimator for accurate GPS station velocities without step detection},
+  \textit{Journal of Geophysical Research : Solid Earth}, \textit{121},
+  2054--2068, \doi{10.1002/2015JB012552.Received}.
+
+\bibitem[{\textit{B{\"{u}}rgmann and Dresen}(2008)}]{Burgmann2008}
+B{\"{u}}rgmann, R., and G.~Dresen (2008), {Rheology of the Lower Crust and
+  Upper Mantle: Evidence from Rock Mechanics, Geodesy, and Field Observations},
+  \textit{Annual Review of Earth and Planetary Sciences}, \textit{36},
+  531--567, \doi{10.1146/annurev.earth.36.031207.124326}.
+
+\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ayhan,
+  Fielding, Wright, McClusky, Aktug, Demir, Lenk, and
+  T{\"{u}}rkezer}}]{Burgmann2002}
+B{\"{u}}rgmann, R., M.~E. Ayhan, E.~J. Fielding, T.~J. Wright, S.~McClusky,
+  B.~Aktug, C.~Demir, O.~Lenk, and A.~T{\"{u}}rkezer (2002), {Deformation
+  during the 12 November 1999 D{\"{u}}zce, Turkey, earthquake, from GPS and
+  InSAR data}, \textit{Bulletin of the Seismological Society of America},
+  \textit{92}(February), 161--171, \doi{10.1785/0120000834}.
+
+\bibitem[{\textit{{\c{C}}akir et~al.}(2012)\textit{{\c{C}}akir, Ergintav,
+  {\"{O}}zener, Dogan, Akoglu, Meghraoui, and Reilinger}}]{Cakir2012}
+{\c{C}}akir, Z., S.~Ergintav, H.~{\"{O}}zener, U.~Dogan, A.~M. Akoglu,
+  M.~Meghraoui, and R.~Reilinger (2012), {Onset of aseismic creep on major
+  strike-slip faults}, \textit{Geology}, \textit{40}(12), 1115--1118,
+  \doi{10.1130/G33522.1}.
+
+\bibitem[{\textit{Cavali{\'{e}} et~al.}(2007)\textit{Cavali{\'{e}}, Doin,
+  Lasserre, and Briole}}]{Cavalie2007}
+Cavali{\'{e}}, O., M.~P. Doin, C.~Lasserre, and P.~Briole (2007), {Ground
+  motion measurement in the Lake Mead area, Nevada, by differential synthetic
+  aperture radar interferometry time series analysis: Probing the lithosphere
+  rheological structure}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{112}(B03403), 1--18, \doi{10.1029/2006JB004344}.
+
+\bibitem[{\textit{Cetin et~al.}(2014)\textit{Cetin, Cakir, Meghraoui, Ergintav,
+  and Akoglu}}]{Cetin2014}
+Cetin, E., Z.~Cakir, M.~Meghraoui, S.~Ergintav, and A.~M. Akoglu (2014),
+  {Extent and distribution of aseismic slip on the Ismetpasa segment of the
+  North Anatolian Fault (Turkey) from Persistent Scatterer InSAR},
+  \textit{Geochemistry, Geophysics, Geosystems}, \textit{15},
+  \doi{10.1002/2014GC005307.Received}.
+
+\bibitem[{\textit{Chen et~al.}(2008)\textit{Chen, Davis, and Hager}}]{Chen2008}
+Chen, Y., T.~a. Davis, and W.~W. Hager (2008), {Algorithm 887 : CHOLMOD ,
+  Supernodal Sparse Cholesky Factorization and Update/downdate}, \textit{ACM
+  Transactions on Mathematical Software}, \textit{35}(3), 1--12,
+  \doi{10.1145/1391989.1391995.}
+
+\bibitem[{\textit{Chinnery and Jovanovich}(1972)}]{Chinnery1972}
+Chinnery, M.~A., and D.~B. Jovanovich (1972), {Effect of earth layering on
+  earthquake displacement fields}, \textit{Bulletin of the Seismological
+  Society of America}, \textit{62}(6), 1629--1639.
+
+\bibitem[{\textit{Chopra}(1997)}]{Chopra1997}
+Chopra, P.~N. (1997), {High-temperature transient creep in olivine rocks},
+  \textit{Tectonophysics}, \textit{279}, 93--111,
+  \doi{10.1016/S0040-1951(97)00134-0}.
+
+\bibitem[{\textit{Cressie}(1993)}]{Cressie1992}
+Cressie, N. (1993), \textit{{Statistics for Spatial Data}}, rev. ed., John
+  Wiley {\&} Sons, New York, \doi{10.1111/j.1365-3121.1992.tb00605.x}.
+
+\bibitem[{\textit{Crittenden}(1967)}]{Crittenden1967}
+Crittenden, M. (1967), {Viscosity and Finite Strength of the Mantle as
+  Determined from Water and Ice Loads}, \textit{Geophysical Journal of the
+  Royal Astronomical Society}, pp. 261--279,
+  \doi{10.1111/j.1365-246X.1967.tb06243.x}.
+
+\bibitem[{\textit{Davis et~al.}(2012)\textit{Davis, Wernicke, and
+  Tamisiea}}]{Davis2012}
+Davis, J.~L., B.~P. Wernicke, and M.~E. Tamisiea (2012), {On seasonal signals
+  in geodetic time series}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{117}(B01403), 1--10, \doi{10.1029/2011JB008690}.
+
+\bibitem[{\textit{Desbrun et~al.}(1999)\textit{Desbrun, Meyer, Schr{\"{o}}der,
+  and Barr}}]{Desbrun1999}
+Desbrun, M., M.~Meyer, P.~Schr{\"{o}}der, and A.~H. Barr (1999), {Implicit
+  fairing of irregular meshes using diffusion and curvature flow},
+  \textit{Proceedings of the 26th annual conference on Computer graphics and
+  interactive techniques - SIGGRAPH '99}, \textit{33}, 317--324,
+  \doi{10.1145/311535.311576}.
+
+\bibitem[{\textit{Dmitrieva et~al.}(2015)\textit{Dmitrieva, Segall, and
+  DeMets}}]{Dmitrieva2015}
+Dmitrieva, K., P.~Segall, and C.~DeMets (2015), {Network-based estimation of
+  time-dependent noise in GPS position time series}, \textit{Journal of
+  Geodesy}, \textit{89}(6), 591--606, \doi{10.1007/s00190-015-0801-9}.
+
+\bibitem[{\textit{Dong et~al.}(2002)\textit{Dong, Fang, Bock, Cheng, and
+  Miyazaki}}]{Dong2002}
+Dong, D., P.~Fang, Y.~Bock, M.~K. Cheng, and S.~Miyazaki (2002), {Anatomy of
+  apparent seasonal variations from GPS-derived site position time series},
+  \textit{J. Geophys. Res.}, \textit{107}(B4), 2075,
+  \doi{10.1029/2001JB000573}.
+
+\bibitem[{\textit{Dong et~al.}(2006)\textit{Dong, Fang, Bock, Webb,
+  Prawirodirdjo, Kedar, and Jamason}}]{Dong2006}
+Dong, D., P.~Fang, Y.~Bock, F.~Webb, L.~Prawirodirdjo, S.~Kedar, and P.~Jamason
+  (2006), {Spatiotemporal filtering using principal component analysis and
+  Karhunen-Loeve expansion approaches for regional GPS network analysis},
+  \textit{Journal of Geophysical Research: Solid Earth}, \textit{111}(3),
+  1--16, \doi{10.1029/2005JB003806}.
+
+\bibitem[{\textit{Dragert et~al.}(2001)\textit{Dragert, Wang, and
+  James}}]{Dragert2001}
+Dragert, G., K.~Wang, and T.~S. James (2001), {A silent slip event on the
+  deeper Cascadia subduction interface.}, \textit{Science}, \textit{292},
+  1525--1528, \doi{10.1126/science.1060152}.
+
+\bibitem[{\textit{Dragert and Wang}(2011)}]{Dragert2011}
+Dragert, H., and K.~Wang (2011), {Temporal evolution of an episodic tremor and
+  slip event along the northern Cascadia margin}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{116}(12), 1--12,
+  \doi{10.1029/2011JB008609}.
+
+\bibitem[{\textit{El-Fiky and Kato}(1998)}]{El-Fiky1999}
+El-Fiky, G.~S., and T.~Kato (1998), {Continuous distribution of the horizontal
+  strain in the Tohoku district, Japan, predicted by least-squares
+  collocation}, \textit{Journal of Geodynamics}, \textit{27}(2), 213--236,
+  \doi{10.1016/S0264-3707(98)00006-4}.
+
+\bibitem[{\textit{Ergintav et~al.}(2009)\textit{Ergintav, McClusky, Hearn,
+  Reilinger, Cakmak, Herring, Ozener, Lenk, and Tari}}]{Ergintav2009}
+Ergintav, S., S.~McClusky, E.~Hearn, R.~Reilinger, R.~Cakmak, T.~Herring,
+  H.~Ozener, O.~Lenk, and E.~Tari (2009), {Seven years of postseismic
+  deformation following the 1999, M = 7.4 and M = 7.2, Izmit-D{\"{u}}zce,
+  Turkey earthquake sequence}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{114}, \doi{10.1029/2008JB006021}.
+
+\bibitem[{\textit{Feigl and Thatcher}(2006)}]{Feigl2006}
+Feigl, K.~L., and W.~Thatcher (2006), {Geodetic observations of post-seismic
+  transients in the context of the earthquake deformation cycle},
+  \textit{Comptes Rendus - Geoscience}, \textit{338}, 1012--1028,
+  \doi{10.1016/j.crte.2006.06.006}.
+
+\bibitem[{\textit{Feigl et~al.}(1990)\textit{Feigl, King, and
+  Jordan}}]{Feigl1990}
+Feigl, K.~L., R.~W. King, and T.~H. Jordan (1990), {Geodetic measurement of
+  tectonic deformation in the Santa Maria Fold and Thrust Belt, California},
+  \textit{Journal of Geophysical Research: Solid Earth}, \textit{95}(B3),
+  2679--2699, \doi{10.1029/JB095iB03p02679}.
+
+\bibitem[{\textit{Field et~al.}(2014)}]{Field2014}
+Field, E.~H., et~al. (2014), {Uniform California Earthquake Rupture Forecast,
+  version 3 (UCERF3) -The time-independent model}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{104}(3), 1122--1180,
+  \doi{10.1785/0120130164}.
+
+\bibitem[{\textit{Fletcher et~al.}(2014)}]{Fletcher2014}
+Fletcher, J.~M., et~al. (2014), {Assembly of a large earthquake from a complex
+  fault system: Surface rupture kinematics of the 4 April 2010 El Mayor-Cucapah
+  (Mexico) Mw 7.2 earthquake}, \textit{Geosphere}, \textit{10}(4), 797--827,
+  \doi{10.1130/GES00933.1}.
+
+\bibitem[{\textit{Fl{\"{u}}gge}(1975)}]{Flugge1975}
+Fl{\"{u}}gge, W. (1975), \textit{{Viscoelasticity}}, Springer-Verlag Berlin
+  Heidelberg, \doi{10.1007/978-3-662-02276-4}.
+
+\bibitem[{\textit{Freed}(2007)}]{Freed2007}
+Freed, A.~M. (2007), {Afterslip (and only afterslip) following the 2004
+  Parkfield, California, earthquake}, \textit{Geophysical Research Letters},
+  \textit{34}, 1--5, \doi{10.1029/2006GL029155}.
+
+\bibitem[{\textit{Freed and Lin}(2001)}]{Freed2001}
+Freed, a.~M., and J.~Lin (2001), {Delayed triggering of the 1999 Hector Mine
+  earthquake by viscoelastic stress transfer.}, \textit{Nature},
+  \doi{10.1038/35075548}.
+
+\bibitem[{\textit{Freed et~al.}(2006{\natexlab{a}})\textit{Freed,
+  B{\"{u}}rgmann, Calais, and Freymueller}}]{Freed2006b}
+Freed, A.~M., R.~B{\"{u}}rgmann, E.~Calais, and J.~Freymueller
+  (2006{\natexlab{a}}), {Stress-dependent power-law flow in the upper mantle
+  following the 2002 Denali, Alaska, earthquake}, \textit{Earth and Planetary
+  Science Letters}, \textit{252}, 481--489, \doi{10.1016/j.epsl.2006.10.011}.
+
+\bibitem[{\textit{Freed et~al.}(2006{\natexlab{b}})\textit{Freed,
+  B{\"{u}}rgmann, Calais, Freymueller, and Hreinsd{\'{o}}ttir}}]{Freed2006a}
+Freed, A.~M., R.~B{\"{u}}rgmann, E.~Calais, J.~Freymueller, and
+  S.~Hreinsd{\'{o}}ttir (2006{\natexlab{b}}), {Implications of deformation
+  following the 2002 Denali, Alaska, earthquake for postseismic relaxation
+  processes and lithospheric rheology}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{111}(B01401), 1--23,
+  \doi{10.1029/2005JB003894}.
+
+\bibitem[{\textit{Freed et~al.}(2007)\textit{Freed, B{\"{u}}rgmann, and
+  Herring}}]{Freed2007a}
+Freed, A.~M., R.~B{\"{u}}rgmann, and T.~Herring (2007), {Far-reaching transient
+  motions after Mojave earthquakes require broad mantle flow beneath a strong
+  crust}, \textit{Geophysical Research Letters}, \textit{34}(L19302), 1--5,
+  \doi{10.1029/2007GL030959}.
+
+\bibitem[{\textit{Fukahata and Matsu'ura}(2006)}]{Fukahata2006}
+Fukahata, Y., and M.~Matsu'ura (2006), {Quasi-static internal deformation due
+  to a dislocation source in a multilayered elastic/viscoelastic half-space and
+  an equivalence theorem}, \textit{Geophysical Journal International},
+  \textit{166}(1), 418--434, \doi{10.1111/j.1365-246X.2006.02921.x}.
+
+\bibitem[{\textit{Gibbs}(2011)}]{Gibbs2011}
+Gibbs, B.~P. (2011), \textit{{Advanced Kalman Filtering, Least-Squares and
+  Modeling: A Practical Handbook}}, John Wiley {\&} Sons, Hoboken, NJ,
+  \doi{10.1002/9780470890042}.
+
+\bibitem[{\textit{Gladwin and Hart}(1985)}]{Gladwin1985}
+Gladwin, M.~T., and R.~Hart (1985), {Design parameters for borehole strain
+  instrumentation}, \textit{Pure and Applied Geophysics}, \textit{123}(1),
+  59--80, \doi{10.1007/BF00877049}.
+
+\bibitem[{\textit{Gladwin et~al.}(1987)\textit{Gladwin, Gwyther, Hart, Francis,
+  and Johnston}}]{Gladwin1987}
+Gladwin, M.~T., R.~L. Gwyther, R.~Hart, M.~Francis, and M.~J.~S. Johnston
+  (1987), {Borehole tensor strain measurements in California}, \textit{Journal
+  of Geophysical Research: Solid Earth}, \textit{92}(B8), 7981--7988,
+  \doi{10.1029/JB092iB08p07981}.
+
+\bibitem[{\textit{Gonzalez-Ortega et~al.}(2014)\textit{Gonzalez-Ortega, Fialko,
+  Sandwell, Nava-pichardo, Fletcher, Gonzalez-garcia, Lipovsky, Floyd, and
+  Funning}}]{Gonzalez-ortega2014}
+Gonzalez-Ortega, A., Y.~Fialko, D.~Sandwell, F.~A. Nava-pichardo, J.~Fletcher,
+  J.~Gonzalez-garcia, B.~Lipovsky, M.~Floyd, and G.~Funning (2014), {El
+  Mayor-Cucapah (Mw7.2) earthquake: early near-field postseismic deformation
+  from InSar and GPS observations}, \textit{Journal of Geophysical Research},
+  \textit{119}, 1482--1497, \doi{10.1002/2013JB010193}.
+
+\bibitem[{\textit{Harris and Segall}(1987)}]{Harris1987}
+Harris, R.~a., and P.~Segall (1987), {Detection of a locked zone at depth on
+  the Parkfield, California, segment of the San Andreas Fault}, \textit{Journal
+  of Geophysical Research}, \textit{92}, 7945, \doi{10.1029/JB092iB08p07945}.
+
+\bibitem[{\textit{Hart et~al.}(1996)\textit{Hart, Gladwin, Gwyther, Agnew, and
+  Wyatt}}]{Hart1996}
+Hart, R. H.~G., M.~T. Gladwin, R.~L. Gwyther, D.~C. Agnew, and F.~K. Wyatt
+  (1996), {Tidal calibration of borehole strain meters: Removing the effects of
+  small-scale inhomogeneity}, \textit{Journal of Geophysical Research},
+  \textit{101}(96).
+
+\bibitem[{\textit{Harville}(1974)}]{Harville1974}
+Harville, D.~A. (1974), {Bayesian Inference for Variance Components Using Only
+  Error Contrasts}, \textit{Biometrika}, \textit{61}(2), 383--385.
+
+\bibitem[{\textit{Hauksson et~al.}(2011)\textit{Hauksson, Stock, Hutton, Yang,
+  Vidal-Villegas, and Kanamori}}]{Hauksson2011}
+Hauksson, E., J.~Stock, K.~Hutton, W.~Yang, J.~A. Vidal-Villegas, and
+  H.~Kanamori (2011), {The 2010 Mw 7.2 El mayor-cucapah earthquake sequence,
+  Baja California, Mexico and Southernmost California, USA: Active
+  seismotectonics along the Mexican pacific margin}, \textit{Pure and Applied
+  Geophysics}, \textit{168}, 1255--1277, \doi{10.1007/s00024-010-0209-7}.
+
+\bibitem[{\textit{Hearn}(2003)}]{Hearn2003}
+Hearn, E.~H. (2003), {What can GPS data tell us about the dynamics of
+  post-seismic deformation ?}, \textit{Geophysical Journal International},
+  \textit{155}, 753--777.
+
+\bibitem[{\textit{Hearn et~al.}(2002)\textit{Hearn, B{\"{u}}rgmann, and
+  Reilinger}}]{Hearn2002}
+Hearn, E.~H., R.~B{\"{u}}rgmann, and R.~E. Reilinger (2002), {Dynamics of
+  İzmit earthquake postseismic deformation and loading of the D{\"{u}}zce
+  earthquake hypocenter}, \textit{Bulletin of the Seismological Society of
+  America}, \textit{92}(1), 172--193, \doi{10.1785/0120000832}.
+
+\bibitem[{\textit{Hearn et~al.}(2009)\textit{Hearn, McClusky, Ergintav, and
+  Reilinger}}]{Hearn2009}
+Hearn, E.~H., S.~McClusky, S.~Ergintav, and R.~E. Reilinger (2009), {Izmit
+  earthquake postseismic deformation and dynamics of the North Anatolian Fault
+  Zone}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{114}(B08405), 1--21, \doi{10.1029/2008JB006026}.
+
+\bibitem[{\textit{Herring et~al.}(2016)}]{Herring2016}
+Herring, T.~A., et~al. (2016), {Plate Boundary Observatory and related
+  networks: GPS data analysis methods and geodetic product}, \textit{Reviews of
+  Geophysics}, pp. 1--50, \doi{10.1002/2016RG000529.Received}.
+
+\bibitem[{\textit{Hetland}(2003)}]{Hetland2003}
+Hetland, E.~A. (2003), {Postseismic relaxation across the Central Nevada
+  Seismic Belt}, \textit{Journal of Geophysical Research}, \textit{108}(B8),
+  1--13, \doi{10.1029/2002JB002257}.
+
+\bibitem[{\textit{Hetland and Hager}(2005)}]{Hetland2005}
+Hetland, E.~A., and B.~H. Hager (2005), {Postseismic and interseismic
+  displacements near a strike-slip fault: A two-dimensional theory for general
+  linear viscoelastic rheologies}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{110}, 1--21, \doi{10.1029/2005JB003689}.
+
+\bibitem[{\textit{Hetland and Zhang}(2014)}]{Hetland2014}
+Hetland, E.~A., and G.~Zhang (2014), {Effect of shear zones on post-seismic
+  deformation with application to the 1997 Mw 7.6 manyi earthquake},
+  \textit{Geophysical Journal International}, \textit{206}(2), 1--11,
+  \doi{10.1093/gji/ggu127}.
+
+\bibitem[{\textit{Hill et~al.}(2009)\textit{Hill, Davis, El{\'{o}}segui,
+  Wernicke, Malikowski, and Niemi}}]{Hill2009}
+Hill, E.~M., J.~L. Davis, P.~El{\'{o}}segui, B.~P. Wernicke, E.~Malikowski, and
+  N.~A. Niemi (2009), {Characterization of site-specific GPS errors using a
+  short-baseline network of braced monuments at Yucca Mountain, southern
+  Nevada}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{114}(11), 1--13, \doi{10.1029/2008JB006027}.
+
+\bibitem[{\textit{Hines and Hetland}(2013)}]{Hines2013}
+Hines, T.~T., and E.~A. Hetland (2013), {Bias in estimates of lithosphere
+  viscosity from interseismic deformation}, \textit{Geophysical Research
+  Letters}, \textit{40}(16), 4260--4265, \doi{10.1002/grl.50839}.
+
+\bibitem[{\textit{Hines and Hetland}(2015)}]{Hines2016}
+Hines, T.~T., and E.~A. Hetland (2015), {Rapid and simultaneous estimation of
+  fault slip and heterogeneous lithospheric viscosity from post-seismic
+  deformation}, \textit{Geophysical Journal International}, \textit{204}(1),
+  569--582, \doi{10.1093/gji/ggv477}.
+
+\bibitem[{\textit{Hines and Hetland}(2016)}]{Hines2016a}
+Hines, T.~T., and E.~A. Hetland (2016), {Rheologic constraints on the upper
+  mantle from five years of postseismic deformation following the El
+  Mayor-Cucapah earthquake}, \textit{Journal of Geophysical Research: Solid
+  Earth}, \textit{121}, \doi{10.1002/2016JB013114}.
+
+\bibitem[{\textit{Hines and Hetland}(2017{\natexlab{a}})}]{Hines2017}
+Hines, T.~T., and E.~A. Hetland (2017{\natexlab{a}}), {Unbiased
+  characterization of noise in geodetic data}, \textit{submitted to Journal of
+  Geodesy}.
+
+\bibitem[{\textit{Hines and Hetland}(2017{\natexlab{b}})}]{Hines2017a}
+Hines, T.~T., and E.~A. Hetland (2017{\natexlab{b}}), {Revealing transient
+  strain in geodetic data with Gaussian process regression}, \textit{submitted
+  to Geophysical Journal International}, pp. 1--25.
+
+\bibitem[{\textit{Hodgkinson et~al.}(2013)\textit{Hodgkinson, Agnew, and
+  Roeloffs}}]{Hodgkinson2013}
+Hodgkinson, K., D.~Agnew, and E.~Roeloffs (2013), {Working With Strainmeter
+  Data}, \textit{Eos, Transactions American Geophysical Union}, \textit{94}(9),
+  91--91, \doi{10.1002/2013EO090011}.
+
+\bibitem[{\textit{Holt and Shcherbenko}(2013)}]{Holt2013}
+Holt, W.~E., and G.~Shcherbenko (2013), {Toward a Continuous Monitoring of the
+  Horizontal Displacement Gradient Tensor Field in Southern California Using
+  cGPS Observations from Plate Boundary Observatory (PBO)},
+  \textit{Seismological Research Letters}, \textit{84}(3), 455--467,
+  \doi{10.1785/0220130004}.
+
+\bibitem[{\textit{Hsu et~al.}(2006)\textit{Hsu, Simons, Avouac, Galetzka, Sieh,
+  Chlieh, Natawidjaja, Prawirodirdjo, and Bock}}]{Hsu2006}
+Hsu, Y.-J., M.~Simons, J.-P. Avouac, J.~Galetzka, K.~Sieh, M.~Chlieh,
+  D.~Natawidjaja, L.~Prawirodirdjo, and Y.~Bock (2006), {Frictional Afterslip
+  Following the 2005 Nias-Simeulue Earthquake, Sumatra}, \textit{Science},
+  \textit{312}(June), 1921--1926.
+
+\bibitem[{\textit{Jacobs et~al.}(2002)\textit{Jacobs, Sandwell, Fialko, and
+  Sichoix}}]{Jacobs2002}
+Jacobs, A., D.~Sandwell, Y.~Fialko, and L.~Sichoix (2002), {The 1999 (Mw7.1)
+  Hector Mine, California, Earthquake: Near-Field Postseismic Deformation from
+  ERS Interferometry}, \textit{Bulletin of the Seismological Society of
+  America}, \textit{92}(4), 1433--1442.
+
+\bibitem[{\textit{Johnson and Segall}(2004)}]{Johnson2004}
+Johnson, K.~M., and P.~Segall (2004), {Viscoelastic earthquake cycle models
+  with deep stress-driven creep along the San Andreas fault system},
+  \textit{Journal of Geophysical Research B: Solid Earth},
+  \textit{109}(B10403), 1--19, \doi{10.1029/2004JB003096}.
+
+\bibitem[{\textit{Johnson et~al.}(2007)\textit{Johnson, Hilley, and
+  B{\"{u}}rgmann}}]{Johnson2007}
+Johnson, K.~M., G.~E. Hilley, and R.~B{\"{u}}rgmann (2007), {Influence of
+  lithosphere viscosity structure on estimates of fault slip rate in the Mojave
+  region of the San Andreas fault system}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{112}, 1--15, \doi{10.1029/2006JB004842}.
+
+\bibitem[{\textit{Johnson et~al.}(2009)\textit{Johnson, B{\"{u}}rgmann, and
+  Freymueller}}]{Johnson2009}
+Johnson, K.~M., R.~B{\"{u}}rgmann, and J.~T. Freymueller (2009), {Coupled
+  afterslip and viscoelastic flow following the 2002 Denali Fault, Alaska
+  earthquake}, \textit{Geophysical Journal International}, \textit{176}(3),
+  670--682, \doi{10.1111/j.1365-246X.2008.04029.x}.
+
+\bibitem[{\textit{J{\'{o}}nsson et~al.}(2003)\textit{J{\'{o}}nsson, Segall,
+  Pedersen, and Bjornsson}}]{Jonsson2003}
+J{\'{o}}nsson, S., P.~Segall, R.~Pedersen, and G.~Bjornsson (2003),
+  {Post-earthquake ground movements correlated to pore-pressure transients},
+  \textit{Nature}, \textit{424}, 179--183, \doi{10.1038/nature01758.1.}
+
+\bibitem[{\textit{Kato et~al.}(1998)\textit{Kato, El-Fiky, Oware, and
+  Miyazaki}}]{Kato1998}
+Kato, T., G.~S. El-Fiky, E.~N. Oware, and S.~Miyazaki (1998), {Crustal strains
+  in the Japanese islands as deduced from dense GPS array}, \textit{Geophysical
+  Research Letters}, \textit{25}(18), 3445--3448, \doi{10.1029/98GL02693}.
+
+\bibitem[{\textit{Kaufmann and Amelung}(2000)}]{Kaufmann2000}
+Kaufmann, G., and F.~Amelung (2000), {Reservoir-induced deformation and
+  continental rheology in vicinity of Lake Mead, Nevada}, \textit{Journal of
+  Geophysical Research}, \textit{105}(B7), 16,341, \doi{10.1029/2000JB900079}.
+
+\bibitem[{\textit{Kenner and Segall}(2003)}]{Kenner2003}
+Kenner, S.~J., and P.~Segall (2003), {Lower crustal structure in northern
+  California: Implications from strain rate variations following the 1906 San
+  Francisco earthquake}, \textit{Journal of Geophysical Research},
+  \textit{108}(B1), \doi{10.1029/2001JB000189}.
+
+\bibitem[{\textit{King and Williams}(2009)}]{King2009}
+King, M.~A., and S.~D.~P. Williams (2009), {Apparent stability of GPS
+  monumentation from short-baseline time series}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{114}(10), 1--21,
+  \doi{10.1029/2009JB006319}.
+
+\bibitem[{\textit{Kirby and Kronenberg}(1987)}]{Kirby1987}
+Kirby, S.~H., and A.~K. Kronenberg (1987), {Rheology of the Lithosphere '
+  Selected Topics}, \textit{Reviews of Geophysics}, \textit{25}, 12191,244.
+
+\bibitem[{\textit{Kohlstedt et~al.}(1995)\textit{Kohlstedt, Evans, and
+  Mackwell}}]{Kohlstedt1995}
+Kohlstedt, D.~L., B.~Evans, and S.~J. Mackwell (1995), {Strength of the
+  lithosphere: Constraints imposed by laboratory experiments}, \textit{Journal
+  of Geophysical Research}, \textit{100}(B9), 17,587--17,602,
+  \doi{10.1016/S0016-0032(16)90156-X}.
+
+\bibitem[{\textit{Kroll et~al.}(2013)\textit{Kroll, Cochran, Richards-Dinger,
+  and Sumy}}]{Kroll2013}
+Kroll, K.~A., E.~S. Cochran, K.~B. Richards-Dinger, and D.~F. Sumy (2013),
+  {Aftershocks of the 2010 Mw 7.2 El Mayor-Cucapah earthquake reveal complex
+  faulting in the Yuha Desert, California}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{118}(October), 6146--6164,
+  \doi{10.1002/2013JB010529}.
+
+\bibitem[{\textit{Langbein}(2004)}]{Langbein2004}
+Langbein, J. (2004), {Noise in two-color electronic distance meter measurements
+  revisited}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{109}(4), 1--16, \doi{10.1029/2003JB002819}.
+
+\bibitem[{\textit{Langbein}(2008)}]{Langbein2008}
+Langbein, J. (2008), {Noise in GPS displacement measurements from Southern
+  California and Southern Nevada}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{113}(5), 1--12, \doi{10.1029/2007JB005247}.
+
+\bibitem[{\textit{Langbein}(2012)}]{Langbein2012}
+Langbein, J. (2012), {Estimating rate uncertainty with maximum likelihood:
+  Differences between power-law and flicker-random-walk models},
+  \textit{Journal of Geodesy}, \textit{86}(9), 775--783,
+  \doi{10.1007/s00190-012-0556-5}.
+
+\bibitem[{\textit{Langbein}(2015)}]{Langbein2015}
+Langbein, J. (2015), {Borehole strainmeter measurements spanning the 2014 Mw6.0
+  South Napa Earthquake, California: The effect from instrument calibration},
+  \textit{Journal of Geophysical Research B: Solid Earth}, \textit{120}(10),
+  7190--7202, \doi{10.1002/2015JB012278}.
+
+\bibitem[{\textit{Langbein and Johnson}(1997)}]{Langbein1997}
+Langbein, J., and H.~Johnson (1997), {Correlated errors in geodetic time
+  series: Implications for time-dependent deformation}, \textit{Journal of
+  Geophysical Research}, \textit{102}(B1), 591--603, \doi{10.1029/96JB02945}.
+
+\bibitem[{\textit{Langbein et~al.}(2006)\textit{Langbein, Murray, and
+  Snyder}}]{Langbein2006}
+Langbein, J., J.~R. Murray, and H.~A. Snyder (2006), {Coseismic and initial
+  postseismic deformation from the 2004 Parkfield, California, earthquake,
+  observed by global positioning system, electronic distance meter,
+  creepmeters, and borehole strainmeters}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{96}(4 B), 304--320,
+  \doi{10.1785/0120050823}.
+
+\bibitem[{\textit{Lawson and Hanson}(1995)}]{Lawson1995}
+Lawson, C.~L., and R.~J. Hanson (1995), {Solving least squares problems},
+  \textit{SIAM classics in applied mathematics}, \textit{15}, 337,
+  \doi{10.2307/2005340}.
+
+\bibitem[{\textit{Lekic et~al.}(2011)\textit{Lekic, French, and
+  Fischer}}]{Lekic2011}
+Lekic, V., S.~W. French, and K.~M. Fischer (2011), {Lithospheric Thinning
+  Beneath Rifted Regions of Southern California}, \textit{Science},
+  \textit{334}, 783--787.
+
+\bibitem[{\textit{Lisowski et~al.}(2008)\textit{Lisowski, Dzurisin, Denlinger,
+  and Iwatsubo}}]{Lisowski2008}
+Lisowski, M., D.~Dzurisin, R.~P. Denlinger, and E.~Y. Iwatsubo (2008),
+  {Analysis of GPS-Measured Deformation Associated with the 2004 – 2006
+  Dome-Building Eruption of Mout St. Helens, Washington}, \textit{Tech. Rep.
+  September 1984}.
+
+\bibitem[{\textit{Liu et~al.}(1976)\textit{Liu, Anderson, and
+  Kanamori}}]{Liu1976}
+Liu, H.-P., D.~L. Anderson, and H.~Kanamori (1976), {Velocity dispersion due to
+  anelasticity; implications for seismology and mantle composition},
+  \textit{Geophysical Journal of the Royal Astronomical Society}, \textit{47},
+  41--58, \doi{10.1111/j.1365-246X.1976.tb01261.x}.
+
+\bibitem[{\textit{Lohman and Murray}(2013)}]{Lohman2013}
+Lohman, R.~B., and J.~R. Murray (2013), {The SCEC Geodetic Transient-Detection
+  Validation Exercise}, \textit{Seismological Research Letters},
+  \textit{84}(3), 419--425, \doi{10.1785/0220130041}.
+
+\bibitem[{\textit{Lundgren et~al.}(2009)\textit{Lundgren, Hetland, Liu, and
+  Fielding}}]{Lundgren2009}
+Lundgren, P., E.~A. Hetland, Z.~Liu, and E.~J. Fielding (2009), {Southern San
+  Andreas-San Jacinto fault system slip rates estimated from earthquake cycle
+  models constrained by GPS and interferometric synthetic aperture radar
+  observations}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{114}(2), 1--18, \doi{10.1029/2008JB005996}.
+
+\bibitem[{\textit{Lyzenga et~al.}(2000)\textit{Lyzenga, Panero, and
+  Donnellan}}]{Lyzenga2000}
+Lyzenga, G.~A., W.~R. Panero, and A.~Donnellan (2000), {Deformation},
+  \textit{Journal of Geophysical Research}, \textit{105}(B2), 3151--3157.
+
+\bibitem[{\textit{Mackay}(1998)}]{Mackay1998}
+Mackay, D. J.~C. (1998), {Introduction to Gaussian processes}, \textit{Neural
+  Networks and Machine Learning}, \textit{168}(1996), 133--165,
+  \doi{10.1007/s10067-003-0742-1}.
+
+\bibitem[{\textit{Mao et~al.}(1999)\textit{Mao, Harrison, and Dixon}}]{Mao1999}
+Mao, A., G.~A. Harrison, and H.~Dixon (1999), {Noise in GPS coordinate time
+  series}, \textit{Journal of Geophysical Research}, \textit{104}(B2),
+  2797--2816.
+
+\bibitem[{\textit{Marone et~al.}(1991)\textit{Marone, Scholz, and
+  Bilham}}]{Marone1991}
+Marone, C.~J., C.~H. Scholz, and R.~Bilham (1991), {On the mechanics of
+  earthquake afterslip}, \textit{Journal of Geophysical Research},
+  \textit{96}(B5), 8441--8452.
+
+\bibitem[{\textit{McCaffrey et~al.}(2007)\textit{McCaffrey, Qamar, King, Wells,
+  Khazaradze, Williams, Stevens, Vollick, and Zwick}}]{McCaffrey2007}
+McCaffrey, R., A.~I. Qamar, R.~W. King, R.~Wells, G.~Khazaradze, C.~A.
+  Williams, C.~W. Stevens, J.~J. Vollick, and P.~C. Zwick (2007), {Fault
+  locking, block rotation and crustal deformation in the Pacific Northwest},
+  \textit{Geophysical Journal International}, \textit{169}(3), 1315--1340,
+  \doi{10.1111/j.1365-246X.2007.03371.x}.
+
+\bibitem[{\textit{McCaffrey et~al.}(2013)\textit{McCaffrey, King, Payne, and
+  Lancaster}}]{McCaffrey2013}
+McCaffrey, R., R.~W. King, S.~J. Payne, and M.~Lancaster (2013), {Active
+  tectonics of northwestern U.S. inferred from GPS-derived surface velocities},
+  \textit{Journal of Geophysical Research: Solid Earth}, \textit{118},
+  709--723, \doi{10.1029/2012JB009473}.
+
+\bibitem[{\textit{McGuire and Segall}(2003)}]{McGuire2003}
+McGuire, J.~J., and P.~Segall (2003), {Imaging of aseismic fault slip
+  transients recorded by dense geodetic networks}, \textit{Geophysical Journal
+  International}, \textit{155}, 778--788,
+  \doi{10.1111/j.1365-246X.2003.02022.x}.
+
+\bibitem[{\textit{Meade}(2007)}]{Meade2007}
+Meade, B.~J. (2007), {Algorithms for the calculation of exact displacements,
+  strains, and stresses for triangular dislocation elements in a uniform
+  elastic half space}, \textit{Computers and Geosciences}, \textit{33}(8),
+  1064--1075, \doi{10.1016/j.cageo.2006.12.003}.
+
+\bibitem[{\textit{Meade and Hager}(2005)}]{Meade2005}
+Meade, B.~J., and B.~H. Hager (2005), {Block models of crustal motion in
+  southern California constrained by GPS measurements}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{110}, 1--19,
+  \doi{10.1029/2004JB003209}.
+
+\bibitem[{\textit{Meade et~al.}(2013)\textit{Meade, Klinger, and
+  Hetland}}]{Meade2013}
+Meade, B.~J., Y.~Klinger, and E.~A. Hetland (2013), {Inference of multiple
+  earthquake-cycle relaxation timescales from irregular geodetic sampling of
+  interseismic deformation}, \textit{Bulletin of the Seismological Society of
+  America}, \textit{103}(5), 2824--2835, \doi{10.1785/0120130006}.
+
+\bibitem[{\textit{Miyazaki et~al.}(2003)\textit{Miyazaki, McGuire, and
+  Segall}}]{Miyazaki2003}
+Miyazaki, S., J.~J. McGuire, and P.~Segall (2003), {A transient subduction zone
+  slip episode in southwest Japan observed by the nationwide GPS array},
+  \textit{Journal of Geophysical Research}, \textit{108}(B2), 1--15,
+  \doi{10.1029/2001JB000456}.
+
+\bibitem[{\textit{Mont{\'{e}}si and Hirth}(2003)}]{Montesi2003}
+Mont{\'{e}}si, L. G.~J., and G.~Hirth (2003), {Grain size evolution and the
+  rheology of ductile shear zones: From laboratory experiments to postseismic
+  creep}, \textit{Earth and Planetary Science Letters}, \textit{211}, 97--110,
+  \doi{10.1016/S0012-821X(03)00196-1}.
+
+\bibitem[{\textit{Moritz}(1978)}]{Moritz1978}
+Moritz, H. (1978), {Least-Squares Collocation}, \textit{Reviews of Geophysics},
+  \textit{16}(3), 421--430, \doi{10.1029/RG016i003p00421}.
+
+\bibitem[{\textit{Murray and Segall}(2005)}]{Murray2005}
+Murray, J.~R., and P.~Segall (2005), {Spatiotemporal evolution of a transient
+  slip event on the San Andreas fault near Parkfield, California},
+  \textit{Journal of Geophysical Research : Solid Earth}, \textit{110}(B09407),
+  1--12, \doi{10.1029/2005JB003651}.
+
+\bibitem[{\textit{Murray and Svarc}(2017)}]{Murray2017}
+Murray, J.~R., and J.~Svarc (2017), {Global Positioning System Data Collection,
+  Processing, and Analysis Conducted by the U.S. Geological Survey Earthquake
+  Hazards Program}, \textit{Seismological Research Letters}, \textit{88}(3), 1
+  -- 10, \doi{10.1785/0220160204}.
+
+\bibitem[{\textit{Murray and Lisowski}(2000)}]{Murray2000}
+Murray, M.~H., and M.~Lisowski (2000), {Strain accumulation along the Cascadia
+  subduction zone in western Washington}, \textit{Geophysical Research
+  Letters}, \textit{27}(22), 3631--3634.
+
+\bibitem[{\textit{Nur and Mavko}(1974)}]{Nur1974}
+Nur, A., and G.~Mavko (1974), {Postseismic viscoelastic rebound},
+  \textit{Science}, \textit{183}(4121), 204--206, \doi{10.1038/098448b0}.
+
+\bibitem[{\textit{O'Connell}(1971)}]{OConnell1971}
+O'Connell, R.~J. (1971), {Rheology of the Mantle}, \textit{EOS, Transactions,
+  American Geophysical Union}, \textit{52}, 140--142.
+
+\bibitem[{\textit{Ohtani et~al.}(2010)\textit{Ohtani, McGuire, and
+  Segall}}]{Ohtani2010}
+Ohtani, R., J.~J. McGuire, and P.~Segall (2010), {Network strain filter: A new
+  tool for monitoring and detecting transient deformation signals in GPS
+  arrays}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{115}(12), 1--17, \doi{10.1029/2010JB007442}.
+
+\bibitem[{\textit{Okada}(1992)}]{Okada1992}
+Okada, Y. (1992), {Internal deformation due to shear and tensile faults in a
+  half space}, \textit{Bulletin of the Seismological Society of America},
+  \textit{82}(2), 1018--1040.
+
+\bibitem[{\textit{Oskin et~al.}(2012)}]{Oskin2012}
+Oskin, M.~E., et~al. (2012), {Near-field deformation from the El Mayor-Cucapah
+  earthquake revealed by differential LIDAR}, \textit{Science},
+  \textit{335}(6069), 702--705, \doi{10.1126/science.1213778}.
+
+\bibitem[{\textit{Papoulis}(1991)}]{Papoulis1991}
+Papoulis, A. (1991), \textit{{Probability, Random Variables, and Stochastic
+  Processes}}, 3 ed., McGraw-Hill, New York.
+
+\bibitem[{\textit{Patterson and Thompson}(1971)}]{Patterson1971}
+Patterson, H.~D., and R.~Thompson (1971), {Recovery of Inter-Block Information
+  when Block Sizes are Unequal}, \textit{Biometrika}, \textit{58}(3), 545--554.
+
+\bibitem[{\textit{Peltzer et~al.}(1998)\textit{Peltzer, Rosen, Rogez, and
+  Hudnut}}]{Peltzer1998}
+Peltzer, G., P.~Rosen, F.~Rogez, and K.~Hudnut (1998), {Poroelastic rebound
+  along the Landers 1992 earthquake surface rupture}, \textit{Journal of
+  Geophysical Research}, \textit{103}(B12), 30,131, \doi{10.1029/98JB02302}.
+
+\bibitem[{\textit{Perfettini et~al.}(2005)\textit{Perfettini, Avouac, and
+  Ruegg}}]{Perfettini2005}
+Perfettini, H., J.~P. Avouac, and J.~C. Ruegg (2005), {Geodetic displacements
+  and aftershocks following the 2001 Mw = 8.4 Peru earthquake: Implications for
+  the mechanics of the earthquake cycle along subduction zones},
+  \textit{Journal of Geophysical Research B: Solid Earth}, \textit{110}(9),
+  1--19, \doi{10.1029/2004JB003522}.
+
+\bibitem[{\textit{Pollitz et~al.}(2001)\textit{Pollitz, Wicks, and
+  Thatcher}}]{Pollitz2001}
+Pollitz, F., C.~Wicks, and W.~Thatcher (2001), {Mantle Flow Beneath a
+  Continental Strike-Slip Fault : Postseismic Deformation After the 1999 Hector
+  Mine Earthquake}, \textit{Science}, \textit{293}, 1814--1818,
+  \doi{10.1126/science.1061361}.
+
+\bibitem[{\textit{Pollitz}(1997)}]{Pollitz1997}
+Pollitz, F.~F. (1997), {Gravitational viscoelastic postseismic relaxation on a
+  layered spherical Earth}, \textit{Journal of Geophysical Research},
+  \textit{102}, 17,921, \doi{10.1029/97JB01277}.
+
+\bibitem[{\textit{Pollitz}(2003)}]{Pollitz2003}
+Pollitz, F.~F. (2003), {Transient rheology of the uppermost mantle beneath the
+  Mojave Desert, California}, \textit{Earth and Planetary Science Letters},
+  \textit{215}, 89--104, \doi{10.1016/S0012-821X(03)00432-1}.
+
+\bibitem[{\textit{Pollitz}(2005)}]{Pollitz2005}
+Pollitz, F.~F. (2005), {Transient rheology of the upper mantle beneath central
+  Alaska inferred from the crustal velocity field following the 2002 Denali
+  earthquake}, \textit{Journal of Geophysical Research B: Solid Earth},
+  \textit{110}, 1--16, \doi{10.1029/2005JB003672}.
+
+\bibitem[{\textit{Pollitz}(2015)}]{Pollitz2015}
+Pollitz, F.~F. (2015), {Postearthquake relaxation evidence for laterally
+  variable viscoelastic structure and water content in the Southern California
+  mantle}, \textit{Journal of Geophysical Research: Solid Earth}, \textit{120},
+  2672--2696, \doi{10.1002/2014JB011603}.
+
+\bibitem[{\textit{Pollitz and Thatcher}(2010)}]{Pollitz2010}
+Pollitz, F.~F., and W.~Thatcher (2010), {On the resolution of shallow mantle
+  viscosity structure using postearthquake relaxation data: Application to the
+  1999 Hector Mine, California, earthquake}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{115}(10), 1--20, \doi{10.1029/2010JB007405}.
+
+\bibitem[{\textit{Pollitz et~al.}(2000)\textit{Pollitz, Peltzer, and
+  B{\"{u}}rgmann}}]{Pollitz2000}
+Pollitz, F.~F., G.~Peltzer, and R.~B{\"{u}}rgmann (2000), {Mobility of
+  continental mantle: Evidence from postseismic geodetic observations following
+  the 1992 Landers earthquake}, \textit{Journal of Geophysical Research},
+  \textit{105}(B4), 8035--8054, \doi{10.1029/1999JB900380}.
+
+\bibitem[{\textit{Pollitz et~al.}(2012)\textit{Pollitz, B{\"{u}}rgmann, and
+  Thatcher}}]{Pollitz2012}
+Pollitz, F.~F., R.~B{\"{u}}rgmann, and W.~Thatcher (2012), {Illumination of
+  rheological mantle heterogeneity by the M7.2 2010 El Mayor-Cucapah
+  earthquake}, \textit{Geochemistry, Geophysics, Geosystems}, \textit{13}(6),
+  1--17, \doi{10.1029/2012GC004139}.
+
+\bibitem[{\textit{Press et~al.}(2007)\textit{Press, Flannery, Teukolsky, and
+  Vetterling}}]{Press2007}
+Press, W.~H., B.~P. Flannery, S.~A. Teukolsky, and W.~T. Vetterling (2007),
+  \textit{{Numerical Recipes: The Art of Scientific Computing}}, 3 ed.,
+  Cambridge University Press, Cambridge, \doi{10.1137/1031025}.
+
+\bibitem[{\textit{Rasmussen and Williams}(2006)}]{Rasmussen2006}
+Rasmussen, C.~E., and C.~K.~I. Williams (2006), \textit{{Gaussian processes for
+  machine learning}}, The MIT Press.
+
+\bibitem[{\textit{Rauch et~al.}(1965)\textit{Rauch, Tung, and
+  Striebel}}]{Rauch1965}
+Rauch, H.~E., F.~Tung, and C.~T. Striebel (1965), {Maximum likelihood estimates
+  of linear dynamic systems}, \textit{AIAA Journal}, \textit{3}(8), 1445--1450.
+
+\bibitem[{\textit{Riva and Govers}(2009)}]{Riva2009}
+Riva, R. E.~M., and R.~Govers (2009), {Relating viscosities from postseismic
+  relaxation to a realistic viscosity structure for the lithosphere},
+  \textit{Geophysical Journal International}, \textit{176}, 614--624,
+  \doi{10.1111/j.1365-246X.2008.04004.x}.
+
+\bibitem[{\textit{Roeloffs}(2010)}]{Roeloffs2010}
+Roeloffs, E. (2010), {Tidal calibration of Plate Boundary Observatory borehole
+  strainmeters: Roles of vertical and shear coupling}, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{115}(6), 1--25,
+  \doi{10.1029/2009JB006407}.
+
+\bibitem[{\textit{Roeloffs}(2006)}]{Roeloffs2006}
+Roeloffs, E.~A. (2006), {Evidence for Aseismic Deformation Rate Changes Prior
+  To Earthquakes}, \textit{Annual Review of Earth and Planetary Sciences},
+  \textit{34}(1), 591--627, \doi{10.1146/annurev.earth.34.031405.124947}.
+
+\bibitem[{\textit{Rogers and Dragert}(2003)}]{Rogers2003}
+Rogers, G., and H.~Dragert (2003), {Episodic tremor and slip on the Cascadia
+  subduction zone: the chatter of silent slip.}, \textit{Science},
+  \textit{300}, 1942--1943, \doi{10.1126/science.1084783}.
+
+\bibitem[{\textit{Rollins et~al.}(2015)\textit{Rollins, Barbot, and
+  Avouac}}]{Rollins2015}
+Rollins, C., S.~Barbot, and J.-P. Avouac (2015), {Postseismic Deformation
+  Following the 2010 M7.2 El Mayor-Cucapah Earthquake: Observations, Kinematic
+  Inversions, and Dynamic Models}, \textit{Pure and Applied Geophysics},
+  \textit{172}(5), 1305--1358, \doi{10.1007/s00024-014-1005-6}.
+
+\bibitem[{\textit{Rybicki}(1971)}]{Rybicki1971}
+Rybicki, K. (1971), {The elastic residual field of a very long strike-slip
+  fault in the presence of a discontinuity}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{61}(1), 79--92.
+
+\bibitem[{\textit{Ryder et~al.}(2007)\textit{Ryder, Parsons, Wright, and
+  Funning}}]{Ryder2007}
+Ryder, I., B.~Parsons, T.~J. Wright, and G.~J. Funning (2007), {Post-seismic
+  motion following the 1997 Manyi (Tibet) earthquake: InSAR observations and
+  modelling}, \textit{Geophysical Journal International}, \textit{169},
+  1009--1027, \doi{10.1111/j.1365-246X.2006.03312.x}.
+
+\bibitem[{\textit{Sandwell and Wessel}(2016)}]{Sandwell2016}
+Sandwell, D.~T., and P.~Wessel (2016), {Interpolation of 2-D vector data using
+  constraints from elasticity}, \textit{Geophysical Research Letters}, pp.
+  1--7, \doi{10.1002/2016GL070340.Received}.
+
+\bibitem[{\textit{Savage}(1990)}]{Savage1990}
+Savage, J.~C. (1990), {Equivalent strike-slip earthquake cycles in half-space
+  and lithosphere-asthenosphere earth models}, \textit{Journal of Geophysical
+  Research}, \textit{95}(B4), 4873--4879, \doi{10.1029/JB095iB04p04873}.
+
+\bibitem[{\textit{Savage and Burford}(1973)}]{Savage1973a}
+Savage, J.~C., and R.~O. Burford (1973), {Geodetic determination of relative
+  plate motion in central California}, \textit{Journal of Geophysical
+  Research}, \textit{78}(5), 832--845.
+
+\bibitem[{\textit{Savage and Prescott}(1978)}]{Savage1978}
+Savage, J.~C., and W.~H. Prescott (1978), {Asthenosphere readjustment and the
+  earthquake cycle}, \textit{Journal of Geophysical Research}, \textit{83}(8),
+  3369, \doi{10.1029/JB083iB07p03369}.
+
+\bibitem[{\textit{Savage and Svarc}(1997)}]{Savage1997}
+Savage, J.~C., and J.~L. Svarc (1997), {Postseismic deformation associated with
+  the 1992 Mw=7.3 Landers earthquake, southern California}, \textit{Journal of
+  Geophysical Research}, \textit{102}(B4), 7565--7577.
+
+\bibitem[{\textit{Savage and Svarc}(2009)}]{Savage2009}
+Savage, J.~C., and J.~L. Svarc (2009), {Postseismic relaxation following the
+  1992 M 7.3 Landers and 1999 M 7.1 Hector Mine earthquakes , southern
+  California}, \textit{Journal of Geophysical Research}, \textit{114}(B01401),
+  \doi{10.1029/2008JB005938}.
+
+\bibitem[{\textit{Savage et~al.}(2005{\natexlab{a}})\textit{Savage, Svarc, and
+  Yu}}]{Savage2005}
+Savage, J.~C., J.~L. Svarc, and S.~B. Yu (2005{\natexlab{a}}), {Postseismic
+  relaxation and transient creep}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{110}(11), 1--14, \doi{10.1029/2005JB003687}.
+
+\bibitem[{\textit{Savage et~al.}(2005{\natexlab{b}})\textit{Savage, Svarc, and
+  Yu}}]{Savage2005a}
+Savage, J.~C., J.~L. Svarc, and S.~B. Yu (2005{\natexlab{b}}), {Postseismic
+  relaxation and transient creep}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{110}(B11402), 1--14, \doi{10.1029/2005JB003687}.
+
+\bibitem[{\textit{Schmidt and Gao}(2010)}]{Schmidt2010}
+Schmidt, D.~A., and H.~Gao (2010), {Source parameters and time-dependent slip
+  distributions of slow slip events on the Cascadia subduction zone from 1998
+  to 2008}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{115}(4), 1--13, \doi{10.1029/2008JB006045}.
+
+\bibitem[{\textit{Segall}(2010)}]{Segall2010}
+Segall, P. (2010), \textit{{Earthquake and volcano deformation}}, Princeton
+  University Press, Princeton, NJ.
+
+\bibitem[{\textit{Segall and Mathews}(1997)}]{Segall1997}
+Segall, P., and M.~Mathews (1997), {Time dependent inversion of geodetic data},
+  \textit{Journal of Geophysical Research}, \textit{102}(B10), 22,391--22,409.
+
+\bibitem[{\textit{Shen et~al.}(2015)\textit{Shen, Wang, Zeng, and
+  Wang}}]{Shen2015}
+Shen, Z., M.~Wang, Y.~Zeng, and F.~Wang (2015), {Optimal Interpolation of
+  Spatially Discretized Geodetic Data}, \textit{Bulletin of the Seismological
+  Society of America}, \textit{105}(4), 2117--2127, \doi{10.1785/0120140247}.
+
+\bibitem[{\textit{Shen et~al.}(1996)\textit{Shen, Jackson, Ge, and
+  Bob}}]{Shen1996}
+Shen, Z.~K., D.~D. Jackson, B.~X. Ge, and X.~G. Bob (1996), {Crustal
+  deformation across and beyond the Los Angeles basin from geodetic
+  measurements}, \textit{Journal of Geophysical Research}, \textit{101}(B12),
+  27,927--27,957, \doi{10.1029/96JB02544}.
+
+\bibitem[{\textit{Spinler et~al.}(2015)\textit{Spinler, Bennett, Walls, Shawn,
+  and Garcia}}]{Spinler2015}
+Spinler, J.~C., R.~A. Bennett, C.~Walls, L.~Shawn, and J.~J.~G. Garcia (2015),
+  {Assessing long-term postseismic deformation following the M7.2 4 April 2010,
+  El Mayor-Cucapah earthquake with implications for lithospheric rheology in
+  the Salton Trough}, \textit{Journal of Geophysical Research: Solid Earth},
+  \textit{120}, 3664--3679, \doi{10.1002/2014JB011613.Received}.
+
+\bibitem[{\textit{Tape et~al.}(2009)\textit{Tape, Mus{\'{e}}, Simons, Dong, and
+  Webb}}]{Tape2009}
+Tape, C., P.~Mus{\'{e}}, M.~Simons, D.~Dong, and F.~Webb (2009), {Multiscale
+  estimation of GPS velocity fields}, \textit{Geophysical Journal
+  International}, \textit{179}(2), 945--971,
+  \doi{10.1111/j.1365-246X.2009.04337.x}.
+
+\bibitem[{\textit{Thatcher and Pollitz}(2008)}]{Thatcher2008}
+Thatcher, W., and F.~F. Pollitz (2008), {Temporal evolution of continental
+  lithospheric strength in actively deforming regions}, \textit{GSA Today},
+  \textit{18}(4), 4--11, \doi{10.1130/GSAT01804-5A.1}.
+
+\bibitem[{\textit{Vauchez and Tommasi}(2003)}]{Vauchez2003}
+Vauchez, a., and a.~Tommasi (2003), {Wrench faults down to the asthenosphere:
+  geological and geophysical evidence and thermomechanical effects},
+  \textit{Geological Society, London, Special Publications}, \textit{210},
+  15--34, \doi{10.1144/GSL.SP.2003.210.01.02}.
+
+\bibitem[{\textit{Wdowinski et~al.}(1997)\textit{Wdowinski, Zhang, Fang, and
+  Genrich}}]{Wdowinski1997}
+Wdowinski, S., J.~Zhang, P.~Fang, and J.~Genrich (1997), {Southern California
+  Permanent GPS Geodetic Array: Spatial filtering of daily positions for
+  estimating coseismic and postseismic displacements induced by the 1992
+  Landers earthquake}, \textit{102}(97), 57--70.
+
+\bibitem[{\textit{Wech}(2010)}]{Wech2010}
+Wech, A.~G. (2010), {Interactive Tremor Monitoring}, \textit{Seismological
+  Research Letters}, \textit{81}(4), 664 -- 669, \doi{10.1785/gssrl}.
+
+\bibitem[{\textit{Wech et~al.}(2009)\textit{Wech, Creager, and
+  Melbourne}}]{Wech2009}
+Wech, A.~G., K.~C. Creager, and T.~I. Melbourne (2009), {Seismic and geodetic
+  constraints on Cascadia slow slip}, \textit{Journal of Geophysical Research:
+  Solid Earth}, \textit{114}(10), 1--9, \doi{10.1029/2008JB006090}.
+
+\bibitem[{\textit{Wei et~al.}(2011{\natexlab{a}})\textit{Wei, Sandwell, Fialko,
+  and Bilham}}]{Wei2011a}
+Wei, M., D.~Sandwell, Y.~Fialko, and R.~Bilham (2011{\natexlab{a}}), {Slip on
+  faults in the Imperial Valley triggered by the 4 April 2010 Mw 7.2 El
+  Mayor-Cucapah earthquake revealed by InSAR}, \textit{Geophysical Research
+  Letters}, \textit{38}(L01308), \doi{10.1029/2010GL045235}.
+
+\bibitem[{\textit{Wei et~al.}(2015)\textit{Wei, Liu, Kaneko, Mcguire, and
+  Bilham}}]{Wei2015}
+Wei, M., Y.~Liu, Y.~Kaneko, J.~J. Mcguire, and R.~Bilham (2015), {Dynamic
+  triggering of creep events in the Salton Trough, Southern California by
+  regional M≥5.4 earthquakes constrained by geodetic observations and
+  numerical simulations}, \textit{Earth and Planetary Science Letters},
+  \textit{427}, 1--10, \doi{10.1016/j.epsl.2015.06.044}.
+
+\bibitem[{\textit{Wei et~al.}(2011{\natexlab{b}})}]{Wei2011}
+Wei, S., et~al. (2011{\natexlab{b}}), {Superficial simplicity of the 2010 El
+  Mayor–Cucapah earthquake of Baja California in Mexico}, \textit{Nature
+  Geoscience}, \textit{4}, 615--618, \doi{10.1038/ngeo1213}.
+
+\bibitem[{\textit{Wendland}(2005)}]{Wendland2005}
+Wendland, H. (2005), \textit{{Scattered data approximation}}, 348 pp.,
+  \doi{10.2277/0521843359}.
+
+\bibitem[{\textit{Williams et~al.}(2004)\textit{Williams, Bock, Fang, Jamason,
+  Nikolaidis, Prawirodirdjo, Miller, and Johnson}}]{Williams2004}
+Williams, S. D.~P., Y.~Bock, P.~Fang, P.~Jamason, R.~M. Nikolaidis,
+  L.~Prawirodirdjo, M.~Miller, and D.~J. Johnson (2004), {Error analysis of
+  continuous GPS position time series}, \textit{Journal of Geophysical
+  Research: Solid Earth}, \textit{109}(B3), \doi{10.1029/2003JB002741}.
+
+\bibitem[{\textit{Wyatt}(1982)}]{Wyatt1982}
+Wyatt, F. (1982), {Displacement of Surface Monuments: Horizontal Motion},
+  \textit{Journal of Geophysical Research}, \textit{87}(B2), 979--989.
+
+\bibitem[{\textit{Wyatt}(1989)}]{Wyatt1989}
+Wyatt, F.~K. (1989), {Displacement of surface monuments: Vertical motion},
+  \textit{Journal of Geophysical Research}, \textit{94}(B2), 1655--1664.
+
+\bibitem[{\textit{Yamasaki and Houseman}(2012{\natexlab{a}})}]{Yamasaki2012}
+Yamasaki, T., and G.~a. Houseman (2012{\natexlab{a}}), {The signature of
+  depth-dependent viscosity structure in post-seismic deformation},
+  \textit{Geophysical Journal International}, \textit{190}, 769--784,
+  \doi{10.1111/j.1365-246X.2012.05534.x}.
+
+\bibitem[{\textit{Yamasaki and Houseman}(2012{\natexlab{b}})}]{Yamasaki2012a}
+Yamasaki, T., and G.~a. Houseman (2012{\natexlab{b}}), {The crustal viscosity
+  gradient measured from post-seismic deformation: A case study of the 1997
+  Manyi (Tibet) earthquake}, \textit{Earth and Planetary Science Letters},
+  \textit{351-352}, 105--114, \doi{10.1016/j.epsl.2012.07.030}.
+
+\bibitem[{\textit{Yang and Toks{\"{o}}z}(1981)}]{Yang1981}
+Yang, M., and M.~N. Toks{\"{o}}z (1981), {Time-dependent deformation and stress
+  relaxation after strike-slip earthquakes}, \textit{J. Geophys. Res.},
+  \textit{86}(80), 2889--2901.
+
+\bibitem[{\textit{Yuen and Peltier}(1982)}]{Yuen1982}
+Yuen, D.~A., and W.~R. Peltier (1982), {Normal modes of the viscoelastic
+  earth}, \textit{Geophysical Journal of the Royal Astronomical Society},
+  \textit{69}, 495--526, \doi{10.1111/j.1365-246X.1982.tb04962.x}.
+
+\bibitem[{\textit{Zhang et~al.}(1997)\textit{Zhang, Bock, Johnson, Fang,
+  Williams, Genrich, Wdowinski, and Behr}}]{Zhang1997}
+Zhang, J., Y.~Bock, H.~Johnson, P.~Fang, S.~Williams, J.~Genrich, S.~Wdowinski,
+  and J.~Behr (1997), {Southern California Permanent GPS Geodetic Array: Error
+  analysis of daily position estimates and site velocities}, \textit{Journal of
+  Geophysical Research}, \textit{102}(B8), 18,035--18,055.
+
+\end{thebibliography}

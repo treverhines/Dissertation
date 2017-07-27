@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: ch1/ch1.aux
+A level-1 auxiliary file: ch2/ch2.aux
+A level-1 auxiliary file: ch3/ch3.aux
+A level-1 auxiliary file: ch4/ch4.aux
+A level-1 auxiliary file: ch5/ch5.aux
+A level-1 auxiliary file: ch6/ch6.aux
+The style file: agu04.bst
+Database file #1: refs.bib
+Repeated entry---line 740 of file refs.bib
+ : @article{Burgmann2002
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1378 of file refs.bib
+ : @article{Feigl2006
+ :                   ,
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--missing publisher in Aster2011
+Warning--missing institution in Lisowski2008
+Warning--empty journal in Wdowinski1997
+Warning--missing publisher in Wendland2005
+You've used 167 entries,
+            3098 wiz_defined-function locations,
+            2197 strings with 43346 characters,
+and the built_in function-call counts, 174782 in all, are:
+= -- 20311
+> -- 5847
+< -- 95
++ -- 3299
+- -- 1398
+* -- 11035
+:= -- 15251
+add.period$ -- 167
+call.type$ -- 167
+change.case$ -- 956
+chr.to.int$ -- 162
+cite$ -- 505
+duplicate$ -- 18582
+empty$ -- 9307
+format.name$ -- 1941
+if$ -- 35201
+int.to.chr$ -- 6
+int.to.str$ -- 1
+missing$ -- 1786
+newline$ -- 508
+num.names$ -- 668
+pop$ -- 7344
+preamble$ -- 1
+purify$ -- 795
+quote$ -- 0
+skip$ -- 11449
+stack$ -- 0
+substring$ -- 7410
+swap$ -- 16201
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1476
+warning$ -- 4
+while$ -- 938
+width$ -- 0
+write$ -- 1965
+(There were 2 error messages)

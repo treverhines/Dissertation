@@ -1,5 +1,13 @@
-\chapter{Rapid and simultaneous estimation of fault slip and
-heterogeneous lithospheric viscosity from postseismic deformation}
+\chapter
+[Rapid and simultaneous estimation of fault slip and heterogeneous
+lithospheric viscosity from postseismic deformation]
+{Rapid and simultaneous estimation of fault slip and heterogeneous
+lithospheric viscosity from postseismic deformation\footnote[1]{
+This chapter has been published as: Hines, T. T., and Hetland, E. A.
+(2015). Rapid and simultaneous estimation of fault slip and
+heterogeneous lithospheric viscosity from post-seismic deformation.
+Geophysical Journal International, 204, 569–582,
+doi:10.1093/gji/ggv477}}
 
 \section{Summary}
 Postseismic deformation is commonly attributed to viscoelastic
@@ -1009,8 +1017,8 @@ our methods application to a limited portion of the postseismic
 period, we demonstrate that our method is capable of robustly
 recovering the mechanisms driving postseismic deformation.
 
-\bibliographystyle{agu04}
-\bibliography{refs}
+%\bibliographystyle{agu04}
+%\bibliography{refs}
 
 \newappendix{Appendix 2A: Inverse Laplace transform through series
 expansion}

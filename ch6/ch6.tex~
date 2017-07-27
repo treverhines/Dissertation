@@ -22,6 +22,12 @@ study, we assess the ability of BSMs to measure strain resulting from
 SSEs on the Cascadia subduction zone. This is done by comparing BSM
 data to strain derived from GNSS data.
 
+\begin{figure}
+\includegraphics{ch6/figures/map.pdf}
+\caption{Location of BSM and GNSS stations used in this study.}   
+\label{fig:Map}
+\end{figure}
+
 \section{BSM Data}
 The are about forty PBO BSMs in the Pacific Northwest, and only five
 of them, B003, B004, B005, B007, and B018, record noticeable
@@ -165,12 +171,6 @@ displacements to the observations. We settle on the values $\phi =
 hyperparameters, we condition the prior with the GNSS data and then
 spatially differentiate the posterior displacements to obtain
 transient strain.
-
-\begin{figure}
-\includegraphics{ch6/figures/map.pdf}
-\caption{Location of BSM and GNSS stations used in this study.}   
-\label{fig:Map}
-\end{figure}
 
 \section{Results}
 We compare the BSM data to GNSS derived strains for eight SSEs in the
@@ -359,5 +359,5 @@ when attempting to use BSM data to describe regional strains.
 \label{fig:SSE7}
 \end{figure}
 
-\bibliographystyle{agu04}
-\bibliography{refs}  
+%\bibliographystyle{agu04}
+%\bibliography{refs}  
