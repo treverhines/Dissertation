@@ -58,4 +58,19 @@
 \contentsline {figure}{\numberline {5.7}{\ignorespaces Three components of the transient horizontal strain rate tensor estimated at the position shown in Figure 5.1\hbox {}. The shaded regions indicate one standard deviation uncertainty.\relax }}{117}
 \contentsline {figure}{\numberline {5.8}{\ignorespaces (top) Signal-to-noise ratio (eq. 5.15\hbox {}) at the position shown in Figure 5.1\hbox {}. (bottom) Frequency of tremors in the region shown in Figure 5.1\hbox {}.\relax }}{118}
 \gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Location of BSM and GNSS stations used in this study.\relax }}{130}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces differential (left) and engineering shear (right) strains during the summer 2010 SSE observed at BSMs (solid) and derived from GNSS data (dashed). The horizontal dotted lines are spaced by 0.1 micro-strain. The shaded region around the GNSS derived strains show the one standard deviation confidence interval. The dotted line for station B018 shows the BSM data using the optimal instrument orientation. The shown BSM data has been detrended by estimating and removing a second-order polynomial from each timeseries.\relax }}{131}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces GNSS derived differential and engineering shear strains for station B018. The shaded blue regions indicate the one standard deviation confidence interval. The shaded gray regions indicate times of strain drops, which are the result of SSEs.\relax }}{133}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Gauge readings at station B018. The gray shaded regions indicate times of strain drops from Figure 5.11\hbox {}.\relax }}{134}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces GNSS derived strain drops at station B018 during the 11 events identified in Figure 5.11\hbox {} (blue dots), BSM strain drops using the recorded orientation for B018 (orange dots), and BSM strain drops using the optimal orientation for B018 (green dots).\relax }}{135}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Misfit as a function of instrument orientation for station B018.\relax }}{136}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Same as Figure 5.10\hbox {}, but for the spring 2009 SSE.\relax }}{137}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Same as Figure 5.10\hbox {}, but for the summer 2011 SSE.\relax }}{138}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Same as Figure 5.10\hbox {}, but for the summer 2012 SSE.\relax }}{139}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Same as Figure 5.10\hbox {}, but for the fall 2013 SSE.\relax }}{140}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces Same as Figure 5.10\hbox {}, but for the fall 2014 SSE.\relax }}{141}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces Same as Figure 5.10\hbox {}, but for the winter 2015-2016 SSE.\relax }}{142}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces Same as Figure 5.10\hbox {}, but for the winter 2017 SSE.\relax }}{143}
+\gdef \the@ipfilectr {}
 \contentsfinish 

@@ -1,8 +1,9 @@
 \contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
-\contentsline {chapter}{LIST OF FIGURES}{xiv}
-\contentsline {chapter}{LIST OF TABLES}{xv}
-\contentsline {chapter}{LIST OF APPENDICES}{xvi}
-\contentsline {chapter}{ABSTRACT}{xvii}
+\contentsline {chapter}{PREFACE}{iv}
+\contentsline {chapter}{LIST OF FIGURES}{xvi}
+\contentsline {chapter}{LIST OF TABLES}{xvii}
+\contentsline {chapter}{LIST OF APPENDICES}{xviii}
+\contentsline {chapter}{ABSTRACT}{xix}
 \gdef \the@ipfilectr {@-1}
 \contentsline {chapter}{\numberline {1}Bias in estimates of lithosphere viscosity from interseismic deformation}{1}
 \contentsline {section}{\numberline {1.1}Abstract}{1}
@@ -79,5 +80,13 @@
 \contentsline {section}{\numberline {5.7}Conclusion}{120}
 \contentsline {section}{\numberline {5.8}Acknowledgements}{121}
 \contentsline {section}{\numberline {5.9}References}{121}
+\gdef \the@ipfilectr {}
+\gdef \the@ipfilectr {@-6}
+\contentsline {section}{Appendix 5A: Validating Plate Boundary Observatory borehole strainmeter data with GNSS derived strain}{127}
+\contentsline {subsection}{\numberline {5.9.1}Introduction}{127}
+\contentsline {subsection}{\numberline {5.9.2}BSM Data}{127}
+\contentsline {subsection}{\numberline {5.9.3}GNSS derived strain}{129}
+\contentsline {subsection}{\numberline {5.9.4}Results}{130}
+\contentsline {subsection}{\numberline {5.9.5}Conclusion}{136}
 \gdef \the@ipfilectr {}
 \contentsfinish 

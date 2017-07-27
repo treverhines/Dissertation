@@ -11,7 +11,7 @@ Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Aster2011
 You've used 56 entries,
             3098 wiz_defined-function locations,
-            1491 strings with 22146 characters,
+            1490 strings with 22142 characters,
 and the built_in function-call counts, 61572 in all, are:
 = -- 7254
 > -- 2075
