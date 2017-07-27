@@ -32,8 +32,8 @@
 \contentsline {subsection}{\numberline {2.5.2}Synthetic model with Maxwell viscoelasticity}{26}
 \contentsline {subsubsection}{Validation}{30}
 \contentsline {subsection}{\numberline {2.5.3}Synthetic model with Burgers viscoelasticity}{32}
-\contentsline {section}{\numberline {2.6}Discussion}{36}
-\contentsline {section}{\numberline {2.7}Conclusion}{37}
+\contentsline {section}{\numberline {2.6}Discussion}{34}
+\contentsline {section}{\numberline {2.7}Conclusion}{38}
 \contentsline {section}{\numberline {2.8}References}{38}
 \contentsline {section}{Appendix 2A: Inverse Laplace transform through series expansion}{42}
 \contentsline {section}{Appendix 2B: Postseismic approximation for a two-dimensional earthquake model with a depth dependent viscosity}{43}
