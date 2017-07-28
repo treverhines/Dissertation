@@ -16,6 +16,7 @@
 \usepackage{tocloft}
 \usepackage{caption}
 \usepackage{footmisc}
+\usepackage[nottoc,notlof,notlot]{tocbibind} % GET REFERENCES IN TOC
 
 %% MAKE FOOTNOTES USE SYMBOLS INSTEAD OF NUMBER
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -236,7 +237,6 @@ Blerg blargle blorg blerp
 \include{ch6/ch6}
 
 \bibliographystyle{agu04}
-\addcontentsline{toc}{chapter}{REFERENCES}
 \bibliography{refs}
 
 \end{document}

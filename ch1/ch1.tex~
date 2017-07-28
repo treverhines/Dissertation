@@ -4,7 +4,7 @@
 This chapter has been published as: Hines, T. T., and Hetland, E. A.
 (2013). Bias in estimates of lithosphere viscosity from interseismic
 deformation. Geophysical Research Letters, 40, 4260--4265,
-doi:10.1002/grl.50839}}
+doi:10.1002/grl.50839.}}
 
 
 
@@ -123,7 +123,9 @@ and thus the non-dimensional Maxwell relaxation time is $\tau =
 
 \begin{figure}
 \includegraphics{ch1/figures/Figure1.eps}
-\caption{Schematic of the earthquake cycle model: springs indicate
+\caption
+[blerp blerp]
+{Schematic of the earthquake cycle model: springs indicate
 elasticity and dashpots indicate Newtwonian viscosity. Example
 depth-dependent $\tau$ profiles are shown in the upper mantle, for the
 case when $\tau^{\min}_{UM} = 10^{-2}$, $\tau^{\max}_{UM} =10^{2}$,

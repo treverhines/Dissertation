@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  27 JUL 2017 18:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  28 JUL 2017 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -300,6 +300,14 @@ Package footmisc Info: Declaring symbol style lamport* on input line 903.
 Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 .
 )
+(/usr/share/texlive/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
 \c@appendices=\count119
 \cftbeforeappendicesskip=\skip96
 \cftappendicesindent=\skip97
@@ -307,26 +315,25 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
 \c@apcdepth=\count120
 \cftbeforeapctitleskip=\skip99
 \cftafterapctitleskip=\skip100
-
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
+ (/usr/share/texlive/texmf-dist/tex/latex/titlesec/block.tss
 File: block.tss 2016/03/15
 )
 (./dissertation.aux (./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux)
 (./ch4/ch4.aux) (./ch5/ch5.aux) (./ch6/ch6.aux))
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 122.
-LaTeX Font Info:    ... okay on input line 122.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 123.
+LaTeX Font Info:    ... okay on input line 123.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -522,7 +529,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure2.eps>
 (epstopdf)                    size: 106390 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure2-eps-co
 nverted-to.pdf ch1/figures/Figure2.eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 208.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure2-eps-converted-to.pdf, id=119, 463.7325pt x 165.61874pt>
@@ -530,7 +537,7 @@ File: ch1/figures/Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure2-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure2-eps-converted-to.pdf used on input
- line 206.
+ line 208.
 (pdftex.def)             Requested size: 463.73135pt x 165.61833pt.
 Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
 (epstopdf)                    date: 2017-07-26 14:55:08
@@ -540,7 +547,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
 (epstopdf)                    size: 555310 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure3-eps-co
 nverted-to.pdf ch1/figures/Figure3.eps>
-(epstopdf)             \includegraphics on input line 222.
+(epstopdf)             \includegraphics on input line 224.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure3-eps-converted-to.pdf, id=120, 433.62pt x 303.1325pt>
@@ -548,7 +555,7 @@ File: ch1/figures/Figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure3-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure3-eps-converted-to.pdf used on input
- line 222.
+ line 224.
 (pdftex.def)             Requested size: 433.61894pt x 303.13176pt.
  [5 <./ch1/figures/Figure2-eps-converted-to.pdf>] [6 <./ch1/figures/Figure3-eps
 -converted-to.pdf>] [7]
@@ -560,7 +567,7 @@ Package epstopdf Info: Source file: <ch1/figures/Figure4.eps>
 (epstopdf)                    size: 43015 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure4-eps-co
 nverted-to.pdf ch1/figures/Figure4.eps>
-(epstopdf)             \includegraphics on input line 360.
+(epstopdf)             \includegraphics on input line 362.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/Figure4-eps-converted-to.pdf, id=170, 458.71375pt x 220.825pt>
@@ -568,7 +575,7 @@ File: ch1/figures/Figure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure4-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/Figure4-eps-converted-to.pdf used on input
- line 360.
+ line 362.
 (pdftex.def)             Requested size: 458.71263pt x 220.82445pt.
  [8] [9 <./ch1/figures/Figure4-eps-converted-to.pdf>] [10]
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure1.eps>
@@ -580,7 +587,7 @@ f>
 (epstopdf)                    size: 41037 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure1-eps
 -converted-to.pdf ch1/figures/AuxFigure1.eps>
-(epstopdf)             \includegraphics on input line 485.
+(epstopdf)             \includegraphics on input line 487.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/AuxFigure1-eps-converted-to.pdf, id=204, 466.74374pt x 257.96375pt
@@ -588,7 +595,7 @@ Package epstopdf Info: Output file is already uptodate.
 File: ch1/figures/AuxFigure1-eps-converted-to.pdf Graphic file (type pdf)
  <use ch1/figures/AuxFigure1-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/AuxFigure1-eps-converted-to.pdf used on in
-put line 485.
+put line 487.
 (pdftex.def)             Requested size: 466.7426pt x 257.9631pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure2.eps>
 (epstopdf)                    date: 2017-07-26 23:49:35
@@ -599,7 +606,7 @@ f>
 (epstopdf)                    size: 6032341 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure2-eps
 -converted-to.pdf ch1/figures/AuxFigure2.eps>
-(epstopdf)             \includegraphics on input line 502.
+(epstopdf)             \includegraphics on input line 504.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/AuxFigure2-eps-converted-to.pdf, id=205, 433.62pt x 327.2225pt>
@@ -607,7 +614,7 @@ File: ch1/figures/AuxFigure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure2-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/AuxFigure2-eps-converted-to.pdf used on in
-put line 502.
+put line 504.
 (pdftex.def)             Requested size: 433.61894pt x 327.2217pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure3.eps>
 (epstopdf)                    date: 2017-07-26 23:49:35
@@ -618,7 +625,7 @@ f>
 (epstopdf)                    size: 764545 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure3-eps
 -converted-to.pdf ch1/figures/AuxFigure3.eps>
-(epstopdf)             \includegraphics on input line 515.
+(epstopdf)             \includegraphics on input line 517.
 Package epstopdf Info: Output file is already uptodate.
 
 <ch1/figures/AuxFigure3-eps-converted-to.pdf, id=206, 434.62375pt x 606.265pt>
@@ -626,11 +633,11 @@ File: ch1/figures/AuxFigure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure3-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/AuxFigure3-eps-converted-to.pdf used on in
-put line 515.
+put line 517.
 (pdftex.def)             Requested size: 434.62268pt x 606.26352pt.
 
 
-LaTeX Warning: Float too large for page by 25.83351pt on input line 525.
+LaTeX Warning: Float too large for page by 25.83351pt on input line 527.
 
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure4.eps>
 (epstopdf)                    date: 2017-07-26 23:49:36
@@ -641,14 +648,14 @@ f>
 (epstopdf)                    size: 382674 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure4-eps
 -converted-to.pdf ch1/figures/AuxFigure4.eps>
-(epstopdf)             \includegraphics on input line 528.
+(epstopdf)             \includegraphics on input line 530.
 Package epstopdf Info: Output file is already uptodate.
 <ch1/figures/AuxFigure4-eps-converted-to.pdf, id=207, 433.62pt x 303.1325pt>
 File: ch1/figures/AuxFigure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure4-eps-converted-to.pdf>
 Package pdftex.def Info: ch1/figures/AuxFigure4-eps-converted-to.pdf used on in
-put line 528.
+put line 530.
 (pdftex.def)             Requested size: 433.61894pt x 303.13176pt.
 ) [11] [12 <./ch1/figures/AuxFigure1-eps-converted-to.pdf>] [13 <./ch1/figures/
 AuxFigure2-eps-converted-to.pdf>] [14 <./ch1/figures/AuxFigure3-eps-converted-t
@@ -1244,13 +1251,13 @@ Missing character: There is no “ in font cmr12!
 (./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux)
 (./ch6/ch6.aux)) ) 
 Here is how much of TeX's memory you used:
- 7196 strings out of 494910
- 109103 string characters out of 6179836
- 184491 words of memory out of 5000000
- 10250 multiletter control sequences out of 15000+600000
+ 7269 strings out of 494910
+ 110172 string characters out of 6179836
+ 185386 words of memory out of 5000000
+ 10319 multiletter control sequences out of 15000+600000
  15893 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,17n,47p,1386b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,17n,47p,1386b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -1272,7 +1279,7 @@ ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (156 pages, 25244374 bytes).
+Output written on dissertation.pdf (156 pages, 25244114 bytes).
 PDF statistics:
  84386 PDF objects out of 95282 (max. 8388607)
  55474 compressed objects within 555 object streams
