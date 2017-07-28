@@ -1,65 +1,65 @@
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Schematic of the earthquake cycle model}}{4}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Schematic of the earthquake cycle model}}{3}
 \contentsline {figure}{\numberline {1.2}{\ignorespaces Velocites predicted by interseismic models, relaxation time profiles of interseismic models, and misfit between depth dependent and layered interseismic models}}{5}
-\contentsline {figure}{\numberline {1.3}{\ignorespaces Bias in inferred relaxation times}}{6}
-\contentsline {figure}{\numberline {1.4}{\ignorespaces Velocites and inferred relaxation times for a interseismic model with a shear zone}}{9}
-\contentsline {figure}{\numberline {1.5}{\ignorespaces Sensitivity of interseismic velocities to the lower crust and upper mantle relaxation time}}{12}
-\contentsline {figure}{\numberline {1.6}{\ignorespaces Bias in inferred relaxation times. All estimations are shown}}{13}
-\contentsline {figure}{\numberline {1.7}{\ignorespaces Bias in inferred relaxation times when either the lower crust or upper mantle is homogeneous}}{14}
-\contentsline {figure}{\numberline {1.8}{\ignorespaces Bias in inferred relaxation times when relaxation times decrease faster than log-linearly with depth}}{15}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Bias in inferred relaxation times}}{5}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Velocites and inferred relaxation times for a interseismic model with a shear zone}}{8}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Sensitivity of interseismic velocities to the lower crust and upper mantle relaxation time}}{10}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Bias in inferred relaxation times. All estimations are shown}}{11}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Bias in inferred relaxation times when either the lower crust or upper mantle is homogeneous}}{12}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Bias in inferred relaxation times when relaxation times decrease faster than log-linearly with depth}}{13}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Comparison of an analytical and approximate solution for postseismic deformation in a two-dimensional model}}{21}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces L-curves used to select the penalty parameters}}{26}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Synthetic and recovered fault slip}}{29}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Synthetic and recovered lithospheric viscosity}}{30}
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Map view of synthetic and predicted postseismic surface displacements}}{31}
-\contentsline {figure}{\numberline {2.6}{\ignorespaces time series of synthetic and predicted postseismic surface displacements}}{32}
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Error in the postseismic approximation}}{33}
-\contentsline {figure}{\numberline {2.8}{\ignorespaces Synthetic and recovered lithospheric viscosity with a Burgers rheology}}{36}
-\contentsline {figure}{\numberline {2.9}{\ignorespaces Synthetic and recoved slip moment}}{36}
-\contentsline {figure}{\numberline {2.10}{\ignorespaces Time series of synthetic postseismic displacments and predicted postseismic displacements when using varying durations of the synthetic data}}{37}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Comparison of an analytical and approximate solution for postseismic deformation in a two-dimensional model}}{18}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces L-curves used to select the penalty parameters}}{23}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Synthetic and recovered fault slip}}{25}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Synthetic and recovered lithospheric viscosity}}{26}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Map view of synthetic and predicted postseismic surface displacements}}{27}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces time series of synthetic and predicted postseismic surface displacements}}{28}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Error in the postseismic approximation}}{29}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Synthetic and recovered lithospheric viscosity with a Burgers rheology}}{31}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Synthetic and recoved slip moment}}{32}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Time series of synthetic postseismic displacments and predicted postseismic displacements when using varying durations of the synthetic data}}{32}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Map of the region considered in this study}}{45}
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Observed displacements and estimated postseismic displacements for station P496}}{48}
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Observed displacements and estimated postseismic displacements for station P619}}{49}
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Observed and predicted near-field postseismic deformation}}{50}
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Observed and predicted far-field postseismic deformation}}{51}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Inferred coseismic slip and afterslip when assuming an elastic lithosphere}}{54}
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Radial components of observed and predicted postseismic displacments}}{55}
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Schematic illustration of rheologic models}}{56}
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Postseismic displacements resulting from deep fault slip and a weak lower crust}}{58}
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Observed postseismic displacments and predicted postseismic displacments when using varying durations of the data}}{60}
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Coseismic slip and afterslip inferred from 0.8 years of postseismic data}}{62}
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Inferred effective viscosities}}{63}
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Misfit as a function of transient shear modulus}}{64}
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Coseismic slip and afterslip inferred from all available postseismic data}}{66}
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Trade-off curves}}{70}
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Synthetic checkerboard test}}{71}
-\contentsline {figure}{\numberline {3.17}{\ignorespaces Elastic and viscous components of predicted near-field postseismic displacments}}{72}
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Elastic and viscous components of predicted far-field postseismic displacments}}{73}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Map of the region considered in this study}}{39}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Observed displacements and estimated postseismic displacements for station P496}}{42}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Observed displacements and estimated postseismic displacements for station P619}}{43}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Observed and predicted near-field postseismic deformation}}{44}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Observed and predicted far-field postseismic deformation}}{45}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Inferred coseismic slip and afterslip when assuming an elastic lithosphere}}{48}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Radial components of observed and predicted postseismic displacments}}{49}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Schematic illustration of rheologic models}}{50}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Postseismic displacements resulting from deep fault slip and a weak lower crust}}{51}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Observed postseismic displacments and predicted postseismic displacments when using varying durations of the data}}{53}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Coseismic slip and afterslip inferred from 0.8 years of postseismic data}}{55}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Inferred effective viscosities}}{55}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Misfit as a function of transient shear modulus}}{57}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Coseismic slip and afterslip inferred from all available postseismic data}}{58}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Trade-off curves}}{62}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Synthetic checkerboard test}}{63}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Elastic and viscous components of predicted near-field postseismic displacments}}{64}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Elastic and viscous components of predicted far-field postseismic displacments}}{65}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Random walk amplitudes estimated by the MLE and REML methods from synthetic data}}{79}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Random walk amplitudes estimated by the MLE and REML methods from synthetic data}}{70}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Positions of continuous GNSS stations used to estimate transient strain rates}}{91}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of estimated FOGM noise hyperparameters}}{93}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Samples of FOGM noise}}{94}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Demonstration of outlier detection algorithm}}{96}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces GNSS displacments and posterior displacements}}{98}
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Map view of estimated transient strain rates during the Winter 2015-2016 SSE}}{100}
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Time series of estimated transient strain rates}}{101}
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Time series of signal-to-noise ratio}}{102}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Positions of continuous GNSS stations used to estimate transient strain rates}}{80}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Distribution of estimated FOGM noise hyperparameters}}{82}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Samples of FOGM noise}}{83}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Demonstration of outlier detection algorithm}}{85}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces GNSS displacments and posterior displacements}}{87}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Map view of estimated transient strain rates during the Winter 2015-2016 SSE}}{88}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Time series of estimated transient strain rates}}{89}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Time series of signal-to-noise ratio}}{90}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6.1}{\ignorespaces Location of BSM and GNSS stations used in this study}}{106}
-\contentsline {figure}{\numberline {6.2}{\ignorespaces BSM and GNSS derived strains for the summer 2010 SSE}}{109}
-\contentsline {figure}{\numberline {6.3}{\ignorespaces GNSS derived strains for station B018}}{111}
-\contentsline {figure}{\numberline {6.4}{\ignorespaces Gauge readings at station B018}}{112}
-\contentsline {figure}{\numberline {6.5}{\ignorespaces GNSS and BSM strain dropts at station B018}}{113}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Misfit as a function of instrument orientation for station B018}}{114}
-\contentsline {figure}{\numberline {6.7}{\ignorespaces BSM and GNSS derived strains for the spring 2009 SSE}}{115}
-\contentsline {figure}{\numberline {6.8}{\ignorespaces BSM and GNSS derived strains for the summer 2011 SSE}}{116}
-\contentsline {figure}{\numberline {6.9}{\ignorespaces BSM and GNSS derived strains for the summer 2012 SSE}}{117}
-\contentsline {figure}{\numberline {6.10}{\ignorespaces BSM and GNSS derived strains for the fall 2013 SSE}}{118}
-\contentsline {figure}{\numberline {6.11}{\ignorespaces BSM and GNSS derived strains for the fall 2014 SSE}}{119}
-\contentsline {figure}{\numberline {6.12}{\ignorespaces BSM and GNSS derived strains for the winter 2015-2016 SSE}}{120}
-\contentsline {figure}{\numberline {6.13}{\ignorespaces BSM and GNSS derived strains for the winter 2017 SSE}}{121}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Location of BSM and GNSS stations used in this study}}{94}
+\contentsline {figure}{\numberline {6.2}{\ignorespaces BSM and GNSS derived strains for the summer 2010 SSE}}{97}
+\contentsline {figure}{\numberline {6.3}{\ignorespaces GNSS derived strains for station B018}}{98}
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Gauge readings at station B018}}{99}
+\contentsline {figure}{\numberline {6.5}{\ignorespaces GNSS and BSM strain dropts at station B018}}{100}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Misfit as a function of instrument orientation for station B018}}{101}
+\contentsline {figure}{\numberline {6.7}{\ignorespaces BSM and GNSS derived strains for the spring 2009 SSE}}{102}
+\contentsline {figure}{\numberline {6.8}{\ignorespaces BSM and GNSS derived strains for the summer 2011 SSE}}{103}
+\contentsline {figure}{\numberline {6.9}{\ignorespaces BSM and GNSS derived strains for the summer 2012 SSE}}{104}
+\contentsline {figure}{\numberline {6.10}{\ignorespaces BSM and GNSS derived strains for the fall 2013 SSE}}{105}
+\contentsline {figure}{\numberline {6.11}{\ignorespaces BSM and GNSS derived strains for the fall 2014 SSE}}{106}
+\contentsline {figure}{\numberline {6.12}{\ignorespaces BSM and GNSS derived strains for the winter 2015-2016 SSE}}{107}
+\contentsline {figure}{\numberline {6.13}{\ignorespaces BSM and GNSS derived strains for the winter 2017 SSE}}{108}
 \contentsfinish 
