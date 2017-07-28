@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  28 JUL 2017 10:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  28 JUL 2017 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -438,8 +438,8 @@ Package caption Info: End \AtBeginDocument code.
 
 ]
 (./dissertation.toc
-Overfull \hbox (3.53766pt too wide) detected at line 6
- \OT1/cmr/bx/n/12 xvii
+Overfull \hbox (0.16266pt too wide) detected at line 6
+ \OT1/cmr/bx/n/12 xiii
  []
 
 LaTeX Font Info:    Try loading font information for U+msa on input line 8.
@@ -464,19 +464,20 @@ Overfull \hbox (2.03766pt too wide) detected at line 75
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [7] (./dissertation.lof [8] [9] [10] [11] [12] [13])
+ [7] (./dissertation.lof [8] [9])
 \tf@lof=\write4
 \openout4 = `dissertation.lof'.
 
- [14] (./dissertation.lot)
+ [10] (./dissertation.lot)
 \tf@lot=\write5
 \openout5 = `dissertation.lot'.
 
- [15] (./dissertation.apc)
+ [11]
+(./dissertation.apc)
 \tf@apc=\write6
 \openout6 = `dissertation.apc'.
 
- [16] [17
+ [12] [13
 
 ]
 \openout2 = `ch1/ch1.aux'.
@@ -507,7 +508,7 @@ nverted-to.pdf ch1/figures/Figure1.eps>
 (epstopdf)             \includegraphics on input line 125.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/Figure1-eps-converted-to.pdf, id=74, 168.63pt x 217.81375pt>
+<ch1/figures/Figure1-eps-converted-to.pdf, id=58, 168.63pt x 217.81375pt>
 File: ch1/figures/Figure1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure1-eps-converted-to.pdf>
@@ -526,7 +527,7 @@ nverted-to.pdf ch1/figures/Figure2.eps>
 (epstopdf)             \includegraphics on input line 208.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/Figure2-eps-converted-to.pdf, id=113, 463.7325pt x 165.61874pt>
+<ch1/figures/Figure2-eps-converted-to.pdf, id=99, 463.7325pt x 165.61874pt>
 File: ch1/figures/Figure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure2-eps-converted-to.pdf>
@@ -544,7 +545,7 @@ nverted-to.pdf ch1/figures/Figure3.eps>
 (epstopdf)             \includegraphics on input line 228.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/Figure3-eps-converted-to.pdf, id=114, 433.62pt x 303.1325pt>
+<ch1/figures/Figure3-eps-converted-to.pdf, id=100, 433.62pt x 303.1325pt>
 File: ch1/figures/Figure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure3-eps-converted-to.pdf>
@@ -564,7 +565,7 @@ nverted-to.pdf ch1/figures/Figure4.eps>
 (epstopdf)             \includegraphics on input line 368.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/Figure4-eps-converted-to.pdf, id=163, 458.71375pt x 220.825pt>
+<ch1/figures/Figure4-eps-converted-to.pdf, id=150, 458.71375pt x 220.825pt>
 File: ch1/figures/Figure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/Figure4-eps-converted-to.pdf>
@@ -584,7 +585,7 @@ f>
 (epstopdf)             \includegraphics on input line 496.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/AuxFigure1-eps-converted-to.pdf, id=198, 466.74374pt x 257.96375pt
+<ch1/figures/AuxFigure1-eps-converted-to.pdf, id=184, 466.74374pt x 257.96375pt
 >
 File: ch1/figures/AuxFigure1-eps-converted-to.pdf Graphic file (type pdf)
  <use ch1/figures/AuxFigure1-eps-converted-to.pdf>
@@ -603,7 +604,7 @@ f>
 (epstopdf)             \includegraphics on input line 516.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/AuxFigure2-eps-converted-to.pdf, id=199, 433.62pt x 327.2225pt>
+<ch1/figures/AuxFigure2-eps-converted-to.pdf, id=185, 433.62pt x 327.2225pt>
 File: ch1/figures/AuxFigure2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure2-eps-converted-to.pdf>
@@ -622,7 +623,7 @@ f>
 (epstopdf)             \includegraphics on input line 531.
 Package epstopdf Info: Output file is already uptodate.
 
-<ch1/figures/AuxFigure3-eps-converted-to.pdf, id=200, 434.62375pt x 606.265pt>
+<ch1/figures/AuxFigure3-eps-converted-to.pdf, id=186, 434.62375pt x 606.265pt>
 File: ch1/figures/AuxFigure3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure3-eps-converted-to.pdf>
@@ -644,7 +645,7 @@ f>
 -converted-to.pdf ch1/figures/AuxFigure4.eps>
 (epstopdf)             \includegraphics on input line 547.
 Package epstopdf Info: Output file is already uptodate.
-<ch1/figures/AuxFigure4-eps-converted-to.pdf, id=201, 433.62pt x 303.1325pt>
+<ch1/figures/AuxFigure4-eps-converted-to.pdf, id=187, 433.62pt x 303.1325pt>
 File: ch1/figures/AuxFigure4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use ch1/figures/AuxFigure4-eps-converted-to.pdf>
@@ -665,75 +666,75 @@ Missing character: There is no “ in font cmr10!
 
 
 
-] [17] [18] [19] <ch2/figures/Fig1.pdf, id=306, 365.21738pt x 278.90273pt>
+] [17] [18] [19] <ch2/figures/Fig1.pdf, id=294, 365.21738pt x 278.90273pt>
 File: ch2/figures/Fig1.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig1.pdf>
 Package pdftex.def Info: ch2/figures/Fig1.pdf used on input line 233.
 (pdftex.def)             Requested size: 365.21648pt x 278.90202pt.
  [20] [21 <./ch2/figures/Fig1.pdf>] [22] [23]
-[24] [25] <ch2/figures/Fig2.pdf, id=343, 425.50157pt x 167.4264pt>
+[24] [25] <ch2/figures/Fig2.pdf, id=330, 425.50157pt x 167.4264pt>
 File: ch2/figures/Fig2.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig2.pdf>
-Package pdftex.def Info: ch2/figures/Fig2.pdf used on input line 511.
+Package pdftex.def Info: ch2/figures/Fig2.pdf used on input line 513.
 (pdftex.def)             Requested size: 425.50053pt x 167.42598pt.
  [26 <./ch2/figures/Fig2.pdf>] [27]
-<ch2/figures/Fig3.pdf, id=372, 457.13011pt x 426.23732pt>
+<ch2/figures/Fig3.pdf, id=359, 457.13011pt x 426.23732pt>
 File: ch2/figures/Fig3.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig3.pdf>
-Package pdftex.def Info: ch2/figures/Fig3.pdf used on input line 594.
+Package pdftex.def Info: ch2/figures/Fig3.pdf used on input line 598.
 (pdftex.def)             Requested size: 457.129pt x 426.23627pt.
 
-<ch2/figures/Fig4.pdf, id=373, 427.99397pt x 242.15132pt>
+<ch2/figures/Fig4.pdf, id=360, 427.99397pt x 242.15132pt>
 File: ch2/figures/Fig4.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig4.pdf>
-Package pdftex.def Info: ch2/figures/Fig4.pdf used on input line 608.
+Package pdftex.def Info: ch2/figures/Fig4.pdf used on input line 614.
 (pdftex.def)             Requested size: 427.99292pt x 242.15071pt.
 
-<ch2/figures/Fig5.pdf, id=374, 419.05794pt x 516.15485pt>
+<ch2/figures/Fig5.pdf, id=361, 419.05794pt x 516.15485pt>
 File: ch2/figures/Fig5.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig5.pdf>
-Package pdftex.def Info: ch2/figures/Fig5.pdf used on input line 617.
+Package pdftex.def Info: ch2/figures/Fig5.pdf used on input line 625.
 (pdftex.def)             Requested size: 419.0569pt x 516.15358pt.
  [28] [29 <./ch2/figures/Fig3.pdf>] [30 <./ch2/figures/Fig4.pdf>] [31 <./ch2/fi
 gures/Fig5.pdf>]
-<ch2/figures/Fig6.pdf, id=5201, 431.7517pt x 316.99336pt>
+<ch2/figures/Fig6.pdf, id=5189, 431.7517pt x 316.99336pt>
 File: ch2/figures/Fig6.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig6.pdf>
-Package pdftex.def Info: ch2/figures/Fig6.pdf used on input line 721.
+Package pdftex.def Info: ch2/figures/Fig6.pdf used on input line 732.
 (pdftex.def)             Requested size: 431.75063pt x 316.99258pt.
 
-<ch2/figures/Fig7.pdf, id=5202, 425.23222pt x 261.14494pt>
+<ch2/figures/Fig7.pdf, id=5190, 425.23222pt x 261.14494pt>
 File: ch2/figures/Fig7.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig7.pdf>
-Package pdftex.def Info: ch2/figures/Fig7.pdf used on input line 732.
+Package pdftex.def Info: ch2/figures/Fig7.pdf used on input line 746.
 (pdftex.def)             Requested size: 425.23119pt x 261.1443pt.
  [32 <./ch2/figures/Fig6.pdf>] [33 <./ch2/figures/Fig7.pdf>] [34] <ch2/figures/
-Fig8.pdf, id=41910, 429.8851pt x 243.11604pt>
+Fig8.pdf, id=41897, 429.8851pt x 243.11604pt>
 File: ch2/figures/Fig8.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig8.pdf>
-Package pdftex.def Info: ch2/figures/Fig8.pdf used on input line 880.
+Package pdftex.def Info: ch2/figures/Fig8.pdf used on input line 896.
 (pdftex.def)             Requested size: 429.88405pt x 243.11543pt.
 
-<ch2/figures/Fig9.pdf, id=41911, 276.66435pt x 180.18898pt>
+<ch2/figures/Fig9.pdf, id=41898, 276.66435pt x 180.18898pt>
 File: ch2/figures/Fig9.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig9.pdf>
-Package pdftex.def Info: ch2/figures/Fig9.pdf used on input line 894.
+Package pdftex.def Info: ch2/figures/Fig9.pdf used on input line 913.
 (pdftex.def)             Requested size: 276.66367pt x 180.18852pt.
 
-<ch2/figures/Fig10.pdf, id=41912, 431.63963pt x 315.55492pt>
+<ch2/figures/Fig10.pdf, id=41899, 431.63963pt x 315.55492pt>
 File: ch2/figures/Fig10.pdf Graphic file (type pdf)
 
 <use ch2/figures/Fig10.pdf>
-Package pdftex.def Info: ch2/figures/Fig10.pdf used on input line 902.
+Package pdftex.def Info: ch2/figures/Fig10.pdf used on input line 923.
 (pdftex.def)             Requested size: 431.63858pt x 315.55414pt.
  [35] [36 <./ch2/figures/Fig8.pdf> <./ch2/figures/Fig9.pdf
 
@@ -749,7 +750,7 @@ Chapter 3.
 
 
 ] [43]
-<ch3/figures/2016jb013114-p01.pdf, id=49639, 471.38284pt x 273.25458pt>
+<ch3/figures/2016jb013114-p01.pdf, id=49627, 471.38284pt x 273.25458pt>
 File: ch3/figures/2016jb013114-p01.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p01.pdf>
@@ -757,182 +758,182 @@ Package pdftex.def Info: ch3/figures/2016jb013114-p01.pdf used on input line 12
 6.
 (pdftex.def)             Requested size: 471.38168pt x 273.25389pt.
 
-Overfull \hbox (1.62666pt too wide) in paragraph at lines 126--138
+Overfull \hbox (1.62666pt too wide) in paragraph at lines 126--140
 [][] 
  []
 
 [44] [45 <./ch3/figures/2016jb013114-p01.pdf>] [46] [47]
-<ch3/figures/2016jb013114-p02.pdf, id=50580, 528.90703pt x 210.2912pt>
+<ch3/figures/2016jb013114-p02.pdf, id=50567, 528.90703pt x 210.2912pt>
 File: ch3/figures/2016jb013114-p02.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p02.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-p02.pdf used on input line 32
-2.
+4.
 (pdftex.def)             Requested size: 476.01192pt x 189.2603pt.
 
-Overfull \hbox (6.2569pt too wide) in paragraph at lines 322--329
+Overfull \hbox (6.2569pt too wide) in paragraph at lines 324--334
 [][] 
  []
 
-<ch3/figures/2016jb013114-p03.pdf, id=50581, 538.917pt x 210.2912pt>
+<ch3/figures/2016jb013114-p03.pdf, id=50568, 538.917pt x 210.2912pt>
 File: ch3/figures/2016jb013114-p03.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p03.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-p03.pdf used on input line 33
-4.
+9.
 (pdftex.def)             Requested size: 485.02083pt x 189.2603pt.
 
-Overfull \hbox (15.26581pt too wide) in paragraph at lines 334--335
+Overfull \hbox (15.26581pt too wide) in paragraph at lines 339--343
 [] 
  []
 
 [48 <./ch3/figures/2016jb013114-p02.pdf>]
-<ch3/figures/2016jb013114-p04.pdf, id=58024, 529.22792pt x 456.00827pt>
+<ch3/figures/2016jb013114-p04.pdf, id=58011, 529.22792pt x 456.00827pt>
 File: ch3/figures/2016jb013114-p04.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p04.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p04.pdf used on input line 37
-7.
+Package pdftex.def Info: ch3/figures/2016jb013114-p04.pdf used on input line 38
+5.
 (pdftex.def)             Requested size: 476.30072pt x 410.40364pt.
 
-Overfull \hbox (6.5457pt too wide) in paragraph at lines 377--386
+Overfull \hbox (6.5457pt too wide) in paragraph at lines 385--396
 [][] 
  []
 
-<ch3/figures/2016jb013114-p05.pdf, id=58025, 538.79173pt x 456.0083pt>
+<ch3/figures/2016jb013114-p05.pdf, id=58012, 538.79173pt x 456.0083pt>
 File: ch3/figures/2016jb013114-p05.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p05.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p05.pdf used on input line 39
+Package pdftex.def Info: ch3/figures/2016jb013114-p05.pdf used on input line 40
 1.
 (pdftex.def)             Requested size: 484.90808pt x 410.40366pt.
 
-Overfull \hbox (15.15306pt too wide) in paragraph at lines 391--392
+Overfull \hbox (15.15306pt too wide) in paragraph at lines 401--404
 [][] 
  []
 
 [49 <./ch3/figures/2016jb013114-p03.pdf>] [50 <./ch3/figures/2016jb013114-p04.p
 df>] [51 <./ch3/figures/2016jb013114-p05.pdf>] [52] [53]
-<ch3/figures/2016jb013114-p06.pdf, id=79036, 541.35625pt x 244.15169pt>
+<ch3/figures/2016jb013114-p06.pdf, id=79023, 541.35625pt x 244.15169pt>
 File: ch3/figures/2016jb013114-p06.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p06.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p06.pdf used on input line 53
-2.
+Package pdftex.def Info: ch3/figures/2016jb013114-p06.pdf used on input line 54
+6.
 (pdftex.def)             Requested size: 487.21611pt x 219.73447pt.
 
-Overfull \hbox (17.46109pt too wide) in paragraph at lines 532--536
+Overfull \hbox (17.46109pt too wide) in paragraph at lines 546--553
 [][] 
  []
 
-<ch3/figures/2016jb013114-p07.pdf, id=79037, 517.59235pt x 413.53906pt>
+<ch3/figures/2016jb013114-p07.pdf, id=79024, 517.59235pt x 413.53906pt>
 File: ch3/figures/2016jb013114-p07.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p07.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p07.pdf used on input line 54
-1.
+Package pdftex.def Info: ch3/figures/2016jb013114-p07.pdf used on input line 55
+8.
 (pdftex.def)             Requested size: 465.8288pt x 372.1817pt.
  [54 <./ch3/figures/2016jb013114-p06.pdf>] [55 <./ch3/figures/2016jb013114-p07.
 pdf>]
-<ch3/figures/2016jb013114-f08.pdf, id=79460, 239.37053pt x 176.8289pt>
+<ch3/figures/2016jb013114-f08.pdf, id=79448, 239.37053pt x 176.8289pt>
 File: ch3/figures/2016jb013114-f08.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-f08.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-f08.pdf used on input line 57
-9.
+Package pdftex.def Info: ch3/figures/2016jb013114-f08.pdf used on input line 59
+8.
 (pdftex.def)             Requested size: 239.36993pt x 176.82846pt.
  [56 <./ch3/figures/2016jb013114-f08.pdf>] [57] <ch3/figures/2016jb013114-p09.p
-df, id=79484, 456.5322pt x 185.0767pt>
+df, id=79470, 456.5322pt x 185.0767pt>
 File: ch3/figures/2016jb013114-p09.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p09.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p09.pdf used on input line 67
-8.
+Package pdftex.def Info: ch3/figures/2016jb013114-p09.pdf used on input line 69
+9.
 (pdftex.def)             Requested size: 456.53107pt x 185.07625pt.
  [58 <./ch3/figures/2016jb013114-p09.pdf>] <ch3/figures/2016jb013114-p10.pdf, i
-d=79541, 516.94884pt x 413.52374pt>
+d=79528, 516.94884pt x 413.52374pt>
 File: ch3/figures/2016jb013114-p10.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p10.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p10.pdf used on input line 72
-8.
+Package pdftex.def Info: ch3/figures/2016jb013114-p10.pdf used on input line 75
+2.
 (pdftex.def)             Requested size: 465.24965pt x 372.16792pt.
  [59] [60 <./ch3/figures/2016jb013114-p10.pdf>] <ch3/figures/2016jb013114-p11.p
-df, id=79550, 270.38544pt x 243.88765pt>
+df, id=79538, 270.38544pt x 243.88765pt>
 File: ch3/figures/2016jb013114-p11.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p11.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p11.pdf used on input line 82
-3.
+Package pdftex.def Info: ch3/figures/2016jb013114-p11.pdf used on input line 85
+0.
 (pdftex.def)             Requested size: 270.38477pt x 243.88704pt.
  [61]
-<ch3/figures/2016jb013114-p12.pdf, id=79554, 247.27501pt x 302.37466pt>
+<ch3/figures/2016jb013114-p12.pdf, id=79542, 247.27501pt x 302.37466pt>
 File: ch3/figures/2016jb013114-p12.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p12.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p12.pdf used on input line 83
+Package pdftex.def Info: ch3/figures/2016jb013114-p12.pdf used on input line 86
 1.
 (pdftex.def)             Requested size: 247.2744pt x 302.37392pt.
  [62 <./ch3/figures/2016jb013114-p11.pdf>] [63 <./ch3/figures/2016jb013114-p12.
 pdf>]
-<ch3/figures/2016jb013114-f13.pdf, id=79570, 245.72348pt x 245.08922pt>
+<ch3/figures/2016jb013114-f13.pdf, id=79557, 245.72348pt x 245.08922pt>
 File: ch3/figures/2016jb013114-f13.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-f13.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-f13.pdf used on input line 90
-6.
+Package pdftex.def Info: ch3/figures/2016jb013114-f13.pdf used on input line 93
+8.
 (pdftex.def)             Requested size: 245.72287pt x 245.08861pt.
  [64 <./ch3/figures/2016jb013114-f13.pdf>] <ch3/figures/2016jb013114-p14.pdf, i
-d=79592, 539.90674pt x 243.49792pt>
+d=79579, 539.90674pt x 243.49792pt>
 File: ch3/figures/2016jb013114-p14.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-p14.pdf>
-Package pdftex.def Info: ch3/figures/2016jb013114-p14.pdf used on input line 97
-8.
+Package pdftex.def Info: ch3/figures/2016jb013114-p14.pdf used on input line 10
+12.
 (pdftex.def)             Requested size: 485.91156pt x 219.1461pt.
 
-Overfull \hbox (16.15654pt too wide) in paragraph at lines 978--985
+Overfull \hbox (16.15654pt too wide) in paragraph at lines 1012--1022
 [][] 
  []
 
 [65] [66 <./ch3/figures/2016jb013114-p14.pdf>] [67] [68]
-<ch3/figures/2016jb013114-fS01.pdf, id=79616, 499.32538pt x 229.7398pt>
+<ch3/figures/2016jb013114-fS01.pdf, id=79603, 499.32538pt x 229.7398pt>
 File: ch3/figures/2016jb013114-fS01.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-fS01.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-fS01.pdf used on input line 1
-165.
+202.
 (pdftex.def)             Requested size: 449.38869pt x 206.7639pt.
 
-<ch3/figures/2016jb013114-pS02.pdf, id=79617, 500.08627pt x 257.75772pt>
+<ch3/figures/2016jb013114-pS02.pdf, id=79604, 500.08627pt x 257.75772pt>
 File: ch3/figures/2016jb013114-pS02.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS02.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-pS02.pdf used on input line 1
-183.
+222.
 (pdftex.def)             Requested size: 450.07347pt x 231.9798pt.
 
-<ch3/figures/2016jb013114-pS03.pdf, id=79618, 529.04187pt x 456.36111pt>
+<ch3/figures/2016jb013114-pS03.pdf, id=79605, 529.04187pt x 456.36111pt>
 File: ch3/figures/2016jb013114-pS03.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS03.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-pS03.pdf used on input line 1
-203.
+244.
 (pdftex.def)             Requested size: 476.13329pt x 410.7212pt.
 
-Overfull \hbox (6.37827pt too wide) in paragraph at lines 1203--1212
+Overfull \hbox (6.37827pt too wide) in paragraph at lines 1244--1256
 [] 
  []
 
-<ch3/figures/2016jb013114-pS04.pdf, id=79619, 538.48602pt x 456.36118pt>
+<ch3/figures/2016jb013114-pS04.pdf, id=79606, 538.48602pt x 456.36118pt>
 File: ch3/figures/2016jb013114-pS04.pdf Graphic file (type pdf)
 
 <use ch3/figures/2016jb013114-pS04.pdf>
 Package pdftex.def Info: ch3/figures/2016jb013114-pS04.pdf used on input line 1
-217.
+261.
 (pdftex.def)             Requested size: 484.63293pt x 410.72127pt.
 
-Overfull \hbox (14.87791pt too wide) in paragraph at lines 1217--1218
+Overfull \hbox (14.87791pt too wide) in paragraph at lines 1261--1265
 [] 
  []
 
@@ -947,7 +948,7 @@ Chapter 4.
 
 
 
-] [75] [76] [77] <ch4/figures/fig1.pdf, id=83267, 469.755pt x 361.35pt>
+] [75] [76] [77] <ch4/figures/fig1.pdf, id=83254, 469.755pt x 361.35pt>
 File: ch4/figures/fig1.pdf Graphic file (type pdf)
 
 <use ch4/figures/fig1.pdf>
@@ -964,7 +965,7 @@ Chapter 5.
 
 
 ] [83] [84] [85] [86] [87] [88]
-<ch5/figures/context_map/context-map.pdf, id=83353, 505.89pt x 397.485pt>
+<ch5/figures/context_map/context-map.pdf, id=83340, 505.89pt x 397.485pt>
 File: ch5/figures/context_map/context-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/context_map/context-map.pdf>
@@ -972,97 +973,97 @@ Package pdftex.def Info: ch5/figures/context_map/context-map.pdf used on input
 line 462.
 (pdftex.def)             Requested size: 505.88875pt x 397.48402pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 462--470
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 462--473
 [][] 
  []
 
 [89] [90] [91 <./ch5/figures/context_map/context-map.pdf>]
-<ch5/figures/noise/noise-params.pdf, id=83404, 505.89pt x 397.485pt>
+<ch5/figures/noise/noise-params.pdf, id=83392, 505.89pt x 397.485pt>
 File: ch5/figures/noise/noise-params.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-params.pdf>
 Package pdftex.def Info: ch5/figures/noise/noise-params.pdf used on input line 
-565.
+568.
 (pdftex.def)             Requested size: 505.88875pt x 397.48402pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 565--569
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 568--574
 [][] 
  []
 
-<ch5/figures/noise/noise-samples.pdf, id=83405, 505.89pt x 289.08pt>
+<ch5/figures/noise/noise-samples.pdf, id=83393, 505.89pt x 289.08pt>
 File: ch5/figures/noise/noise-samples.pdf Graphic file (type pdf)
 
 <use ch5/figures/noise/noise-samples.pdf>
 Package pdftex.def Info: ch5/figures/noise/noise-samples.pdf used on input line
- 574.
+ 579.
 (pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 574--577
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 579--584
 [][] 
  []
 
 [92] [93 <./ch5/figures/noise/noise-params.pdf>] [94 <./ch5/figures/noise/noise
 -samples.pdf>] [95]
-<ch5/figures/outliers/outliers.pdf, id=83493, 505.89pt x 216.81pt>
+<ch5/figures/outliers/outliers.pdf, id=83480, 505.89pt x 216.81pt>
 File: ch5/figures/outliers/outliers.pdf Graphic file (type pdf)
 
 <use ch5/figures/outliers/outliers.pdf>
 Package pdftex.def Info: ch5/figures/outliers/outliers.pdf used on input line 6
-91.
+98.
 (pdftex.def)             Requested size: 505.88875pt x 216.80946pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 691--697
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 698--706
 [][] 
  []
 
 
-Overfull \hbox (44.67795pt too wide) in paragraph at lines 715--724
+Overfull \hbox (44.67795pt too wide) in paragraph at lines 726--735
 [][] 
  []
 
 [96 <./ch5/figures/outliers/outliers.pdf>] [97]
-<ch5/figures/signal_fit/signal-fit.pdf, id=83542, 505.89pt x 216.81pt>
+<ch5/figures/signal_fit/signal-fit.pdf, id=83530, 505.89pt x 216.81pt>
 File: ch5/figures/signal_fit/signal-fit.pdf Graphic file (type pdf)
 
 <use ch5/figures/signal_fit/signal-fit.pdf>
 Package pdftex.def Info: ch5/figures/signal_fit/signal-fit.pdf used on input li
-ne 790.
+ne 801.
 (pdftex.def)             Requested size: 505.88875pt x 216.80946pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 790--797
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 801--810
 [][] 
  []
 
 [98 <./ch5/figures/signal_fit/signal-fit.pdf>]
-<ch5/figures/strain_map/strain-map.pdf, id=83594, 433.62pt x 433.62pt>
+<ch5/figures/strain_map/strain-map.pdf, id=83581, 433.62pt x 433.62pt>
 File: ch5/figures/strain_map/strain-map.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_map/strain-map.pdf>
 Package pdftex.def Info: ch5/figures/strain_map/strain-map.pdf used on input li
-ne 829.
+ne 842.
 (pdftex.def)             Requested size: 433.61894pt x 433.61894pt.
 
-<ch5/figures/strain_ts/strain-ts.pdf, id=83595, 505.89pt x 361.35pt>
+<ch5/figures/strain_ts/strain-ts.pdf, id=83582, 505.89pt x 361.35pt>
 File: ch5/figures/strain_ts/strain-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/strain-ts.pdf>
 Package pdftex.def Info: ch5/figures/strain_ts/strain-ts.pdf used on input line
- 854.
+ 870.
 (pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 854--858
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 870--876
 [][] 
  []
 
-<ch5/figures/strain_ts/mag-ts.pdf, id=83596, 505.89pt x 289.08pt>
+<ch5/figures/strain_ts/mag-ts.pdf, id=83583, 505.89pt x 289.08pt>
 File: ch5/figures/strain_ts/mag-ts.pdf Graphic file (type pdf)
 
 <use ch5/figures/strain_ts/mag-ts.pdf>
-Package pdftex.def Info: ch5/figures/strain_ts/mag-ts.pdf used on input line 86
-3.
+Package pdftex.def Info: ch5/figures/strain_ts/mag-ts.pdf used on input line 88
+1.
 (pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 863--866
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 881--886
 [][] 
  []
 
@@ -1073,7 +1074,7 @@ _ts/strain-ts.pdf>] [102 <./ch5/figures/strain_ts/mag-ts.pdf>] [103]) [104]
 
 (./ch6/ch6.tex
 Chapter 6.
-<ch6/figures/map.pdf, id=83727, 433.62pt x 361.35pt>
+<ch6/figures/map.pdf, id=83714, 433.62pt x 361.35pt>
 File: ch6/figures/map.pdf Graphic file (type pdf)
  <use ch6/figures/map.pdf>
 Package pdftex.def Info: ch6/figures/map.pdf used on input line 26.
@@ -1084,128 +1085,128 @@ Package pdftex.def Info: ch6/figures/map.pdf used on input line 26.
 
 
 ] [106 <./ch6/figures/map.pdf>] [107]
-<ch6/figures/SSE1.pdf, id=83771, 505.89pt x 433.62pt>
+<ch6/figures/SSE1.pdf, id=83758, 505.89pt x 433.62pt>
 File: ch6/figures/SSE1.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE1.pdf>
-Package pdftex.def Info: ch6/figures/SSE1.pdf used on input line 176.
+Package pdftex.def Info: ch6/figures/SSE1.pdf used on input line 178.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 176--184
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 178--188
 [][] 
  []
 
 [108] [109 <./ch6/figures/SSE1.pdf>] [110]
-<ch6/figures/gnss.pdf, id=83812, 505.89pt x 361.35pt>
+<ch6/figures/gnss.pdf, id=83799, 505.89pt x 361.35pt>
 File: ch6/figures/gnss.pdf Graphic file (type pdf)
 
 <use ch6/figures/gnss.pdf>
-Package pdftex.def Info: ch6/figures/gnss.pdf used on input line 243.
+Package pdftex.def Info: ch6/figures/gnss.pdf used on input line 247.
 (pdftex.def)             Requested size: 505.88875pt x 361.34912pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 243--247
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 247--253
 [][] 
  []
 
-<ch6/figures/gauge.pdf, id=83813, 505.89pt x 289.08pt>
+<ch6/figures/gauge.pdf, id=83800, 505.89pt x 289.08pt>
 File: ch6/figures/gauge.pdf Graphic file (type pdf)
 
 <use ch6/figures/gauge.pdf>
-Package pdftex.def Info: ch6/figures/gauge.pdf used on input line 252.
+Package pdftex.def Info: ch6/figures/gauge.pdf used on input line 258.
 (pdftex.def)             Requested size: 505.88875pt x 289.07928pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 252--254
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 258--262
 [][] 
  []
 
-<ch6/figures/fit.pdf, id=83814, 433.62pt x 361.35pt>
+<ch6/figures/fit.pdf, id=83801, 433.62pt x 361.35pt>
 File: ch6/figures/fit.pdf Graphic file (type pdf)
  <use ch6/figures/fit.pdf>
-Package pdftex.def Info: ch6/figures/fit.pdf used on input line 259.
+Package pdftex.def Info: ch6/figures/fit.pdf used on input line 267.
 (pdftex.def)             Requested size: 433.61894pt x 361.34912pt.
 
-<ch6/figures/misfit.pdf, id=83815, 361.35pt x 289.08pt>
+<ch6/figures/misfit.pdf, id=83802, 361.35pt x 289.08pt>
 File: ch6/figures/misfit.pdf Graphic file (type pdf)
 
 <use ch6/figures/misfit.pdf>
-Package pdftex.def Info: ch6/figures/misfit.pdf used on input line 268.
+Package pdftex.def Info: ch6/figures/misfit.pdf used on input line 278.
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
  [111 <./ch6/figures/gnss.pdf>] [112 <./ch6/figures/gauge.pdf>] [113 <./ch6/fig
 ures/fit.pdf>]
-<ch6/figures/SSE0.pdf, id=83973, 505.89pt x 433.62pt>
+<ch6/figures/SSE0.pdf, id=83960, 505.89pt x 433.62pt>
 File: ch6/figures/SSE0.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE0.pdf>
-Package pdftex.def Info: ch6/figures/SSE0.pdf used on input line 321.
+Package pdftex.def Info: ch6/figures/SSE0.pdf used on input line 334.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 321--322
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 334--337
 [][] 
  []
 
-<ch6/figures/SSE2.pdf, id=83974, 505.89pt x 433.62pt>
+<ch6/figures/SSE2.pdf, id=83961, 505.89pt x 433.62pt>
 File: ch6/figures/SSE2.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE2.pdf>
-Package pdftex.def Info: ch6/figures/SSE2.pdf used on input line 327.
+Package pdftex.def Info: ch6/figures/SSE2.pdf used on input line 342.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 327--328
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 342--345
 [][] 
  []
 
-<ch6/figures/SSE3.pdf, id=83975, 505.89pt x 433.62pt>
+<ch6/figures/SSE3.pdf, id=83962, 505.89pt x 433.62pt>
 File: ch6/figures/SSE3.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE3.pdf>
-Package pdftex.def Info: ch6/figures/SSE3.pdf used on input line 333.
+Package pdftex.def Info: ch6/figures/SSE3.pdf used on input line 350.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 333--334
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 350--353
 [][] 
  []
 
-<ch6/figures/SSE4.pdf, id=83976, 505.89pt x 433.62pt>
+<ch6/figures/SSE4.pdf, id=83963, 505.89pt x 433.62pt>
 File: ch6/figures/SSE4.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE4.pdf>
-Package pdftex.def Info: ch6/figures/SSE4.pdf used on input line 339.
+Package pdftex.def Info: ch6/figures/SSE4.pdf used on input line 358.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 339--340
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 358--361
 [][] 
  []
 
-<ch6/figures/SSE5.pdf, id=83977, 505.89pt x 433.62pt>
+<ch6/figures/SSE5.pdf, id=83964, 505.89pt x 433.62pt>
 File: ch6/figures/SSE5.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE5.pdf>
-Package pdftex.def Info: ch6/figures/SSE5.pdf used on input line 345.
+Package pdftex.def Info: ch6/figures/SSE5.pdf used on input line 366.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 345--346
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 366--369
 [][] 
  []
 
-<ch6/figures/SSE6.pdf, id=83978, 505.89pt x 433.62pt>
+<ch6/figures/SSE6.pdf, id=83965, 505.89pt x 433.62pt>
 File: ch6/figures/SSE6.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE6.pdf>
-Package pdftex.def Info: ch6/figures/SSE6.pdf used on input line 351.
+Package pdftex.def Info: ch6/figures/SSE6.pdf used on input line 374.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 351--352
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 374--377
 [][] 
  []
 
-<ch6/figures/SSE7.pdf, id=83979, 505.89pt x 433.62pt>
+<ch6/figures/SSE7.pdf, id=83966, 505.89pt x 433.62pt>
 File: ch6/figures/SSE7.pdf Graphic file (type pdf)
 
 <use ch6/figures/SSE7.pdf>
-Package pdftex.def Info: ch6/figures/SSE7.pdf used on input line 357.
+Package pdftex.def Info: ch6/figures/SSE7.pdf used on input line 382.
 (pdftex.def)             Requested size: 505.88875pt x 433.61894pt.
 
-Overfull \hbox (36.13373pt too wide) in paragraph at lines 357--358
+Overfull \hbox (36.13373pt too wide) in paragraph at lines 382--385
 [][] 
  []
 
@@ -1245,13 +1246,13 @@ Missing character: There is no “ in font cmr12!
 (./ch1/ch1.aux) (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux)
 (./ch6/ch6.aux)) ) 
 Here is how much of TeX's memory you used:
- 7269 strings out of 494910
- 110172 string characters out of 6179836
- 185386 words of memory out of 5000000
- 10319 multiletter control sequences out of 15000+600000
+ 7268 strings out of 494910
+ 110222 string characters out of 6179836
+ 185127 words of memory out of 5000000
+ 10318 multiletter control sequences out of 15000+600000
  15893 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,17n,47p,1168b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,17n,47p,799b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
@@ -1273,10 +1274,10 @@ ist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/ty
 pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (154 pages, 25239566 bytes).
+Output written on dissertation.pdf (150 pages, 25226343 bytes).
 PDF statistics:
- 84380 PDF objects out of 95282 (max. 8388607)
- 55470 compressed objects within 555 object streams
+ 84367 PDF objects out of 95282 (max. 8388607)
+ 55461 compressed objects within 555 object streams
  0 named destinations out of 1000 (max. 500000)
  291 words of extra memory for PDF output out of 10000 (max. 10000000)
 

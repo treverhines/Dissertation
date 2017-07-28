@@ -124,7 +124,9 @@ $10^{18}$ Pa s.
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p01} 
-\caption{Map of the region considered in this study.  The large focal
+\caption
+[Map of the region considered in this study]
+{Map of the region considered in this study.  The large focal
 mechanism is the GCMT solution for the El Mayor-Cucapah earthquake,
 and the three small focal mechanisms are for the Ocotillo earthquake
 and the two main shocks during the Brawley swarm.  The black dots
@@ -320,7 +322,10 @@ Mine earthquake \citep{Freed2007a}.
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p02}
-\caption{Left panels show GPS time series from UNAVCO (black) and the
+\caption
+[Observed displacements and estimated postseismic displacements
+for station P496] 
+{Left panels show GPS time series from UNAVCO (black) and the
 predicted displacement (blue) from eq. (\ref{TimeSeriesModel}) for a
 near-field station.  Red lines indicate the times of the El
 Mayor-Cucapah and Ocotillo earthquake. The right panels show estimated
@@ -332,7 +337,10 @@ interval is shown in light blue.}
 
 \begin{figure}
 \noindent\includegraphics[scale=0.9]{ch3/figures/2016jb013114-p03}
-\caption{same as Figure \ref{ch3:fig:P496} but for a far-field station.} 
+\caption
+[Observed displacements and estimated postseismic displacements
+for station P619] 
+{same as Figure \ref{ch3:fig:P496} but for a far-field station.} 
 \label{ch3:fig:P619}
 \end{figure}
 
@@ -375,7 +383,9 @@ it likely does not have postseismic origins.
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p04}
-\caption{Near-field coseismic and cumulative postseismic displacements
+\caption
+[Observed and predicted near-field postseismic deformation]
+{Near-field coseismic and cumulative postseismic displacements
 over the indicated time periods (black) and predicted displacements
 for our preferred model from Section \ref{ch3:sec:FullInversion}
 (green).  The black error ellipses show the 68\% confidence interval
@@ -389,7 +399,9 @@ data available.}
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p05}
-\caption{Same as Figure \ref{ch3:fig:NearField} but for far-field stations.}
+\caption
+[Observed and predicted far-field postseismic deformation]
+{Same as Figure \ref{ch3:fig:NearField} but for far-field stations.}
 \label{ch3:fig:FarField}
 \end{figure}
 
@@ -419,7 +431,9 @@ depth (km) &$\lambda$ (GPa)&$\mu$ (GPa)&$\eta_\mathrm{eff}$ ($10^{18}$ Pa s) & $
 120-150 & 61.0 & 61.0 & 1.10 & 0.375\\
 150-$\infty$ & 61.0 & 61.0 & 1.07 & 0.375\\
 \end{tabular}
-\caption{Assumed and estimated material properties. $\lambda$ and
+\caption
+[Assumed and estimated material properties]
+{Assumed and estimated material properties. $\lambda$ and
 $\mu$ are assumed known \textit{a priori} and are based on the values
 used for the coseismic model by \citet{Wei2011}.  The values for
 $\eta_\mathrm{eff}$ are estimated in Section
@@ -530,7 +544,10 @@ viscoelastic models in the next section.
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p06}
-\caption{Coseismic slip and cumulative afterslip over the indicated
+\caption
+[Inferred coseismic slip and afterslip when assuming an elastic
+lithosphere]
+{Coseismic slip and cumulative afterslip over the indicated
 time intervals when assuming the crust and mantle are elastic.  Color
 indicates the magnitude of slip and arrows indicate the motion of the
 hanging wall.}
@@ -539,7 +556,9 @@ hanging wall.}
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p07}
-\caption{Scaled radial component of postseismic displacements.
+\caption
+[Radial components of observed and predicted postseismic displacments]
+{Scaled radial component of postseismic displacements.
 Downward motion indicates that the station is moving toward the El
 Mayor-Cucapah epicenter.  Displacement time series are scaled so that
 the minimum and maximum observed values lie on the grid lines.  The
@@ -577,7 +596,9 @@ their use in geophysical studies in Section \ref{Discussion}.
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-f08}
-\caption{Schematic illustration of the rheologic models considered in
+\caption
+[Schematic illustration of rheologic models]
+{Schematic illustration of the rheologic models considered in
 this paper as well as their effective viscosities.}
 \label{ch3:fig:Rheology}
 \end{figure}
@@ -676,7 +697,10 @@ shallow \citep{Rollins2015}.
  
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p09}
-\caption{Displacements resulting from fault slip at lower crustal
+\caption
+[Postseismic displacements resulting from deep fault slip and a weak
+lower crust]
+{Displacements resulting from fault slip at lower crustal
 depths (a), and initial velocities resulting from subsequent
 relaxation of a viscoelastic lower crust (b).  The fault segment dips
 $75^\circ$ to the north-east and its surface projection is outlined in
@@ -726,7 +750,10 @@ of postseismic deformation.
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p10}
-\caption{Observed postseismic displacements (black) and best fitting
+\caption
+[Observed postseismic displacments and predicted postseismic
+displacments when using varying durations of the data]
+{Observed postseismic displacements (black) and best fitting
 predictions of eq. (\ref{ApproxForward}) to 5.0 (blue), 3.0 (green),
 and 0.8 (yellow) years of the postseismic data.}
 \label{ch3:fig:RecordSection1}
@@ -821,7 +848,10 @@ the first 0.8 years after the earthquake.
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p11}
-\caption{Coseismic slip and afterslip inferred by fitting eq.
+\caption
+[Coseismic slip and afterslip inferred from 0.8 years of postseismic
+data]
+{Coseismic slip and afterslip inferred by fitting eq.
 (\ref{ApproxForward}) to the first 0.8 years of postseismic
 displacements.}
 \label{ch3:fig:InitialSlip}
@@ -829,7 +859,9 @@ displacements.}
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-p12}
-\caption{Effective viscosities and associated fluidities inferred by
+\caption
+[Inferred effective viscosities]
+{Effective viscosities and associated fluidities inferred by
 fitting eq. (\ref{ApproxForward}) to the first 0.8 years of
 postseismic displacements. 95\% confidence intervals, estimated from
 bootstrapping, are indicated by shaded regions.}
@@ -904,7 +936,9 @@ are summarized in Table 1.
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-f13}
-\caption{Mean chi-squared value as a function of the transient shear
+\caption
+[Misfit as a function of transient shear modulus]
+{Mean chi-squared value as a function of the transient shear
 modulus relative to the elastic shear modulus in a Zener rheology
 upper mantle. Large dot indicates our preferred ratio.}
 \label{ch3:fig:ShearModulusRatio}
@@ -976,7 +1010,10 @@ which is inconsistent with any postseismic model.
 
 \begin{figure}
 \includegraphics[scale=0.9]{ch3/figures/2016jb013114-p14}
-\caption{Inferred coseismic slip and afterslip for our preferred
+\caption
+[Coseismic slip and afterslip inferred from all available postseismic
+data]
+{Inferred coseismic slip and afterslip for our preferred
 model, which has a Maxwell rheology in the lower crust and a Zener
 rheology in the upper mantle.  The transient viscosity, $\eta_K$, in
 the mantle and steady-state viscosity, $\eta_M$, in the crust are set
@@ -1163,7 +1200,9 @@ viscoelastic components, for the preferred model from Section
 
 \begin{figure}
 \noindent\includegraphics[scale=0.9]{ch3/figures/2016jb013114-fS01}
-\caption{Trade-off curves used to determine the damping parameters
+\caption
+[Trade-off curves]
+{Trade-off curves used to determine the damping parameters
 $\lambda_s$ and $\lambda_\eta$ in eq.  (15) of the main text.  The
 left panel shows the trade-off curve for the fault slip penalty
 parameter, $\lambda_s$.  We pick $\lambda_s$ while keeping the penalty
@@ -1181,7 +1220,9 @@ size of the Laplacian of fluidity, $||\nabla
 
 \begin{figure}
 \noindent\includegraphics[scale=0.9]{ch3/figures/2016jb013114-pS02}
-\caption{Checkerboard test used to assess the resolving power of the
+\caption
+[Synthetic checkerboard test]
+{Checkerboard test used to assess the resolving power of the
 inversion in Section \ref{ch3:sec:InitialInversion} of the main text.  We create synthetic data
 at all of the GPS stations considered in this study by evaluating eq.
 (14) with the synthetic coseismic slip distribution and fluidity
@@ -1201,7 +1242,10 @@ fluidity largely obscures the jump in the synthetic model.}
 
 \begin{figure}
 \noindent\includegraphics[scale=0.9]{ch3/figures/2016jb013114-pS03}
-\caption{Elastic (black) and viscoelastic (green) components of the
+\caption
+[Elastic and viscous components of predicted near-field postseismic
+displacments]
+{Elastic (black) and viscoelastic (green) components of the
 near-field predicted displacements for the preferred Zener model from
 Section \ref{ch3:sec:FullInversion}.  The elastic component is the deformation resulting from
 fault slip and the viscoelastic component is the deformation resulting
@@ -1215,7 +1259,10 @@ viscoelastic component is shown within the green circles.}
 
 \begin{figure}
 \noindent\includegraphics[scale=0.9]{ch3/figures/2016jb013114-pS04}
-\caption{Same as figure \ref{ch3:fig:S3} but for far-field stations.}
+\caption
+[Elastic and viscous components of predicted far-field postseismic
+displacments]
+{Same as figure \ref{ch3:fig:S3} but for far-field stations.}
 \label{ch3:fig:S4}
 \end{figure}
 

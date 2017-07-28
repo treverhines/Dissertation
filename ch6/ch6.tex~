@@ -1,7 +1,7 @@
 \chapter{Validating Plate Boundary Observatory borehole
 strainmeter data with GNSS derived strain}
 
-\section{Introduction}\label{sec:Introduction}
+\section{Introduction}
 The Plate Boundary Observatory (PBO) contains 82 borehole strain
 meters (BSMs), most of which are installed along the western United
 States. BSMs are able to detect geophysical processes such as
@@ -24,7 +24,9 @@ data to strain derived from GNSS data.
 
 \begin{figure}
 \includegraphics{ch6/figures/map.pdf}
-\caption{Location of BSM and GNSS stations used in this study.}   
+\caption
+[Location of BSM and GNSS stations used in this study]
+{Location of BSM and GNSS stations used in this study.}   
 \label{fig:Map}
 \end{figure}
 
@@ -172,6 +174,21 @@ hyperparameters, we condition the prior with the GNSS data and then
 spatially differentiate the posterior displacements to obtain
 transient strain.
 
+\begin{figure}
+\includegraphics{ch6/figures/SSE1.pdf}
+\caption
+[BSM and GNSS derived strains for the summer 2010 SSE]
+{differential (left) and engineering shear (right) strains
+during the summer 2010 SSE observed at BSMs (solid) and derived from
+GNSS data (dashed). The horizontal dotted lines are spaced by 0.1
+micro-strain. The shaded region around the GNSS derived strains show
+the one standard deviation confidence interval. The dotted line for
+station B018 shows the BSM data using the optimal instrument
+orientation. The shown BSM data has been detrended by estimating and
+removing a second-order polynomial from each timeseries.}
+\label{fig:SSE1}
+\end{figure}
+
 \section{Results}
 We compare the BSM data to GNSS derived strains for eight SSEs in the
 Puget Sound region. The earliest SSE considered occurred in spring
@@ -187,19 +204,6 @@ B004, B007, and B018 because the areal strains derived from different
 combinations of gauges at these stations are not self consistent.
 \citet{Roeloffs2010} also noted an inconsistency in the differential
 strains at B003.
-
-\begin{figure}
-\includegraphics{ch6/figures/SSE1.pdf}
-\caption{differential (left) and engineering shear (right) strains
-during the summer 2010 SSE observed at BSMs (solid) and derived from
-GNSS data (dashed). The horizontal dotted lines are spaced by 0.1
-micro-strain. The shaded region around the GNSS derived strains show
-the one standard deviation confidence interval. The dotted line for
-station B018 shows the BSM data using the optimal instrument
-orientation. The shown BSM data has been detrended by estimating and
-removing a second-order polynomial from each timeseries.}
-\label{fig:SSE1}
-\end{figure}
 
 Station B004 records differential and engineering shear strains that
 are most consistent with the GNSS derived strains. However, the
@@ -239,6 +243,47 @@ SSE signal, even though a signal is observed in the GNSS derived
 strains. This too could be due to distortion of the strain field from
 local features.
 
+\begin{figure}
+\includegraphics{ch6/figures/gnss.pdf}
+\caption
+[GNSS derived strains for station B018]
+{GNSS derived differential and engineering shear strains for
+station B018. The shaded blue regions indicate the one standard
+deviation confidence interval. The shaded gray regions indicate times
+of strain drops, which are the result of SSEs.}
+\label{fig:Gnss}
+\end{figure}
+
+\begin{figure}
+\includegraphics{ch6/figures/gauge.pdf}
+\caption
+[Gauge readings at station B018]
+{Gauge readings at station B018. The gray shaded regions
+indicate times of strain drops from Figure \ref{fig:Gnss}.}
+\label{fig:Gauge}
+\end{figure}
+
+\begin{figure}
+\includegraphics{ch6/figures/fit.pdf}
+\caption
+[GNSS and BSM strain dropts at station B018]
+{GNSS derived strain drops at station B018 during the 11
+events identified in Figure \ref{fig:Gnss} (blue dots), BSM strain
+drops using the recorded orientation for B018 (orange dots), and BSM
+strain drops using the optimal orientation for B018 (green dots).}
+\label{fig:Fit}
+\end{figure}
+
+\begin{figure}
+\includegraphics{ch6/figures/misfit.pdf}
+\caption
+[Misfit as a function of instrument orientation for station
+B018]
+{Misfit as a function of instrument orientation for station
+B018.}
+\label{fig:Misfit}
+\end{figure}
+
 The differential and engineering shear strains recorded at station
 B018 have notably less noise than most BSMs. Nonetheless, the
 engineering shear strains at B018 are not consistent with the GNSS
@@ -268,38 +313,6 @@ during the summer 2010 SSE, which is now consistent with the GNSS data
 consistent with the GNSS derived strains, regardless of whether the
 recorded $\theta_0$ or optimal $\theta_0$ is used.
 
-\begin{figure}
-\includegraphics{ch6/figures/gnss.pdf}
-\caption{GNSS derived differential and engineering shear strains for
-station B018. The shaded blue regions indicate the one standard
-deviation confidence interval. The shaded gray regions indicate times
-of strain drops, which are the result of SSEs.}
-\label{fig:Gnss}
-\end{figure}
-
-\begin{figure}
-\includegraphics{ch6/figures/gauge.pdf}
-\caption{Gauge readings at station B018. The gray shaded regions
-indicate times of strain drops from Figure \ref{fig:Gnss}.}
-\label{fig:Gauge}
-\end{figure}
-
-\begin{figure}
-\includegraphics{ch6/figures/fit.pdf}
-\caption{GNSS derived strain drops at station B018 during the 11
-events identified in Figure \ref{fig:Gnss} (blue dots), BSM strain
-drops using the recorded orientation for B018 (orange dots), and BSM
-strain drops using the optimal orientation for B018 (green dots).}
-\label{fig:Fit}
-\end{figure}
-
-\begin{figure}
-\includegraphics{ch6/figures/misfit.pdf}
-\caption{Misfit as a function of instrument orientation for station
-B018.}
-\label{fig:Misfit}
-\end{figure}
-
 \section{Conclusion}
 We have compared BSM data to GNSS derived strains for eight of the
 past SSEs in the Puget Sound region. The summer 2010 SSE produced the
@@ -319,43 +332,57 @@ when attempting to use BSM data to describe regional strains.
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE0.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the spring 2009 SSE.}   
+\caption
+[BSM and GNSS derived strains for the spring 2009 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the spring 2009 SSE.}   
 \label{fig:SSE0}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE2.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the summer 2011 SSE.}   
+\caption
+[BSM and GNSS derived strains for the summer 2011 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the summer 2011 SSE.}   
 \label{fig:SSE2}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE3.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the summer 2012 SSE.}   
+\caption
+[BSM and GNSS derived strains for the summer 2012 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the summer 2012 SSE.}   
 \label{fig:SSE3}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE4.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the fall 2013 SSE.}   
+\caption
+[BSM and GNSS derived strains for the fall 2013 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the fall 2013 SSE.}   
 \label{fig:SSE4}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE5.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the fall 2014 SSE.}   
+\caption
+[BSM and GNSS derived strains for the fall 2014 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the fall 2014 SSE.}   
 \label{fig:SSE5}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE6.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the winter 2015-2016 SSE.}   
+\caption
+[BSM and GNSS derived strains for the winter 2015-2016 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the winter 2015-2016 SSE.}   
 \label{fig:SSE6}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE7.pdf}
-\caption{Same as Figure \ref{fig:SSE1}, but for the winter 2017 SSE.}   
+\caption
+[BSM and GNSS derived strains for the winter 2017 SSE]
+{Same as Figure \ref{fig:SSE1}, but for the winter 2017 SSE.}   
 \label{fig:SSE7}
 \end{figure}
 

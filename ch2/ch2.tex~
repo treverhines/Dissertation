@@ -7,7 +7,7 @@ This chapter has been published as: Hines, T. T., and Hetland, E. A.
 (2015). Rapid and simultaneous estimation of fault slip and
 heterogeneous lithospheric viscosity from post-seismic deformation.
 Geophysical Journal International, 204, 569–582,
-doi:10.1093/gji/ggv477}}
+doi:10.1093/gji/ggv477.}}
 
 \section{Summary}
 Postseismic deformation is commonly attributed to viscoelastic
@@ -231,15 +231,17 @@ viscoelastic substrate.
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig1.pdf}
-\caption{Surface displacements predicted by eq.
-(\ref{ch2:eq:TwoLayerViscous}) truncated after ten terms (green) and the
-approximation given by eq. (\ref{ch2:eq:TwoLayerViscousApprox}) (dotted
-black).  Times are normalized by the lowest relaxation time in the
-lithosphere, $\tau_2$, and distances are normalized by the fault
-locking depth, $D$.  Displacements are shown as a function of distance
-from the fault at times $t/\tau_2 = 0.0,0.5,1.0$ and $1.5$. The inset
-figure shows displacement time series at locations $x/D = 1, 2, 4$ and
-$8$.}
+\caption
+[Comparison of an analytical and approximate solution for postseismic
+deformation in a two-dimensional model]
+{Surface displacements predicted by eq. (\ref{ch2:eq:TwoLayerViscous})
+truncated after ten terms (green) and the approximation given by eq.
+(\ref{ch2:eq:TwoLayerViscousApprox}) (dotted black).  Times are
+normalized by the lowest relaxation time in the lithosphere, $\tau_2$,
+and distances are normalized by the fault locking depth, $D$.
+Displacements are shown as a function of distance from the fault at
+times $t/\tau_2 = 0.0,0.5,1.0$ and $1.5$. The inset figure shows
+displacement time series at locations $x/D = 1, 2, 4$ and $8$.}
 \label{ch2:fig:1}
 \end{figure} 
 
@@ -509,7 +511,9 @@ lithosphere geometry.
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig2.pdf}
-\caption{L-curves used to select the penalty parameters. Panel (a)
+\caption
+[L-curves used to select the penalty parameters]
+{L-curves used to select the penalty parameters. Panel (a)
 shows the trade-off between slip smoothness and data misfit while
 varying $\lambda_s$ and keeping $\lambda_v$ fixed at zero.  Panel (b)
 shows the trade off between smoothness of inferred viscosity and
@@ -592,7 +596,9 @@ creep.
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig3.pdf}
-\caption{Slip distribution imposed in both synthetic models (left),
+\caption
+[Synthetic and recovered fault slip]
+{Slip distribution imposed in both synthetic models (left),
 slip recovered for the synthetic model with Maxwell viscoelasticity
 (middle), and uncertainty in the recovered slip magnitude (right).
 Colors indicate magnitude of slip and arrows indicate direction of
@@ -606,7 +612,9 @@ which were derived from 100 iterations of bootstrapping.}
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig4.pdf}
-\caption{Synthetic and recovered lithospheric viscosities (left) and
+\caption
+[Synthetic and recovered lithospheric viscosity]
+{Synthetic and recovered lithospheric viscosities (left) and
 associated fluidities (right).  Semi-transparent lines are recovered
 models found through bootstrapping and indicate the degree of
 uncertainty on the inferred viscosity structure.}
@@ -615,16 +623,19 @@ uncertainty on the inferred viscosity structure.}
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig5.pdf}
-\caption{Synthetic surface displacements (black) and best fitting
-surface displacements using eq.
-(\ref{ch2:eq:Postseismic_Approximation2}) (green).  Vertical
-displacements are used in the inversion but are not shown here. Panel
-(a) shows coseismic displacements and the remaining panels show the
-cumulative displacements over the indicated time intervals. Ellipses
-indicate 1 standard deviation uncertainty in the synthetic data. Red
-dot indicates the position of the time series shown in Figure
-\ref{ch2:fig:6} and Figure \ref{ch2:fig:9}. The surface projection of
-the discretized synthetic fault is depicted in red.}
+\caption
+[Map view of synthetic and predicted postseismic surface
+displacements]
+{Synthetic surface displacements (black) and best fitting surface
+displacements using eq. (\ref{ch2:eq:Postseismic_Approximation2})
+(green).  Vertical displacements are used in the inversion but are not
+shown here. Panel (a) shows coseismic displacements and the remaining
+panels show the cumulative displacements over the indicated time
+intervals. Ellipses indicate 1 standard deviation uncertainty in the
+synthetic data. Red dot indicates the position of the time series
+shown in Figure \ref{ch2:fig:6} and Figure \ref{ch2:fig:9}. The
+surface projection of the discretized synthetic fault is depicted in
+red.}
 \label{ch2:fig:5}
 \end{figure}
 
@@ -719,7 +730,10 @@ between afterslip and fluidity in layers below 30 km depth.
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig6.pdf}
-\caption{Displacement time series for the position shown in Figure
+\caption
+[time series of synthetic and predicted postseismic surface
+displacements]
+{Displacement time series for the position shown in Figure
 \ref{ch2:fig:5} (black), best fitting surface displacements using the
 approximation from eq. (\ref{ch2:eq:Postseismic_Approximation2})
 (green) and surface displacements computed with PyLith using the
@@ -730,7 +744,9 @@ displacements at $t=0$ are not shown.}
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig7.pdf}
-\caption{Approximation error at $t=10$ years and $t=20$ years. Circles
+\caption
+[Error in the postseismic approximation]
+{Approximation error at $t=10$ years and $t=20$ years. Circles
 with 1 mm radius are centered at each station to compare the accuracy
 of $\vec{u}(\vec{x},t)$ to the noise in the synthetic data.}
 \label{ch2:fig:7}
@@ -878,7 +894,10 @@ deformation.
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig8.pdf}
-\caption{Synthetic and recovered lithospheric viscosities (left) and
+\caption
+[Synthetic and recovered lithospheric viscosity with a Burgers
+rheology]
+{Synthetic and recovered lithospheric viscosities (left) and
 fluidities (right) for the synthetic model with a Burgers rheology.
 Dotted and dashed lines show the Maxwell and Kelvin viscosity in the
 synthetic model, respectively.  The solid black line indicates the
@@ -892,7 +911,9 @@ viscosities inferred using the 0.5 year time series.}
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig9.pdf}
-\caption{Afterslip moment over time for the synthetic model (black)
+\caption
+[Synthetic and recoved slip moment]
+{Afterslip moment over time for the synthetic model (black)
 and the inferred afterslip moment when inverting 0.5, 2.0, and 5.0
 years of displacements (red, green, and blue).}
 \label{ch2:fig:9}
@@ -900,7 +921,11 @@ years of displacements (red, green, and blue).}
 
 \begin{figure}
 \includegraphics{ch2/figures/Fig10.pdf}
-\caption{Synthetic and predicted displacement time series with
+\caption
+[Time series of synthetic postseismic displacments and predicted
+postseismic displacements when using varying durations of the
+synthetic data]
+{Synthetic and predicted displacement time series with
 length 0.5, 2.0, and 5.0 years.  The time series shown is for the
 observation point indicated in Fig 5.}
 \label{ch2:fig:10}

@@ -1,7 +1,7 @@
 \chapter
 [Unbiased characterization of noise in geodetic data]
 {Unbiased characterization of noise in geodetic data\footnote[2]{
-This chapter is under review at Journal of Geodesy}} 
+This chapter is under review at Journal of Geodesy.}} 
 
 
 \section{Abstract}
@@ -257,7 +257,10 @@ distribution of estimated $\sigma_{rw}$ is shown in Figure
 
 \begin{figure}
 \includegraphics{ch4/figures/fig1.pdf}
-\caption{Random walk amplitudes, $\sigma_{rw}$, estimated by the MLE
+\caption
+[Random walk amplitudes estimated by the MLE and REML methods from
+synthetic data]
+{Random walk amplitudes, $\sigma_{rw}$, estimated by the MLE
 and REML methods from synthetic data. The length of the synthetic time
 series used to estimate $\sigma_{rw}$ is varied from 0.1 yr to 2.5 yr.
 The black line indicates the true random walk amplitude

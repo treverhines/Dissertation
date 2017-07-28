@@ -460,7 +460,10 @@ estimate transient strain rates are shown in Figure
 
 \begin{figure}
 \includegraphics{ch5/figures/context_map/context-map.pdf}
-\caption{Positions of continuous GNSS stations used to estimate
+\caption
+[Positions of continuous GNSS stations used to estimate transient
+strain rates]
+{Positions of continuous GNSS stations used to estimate
 transient strain rates. The colored regions indicate the distribution
 of seismic tremor as determined by \citet{Wech2010}. The red dots show
 the positions of GNSS stations mentioned in this paper. The blue dot
@@ -563,7 +566,9 @@ presumably low signal-to-noise ratio.
 
 \begin{figure}
 \includegraphics{ch5/figures/noise/noise-params.pdf}
-\caption{Distribution of estimated FOGM hyperparameters (eq.
+\caption
+[Distribution of estimated FOGM noise hyperparameters]
+{Distribution of estimated FOGM hyperparameters (eq.
 \ref{ch5:eq:FOGM}). Hyperparameters are estimated with the REML method
 for 38 stations in Cascadia that are east of $121^\circ$W. ``IQR'' is
 the interquartile range.}
@@ -572,7 +577,9 @@ the interquartile range.}
 
 \begin{figure}
 \includegraphics{ch5/figures/noise/noise-samples.pdf}
-\caption{Two FOGM noise samples for each component. The FOGM
+\caption
+[Samples of FOGM noise]
+{Two FOGM noise samples for each component. The FOGM
 hyperparameters have been set to the median values from Figure
 \ref{ch5:fig:NoiseParams}.}
 \label{ch5:fig:NoiseSamples}
@@ -689,7 +696,9 @@ for $\ell$ and $\phi$, which results in large interquartile ranges.
 
 \begin{figure}
 \includegraphics{ch5/figures/outliers/outliers.pdf}
-\caption{Detrended easting component of displacements at station SC03,
+\caption
+[Demonstration of outlier detection algorithm]
+{Detrended easting component of displacements at station SC03,
 which is located on Mount Olympus in Washington. The orange markers
 indicate outliers that were automatically detected using the algorithm
 from Section \ref{ch5:sec:Outlier}. The error bars show one standard
@@ -699,7 +708,9 @@ winter, suggesting that they were caused by snow or ice.}
 \end{figure}
 
 \begin{table}\label{ch5:tab:Parameters}
-\caption{Optimal hyperparameters for the prior on transient
+\caption
+[Optimal prior hyperparameters]
+{Optimal hyperparameters for the prior on transient
 displacements determined with the REML method. The temporal covariance
 function is indicated by the ``$T$'' column. The SE, IBM, and Wendland
 covariance functions are defined in eqs. (\ref{ch5:eq:TimeSE}),
@@ -788,7 +799,9 @@ SE covariance function because of its computational advantages.
 
 \begin{figure}
 \includegraphics{ch5/figures/signal_fit/signal-fit.pdf}
-\caption{Observed easting component of displacements at station P436
+\caption
+[GNSS displacments and posterior displacements]
+{Observed easting component of displacements at station P436
 and predicted displacements when using different covariance functions
 for $T$. The one standard deviation uncertainties are shown for the
 observations and the predicted displacements when using the SE
@@ -827,7 +840,10 @@ to failure.
 
 \begin{figure}
 \includegraphics{ch5/figures/strain_map/strain-map.pdf}
-\caption{Estimated transient strain rates during the Winter 2015-2016
+\caption
+[Map view of estimated transient strain rates during the Winter
+2015-2016 SSE]
+{Estimated transient strain rates during the Winter 2015-2016
 SSE. Strain glyphs show the normal strain rate along each azimuth,
 where orange indicates compression and blue indicates extension. The
 shaded regions indicate one standard deviation uncertainties in the
@@ -852,7 +868,9 @@ with SSEs.
 
 \begin{figure}
 \includegraphics{ch5/figures/strain_ts/strain-ts.pdf}
-\caption{Three components of the transient horizontal strain rate
+\caption
+[Time series of estimated transient strain rates]
+{Three components of the transient horizontal strain rate
 tensor estimated at the position shown in Figure
 \ref{ch5:fig:Context}. The shaded regions indicate one standard
 deviation uncertainty.}
@@ -861,7 +879,9 @@ deviation uncertainty.}
 
 \begin{figure}
 \includegraphics{ch5/figures/strain_ts/mag-ts.pdf}
-\caption{(top) Signal-to-noise ratio (eq. \ref{ch5:eq:SNR}) at the
+\caption
+[Time series of signal-to-noise ratio]
+{(top) Signal-to-noise ratio (eq. \ref{ch5:eq:SNR}) at the
 position shown in Figure \ref{ch5:fig:Context}. (bottom) Frequency of
 tremors in the region shown in Figure \ref{ch5:fig:Context}.}
 \label{ch5:fig:StrainMag}

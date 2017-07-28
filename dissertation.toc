@@ -1,9 +1,9 @@
 \contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
 \contentsline {chapter}{PREFACE}{iv}
-\contentsline {chapter}{LIST OF FIGURES}{xiv}
-\contentsline {chapter}{LIST OF TABLES}{xv}
-\contentsline {chapter}{LIST OF APPENDICES}{xvi}
-\contentsline {chapter}{ABSTRACT}{xvii}
+\contentsline {chapter}{LIST OF FIGURES}{x}
+\contentsline {chapter}{LIST OF TABLES}{xi}
+\contentsline {chapter}{LIST OF APPENDICES}{xii}
+\contentsline {chapter}{ABSTRACT}{xiii}
 \contentsline {chapter}{\numberline {1}Bias in estimates of lithosphere viscosity from interseismic deformation}{1}
 \contentsline {section}{\numberline {1.1}Abstract}{1}
 \contentsline {section}{\numberline {1.2}Introduction}{1}
