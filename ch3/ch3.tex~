@@ -1245,13 +1245,14 @@ fluidity largely obscures the jump in the synthetic model.}
 \caption
 [Elastic and viscous components of predicted near-field postseismic
 displacments]
-{Elastic (black) and viscoelastic (green) components of the
-near-field predicted displacements for the preferred Zener model from
-Section \ref{ch3:sec:FullInversion}.  The elastic component is the deformation resulting from
-fault slip and the viscoelastic component is the deformation resulting
-from viscoelastic relaxation of stresses induced by the fault slip.
-The elastic and viscoelastic components are calculated from the first
-and second terms in eq. (11), respectively.  The vertical elastic
+{Elastic (black) and viscoelastic (green) components of the near-field
+predicted displacements for the preferred Zener model from Section
+\ref{ch3:sec:FullInversion}.  The elastic component is the deformation
+resulting from fault slip and the viscoelastic component is the
+deformation resulting from viscoelastic relaxation of stresses induced
+by the fault slip. The elastic and viscoelastic components are
+calculated from the first and second terms in eq.
+(\label{GeneralForward}), respectively.  The vertical elastic
 component is shown as an interpolated field and the vertical
 viscoelastic component is shown within the green circles.}
 \label{ch3:fig:S3}
