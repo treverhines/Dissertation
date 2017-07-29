@@ -99,16 +99,17 @@ elastic stresses, each parcel will continue to creep at a rate that is
 approximately proportional to its fluidity.  In this early postseismic
 period, the surface deformation from creep in each parcel will have an
 amplitude that is also proportional to the fluidity in that parcel and
-independent of the fluidity elsewhere.  As we will show, the early
-surface expression of creep in the entire lithosphere is therefore a
-sum of the surface deformation from each parcel and is linear with
-respect to lithospheric fluidity.  We demonstrate this property of
-early postseismic surface deformation in this section using simple
-infinite length, strike-slip earthquake models, where the lithosphere
-is approximated as a layered half-space. In Section \ref{ch2:sec:SynthTest} we
-consider two finite fault models with an arbitrarily discretized
-lithospheric viscosity structure, the first with only Maxwell
-viscoelasticity and the second with Burgers viscoelasticity.
+independent of the fluidity elsewhere. The early surface expression of
+creep throughout the lithosphere is therefore a sum of the surface
+deformation from each parcel and is linear with respect to
+lithospheric fluidity.  We demonstrate this property of early
+postseismic surface deformation in this section using simple infinite
+length, strike-slip earthquake models, where the lithosphere is
+approximated as a layered half-space. In Section
+\ref{ch2:sec:SynthTest} we consider two finite fault models with an
+arbitrarily discretized lithospheric viscosity structure, the first
+with only Maxwell viscoelasticity and the second with Burgers
+viscoelasticity.
 
 \subsection{Two-dimensional earthquake models}\label{ch2:sec:2DModel}
 The easiest way to demonstrate how postseismic deformation can be
@@ -351,8 +352,7 @@ thought of as a Green's function for the initial viscoelastic
 response, and thus we refer to $G_j(\vec{x})$ as the initial
 viscoelastic Green's functions.  We verify eq.
 (\ref{ch2:eq:PostseismicInitialVelocity}) numerically in Section
-\ref{ch2:sec:Validation} and save a theoretical justification for a later
-paper.
+\ref{ch2:sec:Validation}.
 
 Using eq. (\ref{ch2:eq:PostseismicInitialVelocity}), we can approximate
 early surface deformation in a form that is consistent with
@@ -488,8 +488,8 @@ parameters are found by making an initial guess for the solution and
 then iteratively solving
 \begin{equation}\label{ch2:eq:Gauss-Newton}
 \mathbf{J}(\mathbf{m}^{k})\mathbf{m}^{k+1} = 
--\mathbf{f}(\mathbf{m}^k) + 
-\mathbf{J}(\mathbf{m}^{k})\mathbf{m}^{k}
+\mathbf{J}(\mathbf{m}^{k})\mathbf{m}^{k} -
+\mathbf{f}(\mathbf{m}^k)
 \end{equation}
 for $\mathbf{m}^{k+1}$, where $\mathbf{J}(\mathbf{m}^k)$ is the
 Jacobian of $\mathbf{f(m)}$ with respect to $\mathbf{m}$ evaluated at

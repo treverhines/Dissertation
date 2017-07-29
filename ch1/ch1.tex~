@@ -501,7 +501,7 @@ $\tau$ in the lower crust or uppermost mantle layers ($\tau = \tau_M/T
 = (\eta T)/\mu$, where $T$ is the earthquake repeat time, $\tau_M$ is
 the Maxwell relaxation time, $\eta$ is the Newtonian viscosity, and
 $\mu$ is the elastic shear modulus).  Velocities in models with
-constant $\tau$ in the upper mantle ($\tau_{UM}$), and variable $\tau$ in
+constant $\tau$ in the upper mantle ($\tau_{UM}$) and variable $\tau$ in
 the lower crust ($\tau_{LC}$) are shown in (A).  Models with constant
 $\tau_{LC}$ and variable $\tau_{UM}$ are shown in (B).  For
 sufficiently high $\tau_{UM}$ or $\tau_{LC}$ the surface velocities
