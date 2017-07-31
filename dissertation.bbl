@@ -1,4 +1,4 @@
-\begin{thebibliography}{167}
+\begin{thebibliography}{170}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -388,15 +388,15 @@ Hines, T.~T., and E.~A. Hetland (2013), {Bias in estimates of lithosphere
   viscosity from interseismic deformation}, \textit{Geophysical Research
   Letters}, \textit{40}(16), 4260--4265, \doi{10.1002/grl.50839}.
 
-\bibitem[{\textit{Hines and Hetland}(2015)}]{Hines2016}
-Hines, T.~T., and E.~A. Hetland (2015), {Rapid and simultaneous estimation of
-  fault slip and heterogeneous lithospheric viscosity from post-seismic
-  deformation}, \textit{Geophysical Journal International}, \textit{204}(1),
-  569--582, \doi{10.1093/gji/ggv477}.
+\bibitem[{\textit{Hines and Hetland}(2016{\natexlab{a}})}]{Hines2016}
+Hines, T.~T., and E.~A. Hetland (2016{\natexlab{a}}), {Rapid and simultaneous
+  estimation of fault slip and heterogeneous lithospheric viscosity from
+  post-seismic deformation}, \textit{Geophysical Journal International},
+  \textit{204}(1), 569--582, \doi{10.1093/gji/ggv477}.
 
-\bibitem[{\textit{Hines and Hetland}(2016)}]{Hines2016a}
-Hines, T.~T., and E.~A. Hetland (2016), {Rheologic constraints on the upper
-  mantle from five years of postseismic deformation following the El
+\bibitem[{\textit{Hines and Hetland}(2016{\natexlab{b}})}]{Hines2016a}
+Hines, T.~T., and E.~A. Hetland (2016{\natexlab{b}}), {Rheologic constraints on
+  the upper mantle from five years of postseismic deformation following the El
   Mayor-Cucapah earthquake}, \textit{Journal of Geophysical Research: Solid
   Earth}, \textit{121}, \doi{10.1002/2016JB013114}.
 
@@ -785,6 +785,12 @@ Rasmussen, C.~E., and C.~K.~I. Williams (2006), \textit{{Gaussian processes for
 Rauch, H.~E., F.~Tung, and C.~T. Striebel (1965), {Maximum likelihood estimates
   of linear dynamic systems}, \textit{AIAA Journal}, \textit{3}(8), 1445--1450.
 
+\bibitem[{\textit{Reid}(1910)}]{Reid1910}
+Reid, H. (1910), {The Mechanics of the Earthquake, in The California Earthquake
+  of April 18, 1906, Report of the State Earthquake Investigation Commission},
+  \textit{Tech. rep.}, Carnegie Institution of Washington, Washington, D. C.,
+  \doi{10.1038/084165a0}.
+
 \bibitem[{\textit{Riva and Govers}(2009)}]{Riva2009}
 Riva, R. E.~M., and R.~Govers (2009), {Relating viscosities from postseismic
   relaxation to a realistic viscosity structure for the lithosphere},
@@ -836,10 +842,15 @@ Savage, J.~C. (1990), {Equivalent strike-slip earthquake cycles in half-space
   and lithosphere-asthenosphere earth models}, \textit{Journal of Geophysical
   Research}, \textit{95}(B4), 4873--4879, \doi{10.1029/JB095iB04p04873}.
 
-\bibitem[{\textit{Savage and Burford}(1973)}]{Savage1973a}
-Savage, J.~C., and R.~O. Burford (1973), {Geodetic determination of relative
-  plate motion in central California}, \textit{Journal of Geophysical
-  Research}, \textit{78}(5), 832--845.
+\bibitem[{\textit{Savage and Burford}(1973{\natexlab{a}})}]{Savage1973}
+Savage, J.~C., and R.~O. Burford (1973{\natexlab{a}}), {Geodetic determination
+  of relative plate motion in central California}, \textit{Journal of
+  Geophysical Research}, \textit{78}(5), 832, \doi{10.1029/JB078i005p00832}.
+
+\bibitem[{\textit{Savage and Burford}(1973{\natexlab{b}})}]{Savage1973a}
+Savage, J.~C., and R.~O. Burford (1973{\natexlab{b}}), {Geodetic determination
+  of relative plate motion in central California}, \textit{Journal of
+  Geophysical Research}, \textit{78}(5), 832--845.
 
 \bibitem[{\textit{Savage and Prescott}(1978)}]{Savage1978}
 Savage, J.~C., and W.~H. Prescott (1978), {Asthenosphere readjustment and the
@@ -910,6 +921,11 @@ Tape, C., P.~Mus{\'{e}}, M.~Simons, D.~Dong, and F.~Webb (2009), {Multiscale
   estimation of GPS velocity fields}, \textit{Geophysical Journal
   International}, \textit{179}(2), 945--971,
   \doi{10.1111/j.1365-246X.2009.04337.x}.
+
+\bibitem[{\textit{Thatcher}(1983)}]{Thatcher1983}
+Thatcher, W. (1983), {Nonlinear Strain Buildup and the Earthquake Cycle on the
+  San Andreas Fault}, \textit{Journal of Geophysical Research}, \textit{88}(3),
+  5893--5902.
 
 \bibitem[{\textit{Thatcher and Pollitz}(2008)}]{Thatcher2008}
 Thatcher, W., and F.~F. Pollitz (2008), {Temporal evolution of continental

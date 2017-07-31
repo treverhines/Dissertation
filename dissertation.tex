@@ -47,8 +47,8 @@
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\doublespacing
-%\onehalfspacing
-\singlespacing
+\onehalfspacing
+%\singlespacing
 
 %% INCLUDE THE WORD "CHAPTER" IN TOC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -191,19 +191,11 @@ ORCID iD: 9999-9999-9999-9999
 
 %% ACKNOWLEDGEMENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapternonum{ACKNOWLEDGEMENTS}
-
-Blerg blargle blorg blerp 
-
-\newpage
+\include{acknowledgements}
 
 %% PREFACE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapternonum{PREFACE}
-
-Blerg blargle blorg blerp 
-
-\newpage
+\include{preface}
 
 %% TABLE OF CONTENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -218,11 +210,13 @@ Blerg blargle blorg blerp
 
 %% ABSTRACT
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\chapternonum{ABSTRACT}
+\include{abstract}
 
 %% MAIN MATTER
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \mainmatter
+
+\include{introduction}
 
 \include{ch1/ch1}
 

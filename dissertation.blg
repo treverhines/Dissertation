@@ -1,6 +1,10 @@
 This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dissertation.aux
+A level-1 auxiliary file: acknowledgements.aux
+A level-1 auxiliary file: preface.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: ch1/ch1.aux
 A level-1 auxiliary file: ch2/ch2.aux
 A level-1 auxiliary file: ch3/ch3.aux
@@ -9,58 +13,58 @@ A level-1 auxiliary file: ch5/ch5.aux
 A level-1 auxiliary file: ch6/ch6.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 740 of file refs.bib
- : @article{Burgmann2002
- :                      ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1378 of file refs.bib
+Repeated entry---line 5434 of file refs.bib
  : @article{Feigl2006
  :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5599 of file refs.bib
+ : @article{Burgmann2002
+ :                      ,
 I'm skipping whatever remains of this entry
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 167 entries,
+You've used 170 entries,
             3098 wiz_defined-function locations,
-            2197 strings with 43346 characters,
-and the built_in function-call counts, 174782 in all, are:
-= -- 20311
-> -- 5847
-< -- 95
-+ -- 3299
-- -- 1398
-* -- 11035
-:= -- 15251
-add.period$ -- 167
-call.type$ -- 167
-change.case$ -- 956
-chr.to.int$ -- 162
-cite$ -- 505
-duplicate$ -- 18582
-empty$ -- 9307
-format.name$ -- 1941
-if$ -- 35201
-int.to.chr$ -- 6
+            2219 strings with 43815 characters,
+and the built_in function-call counts, 177008 in all, are:
+= -- 20556
+> -- 5894
+< -- 98
++ -- 3330
+- -- 1410
+* -- 11180
+:= -- 15460
+add.period$ -- 170
+call.type$ -- 170
+change.case$ -- 970
+chr.to.int$ -- 163
+cite$ -- 514
+duplicate$ -- 18832
+empty$ -- 9449
+format.name$ -- 1960
+if$ -- 35642
+int.to.chr$ -- 8
 int.to.str$ -- 1
-missing$ -- 1786
-newline$ -- 508
-num.names$ -- 668
-pop$ -- 7344
+missing$ -- 1813
+newline$ -- 517
+num.names$ -- 680
+pop$ -- 7446
 preamble$ -- 1
-purify$ -- 795
+purify$ -- 805
 quote$ -- 0
-skip$ -- 11449
+skip$ -- 11562
 stack$ -- 0
-substring$ -- 7410
-swap$ -- 16201
+substring$ -- 7498
+swap$ -- 16413
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1476
+type$ -- 1503
 warning$ -- 4
-while$ -- 938
+while$ -- 952
 width$ -- 0
-write$ -- 1965
+write$ -- 2001
 (There were 2 error messages)
