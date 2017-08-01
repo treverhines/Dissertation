@@ -46,9 +46,9 @@
 
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\doublespacing
+\doublespacing
 %\onehalfspacing
-\singlespacing
+%\singlespacing
 
 %% INCLUDE THE WORD "CHAPTER" IN TOC
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
