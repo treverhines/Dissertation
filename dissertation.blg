@@ -13,11 +13,11 @@ A level-1 auxiliary file: ch5/ch5.aux
 A level-1 auxiliary file: ch6/ch6.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 5434 of file refs.bib
+Repeated entry---line 5387 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5599 of file refs.bib
+Repeated entry---line 5754 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
@@ -26,45 +26,45 @@ Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 170 entries,
+You've used 171 entries,
             3098 wiz_defined-function locations,
-            2219 strings with 43815 characters,
-and the built_in function-call counts, 177008 in all, are:
-= -- 20556
-> -- 5894
-< -- 98
-+ -- 3330
+            2222 strings with 43869 characters,
+and the built_in function-call counts, 177948 in all, are:
+= -- 20686
+> -- 5892
+< -- 100
++ -- 3333
 - -- 1410
-* -- 11180
-:= -- 15460
-add.period$ -- 170
-call.type$ -- 170
-change.case$ -- 970
-chr.to.int$ -- 163
-cite$ -- 514
-duplicate$ -- 18832
-empty$ -- 9449
-format.name$ -- 1960
-if$ -- 35642
-int.to.chr$ -- 8
+* -- 11213
+:= -- 15536
+add.period$ -- 171
+call.type$ -- 171
+change.case$ -- 973
+chr.to.int$ -- 165
+cite$ -- 517
+duplicate$ -- 18949
+empty$ -- 9504
+format.name$ -- 1961
+if$ -- 35840
+int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 1813
-newline$ -- 517
-num.names$ -- 680
-pop$ -- 7446
+missing$ -- 1820
+newline$ -- 520
+num.names$ -- 684
+pop$ -- 7481
 preamble$ -- 1
-purify$ -- 805
+purify$ -- 807
 quote$ -- 0
-skip$ -- 11562
+skip$ -- 11644
 stack$ -- 0
-substring$ -- 7498
-swap$ -- 16413
-text.length$ -- 6
+substring$ -- 7557
+swap$ -- 16510
+text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1503
+type$ -- 1512
 warning$ -- 4
-while$ -- 952
+while$ -- 959
 width$ -- 0
-write$ -- 2001
+write$ -- 2013
 (There were 2 error messages)

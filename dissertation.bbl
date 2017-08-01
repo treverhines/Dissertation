@@ -1,4 +1,4 @@
-\begin{thebibliography}{170}
+\begin{thebibliography}{171}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -97,14 +97,13 @@ B{\"{u}}rgmann, R., and G.~Dresen (2008), {Rheology of the Lower Crust and
   \textit{Annual Review of Earth and Planetary Sciences}, \textit{36},
   531--567, \doi{10.1146/annurev.earth.36.031207.124326}.
 
-\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ayhan,
-  Fielding, Wright, McClusky, Aktug, Demir, Lenk, and
-  T{\"{u}}rkezer}}]{Burgmann2002}
-B{\"{u}}rgmann, R., M.~E. Ayhan, E.~J. Fielding, T.~J. Wright, S.~McClusky,
-  B.~Aktug, C.~Demir, O.~Lenk, and A.~T{\"{u}}rkezer (2002), {Deformation
-  during the 12 November 1999 D{\"{u}}zce, Turkey, earthquake, from GPS and
-  InSAR data}, \textit{Bulletin of the Seismological Society of America},
-  \textit{92}(February), 161--171, \doi{10.1785/0120000834}.
+\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ergintav,
+  Segall, Hearn, McClusky, Reilinger, Woith, and Zschau}}]{Burgmann2002}
+B{\"{u}}rgmann, R., S.~Ergintav, P.~Segall, E.~H. Hearn, S.~McClusky, R.~E.
+  Reilinger, H.~Woith, and J.~Zschau (2002), {Time-dependent distributed
+  afterslip on and deep below the İzmit earthquake rupture}, \textit{Bulletin
+  of the Seismological Society of America}, \textit{92}(February), 126--137,
+  \doi{10.1785/0120000833}.
 
 \bibitem[{\textit{{\c{C}}akir et~al.}(2012)\textit{{\c{C}}akir, Ergintav,
   {\"{O}}zener, Dogan, Akoglu, Meghraoui, and Reilinger}}]{Cakir2012}
@@ -386,17 +385,17 @@ Hill, E.~M., J.~L. Davis, P.~El{\'{o}}segui, B.~P. Wernicke, E.~Malikowski, and
 \bibitem[{\textit{Hines and Hetland}(2013)}]{Hines2013}
 Hines, T.~T., and E.~A. Hetland (2013), {Bias in estimates of lithosphere
   viscosity from interseismic deformation}, \textit{Geophysical Research
-  Letters}, \textit{40}(16), 4260--4265, \doi{10.1002/grl.50839}.
+  Letters}, \textit{40}, 4260--4265, \doi{10.1002/grl.50839}.
 
-\bibitem[{\textit{Hines and Hetland}(2016{\natexlab{a}})}]{Hines2016}
-Hines, T.~T., and E.~A. Hetland (2016{\natexlab{a}}), {Rapid and simultaneous
-  estimation of fault slip and heterogeneous lithospheric viscosity from
-  post-seismic deformation}, \textit{Geophysical Journal International},
-  \textit{204}(1), 569--582, \doi{10.1093/gji/ggv477}.
+\bibitem[{\textit{Hines and Hetland}(2015)}]{Hines2016}
+Hines, T.~T., and E.~A. Hetland (2015), {Rapid and simultaneous estimation of
+  fault slip and heterogeneous lithospheric viscosity from post-seismic
+  deformation}, \textit{Geophysical Journal International}, \textit{204},
+  569--582, \doi{10.1093/gji/ggv477}.
 
-\bibitem[{\textit{Hines and Hetland}(2016{\natexlab{b}})}]{Hines2016a}
-Hines, T.~T., and E.~A. Hetland (2016{\natexlab{b}}), {Rheologic constraints on
-  the upper mantle from five years of postseismic deformation following the El
+\bibitem[{\textit{Hines and Hetland}(2016)}]{Hines2016a}
+Hines, T.~T., and E.~A. Hetland (2016), {Rheologic constraints on the upper
+  mantle from five years of postseismic deformation following the El
   Mayor-Cucapah earthquake}, \textit{Journal of Geophysical Research: Solid
   Earth}, \textit{121}, \doi{10.1002/2016JB013114}.
 
@@ -462,6 +461,11 @@ Johnson, K.~M., R.~B{\"{u}}rgmann, and J.~T. Freymueller (2009), {Coupled
 J{\'{o}}nsson, S., P.~Segall, R.~Pedersen, and G.~Bjornsson (2003),
   {Post-earthquake ground movements correlated to pore-pressure transients},
   \textit{Nature}, \textit{424}, 179--183, \doi{10.1038/nature01758.1.}
+
+\bibitem[{\textit{Kanamori}(1973)}]{Kanamori1973}
+Kanamori, H. (1973), {Mode of Strain Release Associated with Major Earthquakes
+  in Japan}, \textit{Annual Review of Earth and Planetary Sciences}, pp.
+  213--239, \doi{10.1146/annurev.ea.01.050173.001241}.
 
 \bibitem[{\textit{Kato et~al.}(1998)\textit{Kato, El-Fiky, Oware, and
   Miyazaki}}]{Kato1998}
@@ -922,10 +926,10 @@ Tape, C., P.~Mus{\'{e}}, M.~Simons, D.~Dong, and F.~Webb (2009), {Multiscale
   International}, \textit{179}(2), 945--971,
   \doi{10.1111/j.1365-246X.2009.04337.x}.
 
-\bibitem[{\textit{Thatcher}(1983)}]{Thatcher1983}
-Thatcher, W. (1983), {Nonlinear Strain Buildup and the Earthquake Cycle on the
-  San Andreas Fault}, \textit{Journal of Geophysical Research}, \textit{88}(3),
-  5893--5902.
+\bibitem[{\textit{Thatcher}(1975)}]{Thatcher1975}
+Thatcher, W. (1975), {Strain accumulation and release mechanism of the 1906 San
+  Francisco Earthquake}, \textit{Journal of Geophysical Research},
+  \textit{80}(35), 4862--4872.
 
 \bibitem[{\textit{Thatcher and Pollitz}(2008)}]{Thatcher2008}
 Thatcher, W., and F.~F. Pollitz (2008), {Temporal evolution of continental

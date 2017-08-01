@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.22)  31 JUL 2017 20:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  1 AUG 2017 13:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -500,14 +500,14 @@ Overfull \hbox (2.03766pt too wide) detected at line 76
 
  (./introduction.tex
 Chapter 1.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 2.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 2.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
  [1
 
 
@@ -527,10 +527,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ] [6]
 Package epstopdf Info: Source file: <ch1/figures/Figure1.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 14:55:08
 (epstopdf)                    size: 680106 bytes
 (epstopdf)             Output file: <ch1/figures/Figure1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 15:02:29
 (epstopdf)                    size: 54533 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure1-eps-co
 nverted-to.pdf ch1/figures/Figure1.eps>
@@ -546,10 +546,10 @@ Package pdftex.def Info: ch1/figures/Figure1-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 168.62958pt x 217.8132pt.
  [7] [8 <./ch1/figures/Figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ch1/figures/Figure2.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 14:55:08
 (epstopdf)                    size: 1017006 bytes
 (epstopdf)             Output file: <ch1/figures/Figure2-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 15:02:30
 (epstopdf)                    size: 106390 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure2-eps-co
 nverted-to.pdf ch1/figures/Figure2.eps>
@@ -564,10 +564,10 @@ Package pdftex.def Info: ch1/figures/Figure2-eps-converted-to.pdf used on input
  line 207.
 (pdftex.def)             Requested size: 463.73135pt x 165.61833pt.
 Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 14:55:08
 (epstopdf)                    size: 4146878 bytes
 (epstopdf)             Output file: <ch1/figures/Figure3-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 15:02:32
 (epstopdf)                    size: 555310 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure3-eps-co
 nverted-to.pdf ch1/figures/Figure3.eps>
@@ -584,10 +584,10 @@ Package pdftex.def Info: ch1/figures/Figure3-eps-converted-to.pdf used on input
  [9 <./ch1/figures/Figure2-eps-converted-to.pdf>] [10 <./ch1/figures/Figure3-ep
 s-converted-to.pdf>] [11]
 Package epstopdf Info: Source file: <ch1/figures/Figure4.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 14:55:08
 (epstopdf)                    size: 637314 bytes
 (epstopdf)             Output file: <ch1/figures/Figure4-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 15:02:32
 (epstopdf)                    size: 43015 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure4-eps-co
 nverted-to.pdf ch1/figures/Figure4.eps>
@@ -603,11 +603,11 @@ Package pdftex.def Info: ch1/figures/Figure4-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 458.71263pt x 220.82445pt.
  [12] [13 <./ch1/figures/Figure4-eps-converted-to.pdf>] [14]
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure1.eps>
-(epstopdf)                    date: 2017-07-27 20:13:31
+(epstopdf)                    date: 2017-07-26 23:49:34
 (epstopdf)                    size: 680402 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-27 20:13:31
+(epstopdf)                    date: 2017-07-26 23:58:44
 (epstopdf)                    size: 41037 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure1-eps
 -converted-to.pdf ch1/figures/AuxFigure1.eps>
@@ -622,11 +622,11 @@ Package pdftex.def Info: ch1/figures/AuxFigure1-eps-converted-to.pdf used on in
 put line 495.
 (pdftex.def)             Requested size: 466.7426pt x 257.9631pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure2.eps>
-(epstopdf)                    date: 2017-07-27 20:13:31
+(epstopdf)                    date: 2017-07-26 23:49:35
 (epstopdf)                    size: 48243074 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure2-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-27 20:13:31
+(epstopdf)                    date: 2017-07-26 23:59:01
 (epstopdf)                    size: 6032341 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure2-eps
 -converted-to.pdf ch1/figures/AuxFigure2.eps>
@@ -641,11 +641,11 @@ Package pdftex.def Info: ch1/figures/AuxFigure2-eps-converted-to.pdf used on in
 put line 515.
 (pdftex.def)             Requested size: 433.61894pt x 327.2217pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure3.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 23:49:35
 (epstopdf)                    size: 6632742 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-29 11:38:46
+(epstopdf)                    date: 2017-08-01 09:22:57
 (epstopdf)                    size: 764545 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure3-eps
 -converted-to.pdf ch1/figures/AuxFigure3.eps>
@@ -664,11 +664,11 @@ put line 530.
 LaTeX Warning: Float too large for page by 25.83351pt on input line 543.
 
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure4.eps>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 23:49:36
 (epstopdf)                    size: 3546446 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure4-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-27 20:13:32
+(epstopdf)                    date: 2017-07-26 23:59:05
 (epstopdf)                    size: 382674 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure4-eps
 -converted-to.pdf ch1/figures/AuxFigure4.eps>
@@ -1245,8 +1245,11 @@ igures/SSE2.pdf>] [121 <./ch6/figures/SSE3.pdf>] [122 <./ch6/figures/SSE4.pdf>]
 es/SSE7.pdf>] (./dissertation.bbl [126
 
 
-] [127] [128] [129]
-Underfull \hbox (badness 1394) in paragraph at lines 282--286
+]
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ° in font cmr12!
+ [127] [128] [129]
+Underfull \hbox (badness 1394) in paragraph at lines 281--285
 \OT1/cmr/m/n/12 dis-lo-ca-tion source in a mul-ti-lay-ered elas-tic/viscoelasti
 c half-space and an equiv-a-
  []
@@ -1255,41 +1258,53 @@ c half-space and an equiv-a-
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ° in font cmr12!
  [131] [132]
-Underfull \hbox (badness 3039) in paragraph at lines 462--465
+Underfull \hbox (badness 3039) in paragraph at lines 461--464
 []\OT1/cmr/m/n/12 J^^Sonsson, S., P. Segall, R. Ped-er-sen, and G. Bjorns-son (
 2003), Post-earthquake
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 466--469
+[]\OT1/cmr/m/n/12 Kanamori, H. (1973), Mode of Strain Re-lease As-so-ci-ated wi
+th Ma-jor Earth-quakes
+ []
+
+
+Underfull \hbox (badness 2529) in paragraph at lines 466--469
+\OT1/cmr/m/n/12 in Japan, \OT1/cmr/m/it/12 An-nual Re-view of Earth and Plan-e-
+tary Sci-ences\OT1/cmr/m/n/12 , pp. 213--239, doi:
  []
 
 [133]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [134] [135] [136] [137]
-Underfull \hbox (badness 1817) in paragraph at lines 846--849
+ [134] [135] [136] [137] [138]
+Underfull \hbox (badness 1817) in paragraph at lines 850--853
 \OT1/cmr/m/n/12 mo-tion in cen-tral Cal-i-for-nia, \OT1/cmr/m/it/12 Jour-nal of
  Geo-phys-i-cal Re-search\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 78\OT1/cmr/m/n/12 (
 5), 832, doi:
  []
 
-[138] [139]
+[139] [140]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ‰ in font cmr12!
 Missing character: There is no ¥ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [140]) [141] (./dissertation.aux (./acknowledgements.aux)
+ [141]) [142] (./dissertation.aux (./acknowledgements.aux)
 (./preface.aux) (./abstract.aux) (./introduction.aux) (./ch1/ch1.aux)
 (./ch2/ch2.aux) (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux) (./ch6/ch6.aux)
 ) ) 
 Here is how much of TeX's memory you used:
- 7310 strings out of 494910
- 110873 string characters out of 6179836
- 187416 words of memory out of 5000000
- 10332 multiletter control sequences out of 15000+600000
+ 7313 strings out of 494910
+ 110933 string characters out of 6179836
+ 187433 words of memory out of 5000000
+ 10335 multiletter control sequences out of 15000+600000
  15893 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 38i,17n,47p,3190b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,17n,47p,1889b,631s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -1311,10 +1326,10 @@ s/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1
 c/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
 onts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (154 pages, 25235701 bytes).
+Output written on dissertation.pdf (155 pages, 25236291 bytes).
 PDF statistics:
- 84380 PDF objects out of 95282 (max. 8388607)
- 55470 compressed objects within 555 object streams
+ 84383 PDF objects out of 95282 (max. 8388607)
+ 55472 compressed objects within 555 object streams
  0 named destinations out of 1000 (max. 500000)
  291 words of extra memory for PDF output out of 10000 (max. 10000000)
 
