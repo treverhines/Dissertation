@@ -46,8 +46,8 @@
 
 %% SET SPACING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\doublespacing
-%\onehalfspacing
+%\doublespacing
+\onehalfspacing
 %\singlespacing
 
 %% INCLUDE THE WORD "CHAPTER" IN TOC
@@ -195,7 +195,7 @@ ORCID iD: 9999-9999-9999-9999
 
 %% PREFACE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\include{preface}
+%\include{preface}
 
 %% TABLE OF CONTENTS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -229,6 +229,8 @@ ORCID iD: 9999-9999-9999-9999
 \include{ch5/ch5}
 
 \include{ch6/ch6}
+
+\include{conclusion}
 
 \bibliographystyle{agu04}
 \bibliography{refs}

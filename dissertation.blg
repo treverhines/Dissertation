@@ -2,7 +2,6 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dissertation.aux
 A level-1 auxiliary file: acknowledgements.aux
-A level-1 auxiliary file: preface.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: ch1/ch1.aux
@@ -11,13 +10,14 @@ A level-1 auxiliary file: ch3/ch3.aux
 A level-1 auxiliary file: ch4/ch4.aux
 A level-1 auxiliary file: ch5/ch5.aux
 A level-1 auxiliary file: ch6/ch6.aux
+A level-1 auxiliary file: conclusion.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 5387 of file refs.bib
+Repeated entry---line 5560 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5754 of file refs.bib
+Repeated entry---line 5755 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
@@ -26,45 +26,45 @@ Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 171 entries,
+You've used 172 entries,
             3098 wiz_defined-function locations,
-            2222 strings with 43869 characters,
-and the built_in function-call counts, 177948 in all, are:
-= -- 20686
-> -- 5892
+            2228 strings with 44095 characters,
+and the built_in function-call counts, 179200 in all, are:
+= -- 20832
+> -- 5943
 < -- 100
-+ -- 3333
-- -- 1410
-* -- 11213
-:= -- 15536
-add.period$ -- 171
-call.type$ -- 171
-change.case$ -- 973
-chr.to.int$ -- 165
-cite$ -- 517
-duplicate$ -- 18949
-empty$ -- 9504
-format.name$ -- 1961
-if$ -- 35840
++ -- 3361
+- -- 1422
+* -- 11294
+:= -- 15643
+add.period$ -- 172
+call.type$ -- 172
+change.case$ -- 980
+chr.to.int$ -- 166
+cite$ -- 520
+duplicate$ -- 19078
+empty$ -- 9565
+format.name$ -- 1976
+if$ -- 36093
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 1820
-newline$ -- 520
-num.names$ -- 684
-pop$ -- 7481
+missing$ -- 1832
+newline$ -- 523
+num.names$ -- 688
+pop$ -- 7538
 preamble$ -- 1
-purify$ -- 807
+purify$ -- 813
 quote$ -- 0
-skip$ -- 11644
+skip$ -- 11724
 stack$ -- 0
-substring$ -- 7557
-swap$ -- 16510
+substring$ -- 7609
+swap$ -- 16625
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1512
+type$ -- 1521
 warning$ -- 4
-while$ -- 959
+while$ -- 965
 width$ -- 0
-write$ -- 2013
+write$ -- 2025
 (There were 2 error messages)

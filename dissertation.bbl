@@ -1,4 +1,4 @@
-\begin{thebibliography}{171}
+\begin{thebibliography}{172}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -54,6 +54,13 @@ Barbot, S., Y.~Fialko, and Y.~Bock (2009), {Postseismic deformation due to the
   Geophysical Research: Solid Earth}, \textit{114}, 1--26,
   \doi{10.1029/2008JB005748}.
 
+\bibitem[{\textit{Barbot et~al.}(2017)\textit{Barbot, Moore, and
+  Labert}}]{Barbot2017}
+Barbot, S., J.~D.~P. Moore, and V.~Labert (2017), {Displacement and Stress
+  Associated with Distributed Anelastic Deformation in a Half-Space},
+  \textit{Bulletin of the Seismological Society of America}, \textit{107}(2),
+  821--855, \doi{10.1785/0120160237}.
+
 \bibitem[{\textit{Barbour and Crowell}(2017)}]{Barbour2017}
 Barbour, A.~J., and B.~W. Crowell (2017), {Dynamic Strains for Earthquake
   Source Characterization}, \textit{Seismological Research Letters},
@@ -97,13 +104,14 @@ B{\"{u}}rgmann, R., and G.~Dresen (2008), {Rheology of the Lower Crust and
   \textit{Annual Review of Earth and Planetary Sciences}, \textit{36},
   531--567, \doi{10.1146/annurev.earth.36.031207.124326}.
 
-\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ergintav,
-  Segall, Hearn, McClusky, Reilinger, Woith, and Zschau}}]{Burgmann2002}
-B{\"{u}}rgmann, R., S.~Ergintav, P.~Segall, E.~H. Hearn, S.~McClusky, R.~E.
-  Reilinger, H.~Woith, and J.~Zschau (2002), {Time-dependent distributed
-  afterslip on and deep below the İzmit earthquake rupture}, \textit{Bulletin
-  of the Seismological Society of America}, \textit{92}(February), 126--137,
-  \doi{10.1785/0120000833}.
+\bibitem[{\textit{B{\"{u}}rgmann et~al.}(2002)\textit{B{\"{u}}rgmann, Ayhan,
+  Fielding, Wright, McClusky, Aktug, Demir, Lenk, and
+  T{\"{u}}rkezer}}]{Burgmann2002}
+B{\"{u}}rgmann, R., M.~E. Ayhan, E.~J. Fielding, T.~J. Wright, S.~McClusky,
+  B.~Aktug, C.~Demir, O.~Lenk, and A.~T{\"{u}}rkezer (2002), {Deformation
+  during the 12 November 1999 D{\"{u}}zce, Turkey, earthquake, from GPS and
+  InSAR data}, \textit{Bulletin of the Seismological Society of America},
+  \textit{92}(February), 161--171, \doi{10.1785/0120000834}.
 
 \bibitem[{\textit{{\c{C}}akir et~al.}(2012)\textit{{\c{C}}akir, Ergintav,
   {\"{O}}zener, Dogan, Akoglu, Meghraoui, and Reilinger}}]{Cakir2012}

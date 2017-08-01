@@ -1,0 +1,26 @@
+\chapter{CONCLUSION AND FUTURE WORK}
+
+
+In this dissertation I have explored transient deformation observed in GNSS data and   
+
+\section{Geodetic tomography}
+Postseismic deformation can be used to gain valuable insight into the mechanical behavior of the lithosphere. If postseismic deformation is being driven by viscous relaxation of coseismic stresses, then it can be used to infer the strength of the lithosphere. On the other hand, if postseismic deformation is the result of afterslip, then it can be used to constrain the frictional properties of a fault. The complication is that it is unclear which of the mechanisms is at play. The geodetic community thus needs a method for definitively discerning the mechanisms driving postseismic deformation, and I propose such a method in Chapter 3, which I refer to as the \citet{Hines2016} method. The \citet{Hines2016} method is not without its own complications, and I elaborate on some areas where the method can be improved.  
+
+The \citet{Hines2016} method is based on an approximation for early postseismic deformation. This approximation takes a matter of seconds to evaluate, which makes it tractable to perform the inverse problem, estimating fault slip and lithospheric viscosity from observable deformation. However, the approximation requires a precomputed set of elastic and viscoelastic Green's functions. Evaluating these Green's functions turns out to be the largest computational burden for the \citet{Hines2016} method because they must be evaluated numerically with finite-element software. Not only is it computationally expensive to perform the finite-element modeling, there is also the laborious task of meshing. The \citet{Hines2016} method is thus quite impractical because of its reliance on finite-element modeling. Recently, \citet{Barbot2017} has derived an analytical solution for displacements resulting from anelastic deformation in a three-dimensional half-space. One could conceivably use the solution from \citet{Barbot2017} to generate the viscoelastic Green's functions used in the \citet{Hines2016} method. The elastic Green's functions can be generated with the well known analytical solution form \citet{Okada1992}. This would completely eliminate the need for finite-element modeling in the \citet{Hines2016} method.       
+ 
+Another complication with the \citet{Hines2016} method is that the approximation for early postseismic deformation breaks down once coseismic stresses substantially decay. If the upper mantle has a viscosity of $10^{18}$ Pa$\cdot$s, which is consistent with the compilation of estimated upper mantle viscosities from \citep{Thatcher2008}, then the approximation should break down after about one year. In Chapter 4, where we apply the \citet{Hines2016} method to postseismic data following the El Mayor-Cucapah earthquake, we indeed found that the approximation broke down 0.8 years after the earthquake. Unfortunately, this meant that the remaining 4.2 years could not be utilized by the \citet{Hines2016} method. Clearly, the \citet{Hines2016} needs to be somehow improved so that it is capable of modeling the all available postseismic data.             
+
+\section{Other potential geophysical applications for Gaussian process regression}
+In Chapter 6 we use Gaussian process regression (GPR) for the purpose of estimating transient strain from GNSS data; however, we cannot understate the wide range of additional geophysical problems that GPR can address. We believe that GPR can be a valuable tool for assimilating different types of geodetic data. In Chapter 7 we used GPR to compare GNSS data to data from borehole strain meters (BSMs). While much of the BSM data contained spurious features, we did note that BSMs can resolve the timing of geophysical events with greater precision than the GNSS data. It may then be advantageous to combine GNSS and BSM data into a single estimate of transient strain. GNSS and BSM data can be assimilated by recursively performing GPR. Specifically, the posterior estimate of transient strain derived from GNSS data can be conditioned again with the BSM data, to form a new posterior incorporating both datasets. We also believe that GPR can be a valuable tool for regularizing inverse problems. One common approach to deal with ill-posed tomographic inverse problems is to impose smoothness on the solution \cite{Aster2011}  
+
+Although this was not demonstrated, GPR can be used to combine GNSS data and BSM data into a single estimate of transient strain. Doing so would take advantage   
+
+We found that the amplitude and sign of the BSM data can be inconsistent with the regional strain, we noted that BSM data is able to resolve the timing of the onset of transient geophysical events with higher precision than GNSS data. and so the two datasets provide complementary information. We could have combined the GNSS data and BSM data into a single estimate of transient strain.           
+
+
+  
+% Future work for geotomo
+
+% Future work for GPR
+
+% Note anomalous strains
