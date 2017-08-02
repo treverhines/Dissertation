@@ -75,7 +75,8 @@
 \contentsline {section}{\numberline {7.4}Results}{115}
 \contentsline {section}{\numberline {7.5}Conclusion}{117}
 \contentsline {chapter}{\numberline {8}CONCLUSION AND FUTURE WORK}{127}
-\contentsline {section}{\numberline {8.1}Geodetic tomography}{127}
-\contentsline {section}{\numberline {8.2}Other potential geophysical applications for Gaussian process regression}{128}
-\contentsline {chapter}{REFERENCES}{129}
+\contentsline {section}{\numberline {8.1}Future work}{127}
+\contentsline {subsection}{\numberline {8.1.1}Revisiting Hines and Hetland 2015}{127}
+\contentsline {subsection}{\numberline {8.1.2}Geophysical applications for Gaussian processes}{128}
+\contentsline {chapter}{REFERENCES}{130}
 \contentsfinish 

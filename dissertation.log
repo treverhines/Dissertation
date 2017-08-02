@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  1 AUG 2017 19:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  1 AUG 2017 21:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -463,8 +463,8 @@ Overfull \hbox (2.03766pt too wide) detected at line 77
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 80
- \OT1/cmr/bx/n/12 129
+Overfull \hbox (2.03766pt too wide) detected at line 81
+ \OT1/cmr/bx/n/12 130
  []
 
 )
@@ -1263,19 +1263,19 @@ Chapter 8.
 
 
 
-]) [128] (./dissertation.bbl [129
+] [128]) [129] (./dissertation.bbl [130
 
 
-] [130] [131] [132]
+] [131] [132] [133]
 Underfull \hbox (badness 1394) in paragraph at lines 289--293
 \OT1/cmr/m/n/12 dis-lo-ca-tion source in a mul-ti-lay-ered elas-tic/viscoelasti
 c half-space and an equiv-a-
  []
 
-[133]
+[134]
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ° in font cmr12!
- [134] [135]
+ [135] [136]
 Underfull \hbox (badness 3039) in paragraph at lines 469--472
 []\OT1/cmr/m/n/12 J^^Sonsson, S., P. Segall, R. Ped-er-sen, and G. Bjorns-son (
 2003), Post-earthquake
@@ -1293,25 +1293,25 @@ Underfull \hbox (badness 2529) in paragraph at lines 474--477
 tary Sci-ences\OT1/cmr/m/n/12 , pp. 213--239, doi:
  []
 
-[136]
+[137]
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [137] [138] [139] [140] [141]
+ [138] [139] [140] [141] [142]
 Underfull \hbox (badness 1817) in paragraph at lines 858--861
 \OT1/cmr/m/n/12 mo-tion in cen-tral Cal-i-for-nia, \OT1/cmr/m/it/12 Jour-nal of
  Geo-phys-i-cal Re-search\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 78\OT1/cmr/m/n/12 (
 5), 832, doi:
  []
 
-[142] [143]
+[143] [144]
 Missing character: There is no â in font cmr12!
 Missing character: There is no ‰ in font cmr12!
 Missing character: There is no ¥ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no “ in font cmr12!
- [144]) [145] (./dissertation.aux (./acknowledgements.aux)
+ [145]) [146] (./dissertation.aux (./acknowledgements.aux)
 (./abstract.aux) (./introduction.aux) (./ch1/ch1.aux) (./ch2/ch2.aux)
 (./ch3/ch3.aux) (./ch4/ch4.aux) (./ch5/ch5.aux) (./ch6/ch6.aux)
 (./conclusion.aux)) ) 
@@ -1344,10 +1344,10 @@ f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on dissertation.pdf (157 pages, 25249844 bytes).
+Output written on dissertation.pdf (158 pages, 25251775 bytes).
 PDF statistics:
- 84399 PDF objects out of 95282 (max. 8388607)
- 55483 compressed objects within 555 object streams
+ 84402 PDF objects out of 95282 (max. 8388607)
+ 55485 compressed objects within 555 object streams
  0 named destinations out of 1000 (max. 500000)
  296 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -13,11 +13,11 @@ A level-1 auxiliary file: ch6/ch6.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 5560 of file refs.bib
+Repeated entry---line 5574 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5755 of file refs.bib
+Repeated entry---line 5769 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
