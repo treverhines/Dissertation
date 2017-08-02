@@ -4,7 +4,7 @@
 \contentsline {chapter}{LIST OF APPENDICES}{xi}
 \contentsline {chapter}{ABSTRACT}{xii}
 \contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
-\contentsline {section}{\numberline {1.1}Outline}{3}
+\contentsline {section}{\numberline {1.1}Outline}{2}
 \contentsline {section}{\numberline {1.2}Publications from this dissertation}{4}
 \contentsline {chapter}{\numberline {2}Bias in estimates of lithosphere viscosity from interseismic deformation}{6}
 \contentsline {section}{\numberline {2.1}Abstract}{6}
