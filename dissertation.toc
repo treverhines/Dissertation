@@ -75,8 +75,8 @@
 \contentsline {section}{\numberline {7.4}Results}{115}
 \contentsline {section}{\numberline {7.5}Conclusion}{117}
 \contentsline {chapter}{\numberline {8}CONCLUSION AND FUTURE WORK}{127}
-\contentsline {section}{\numberline {8.1}Future work}{127}
-\contentsline {subsection}{\numberline {8.1.1}Revisiting Hines and Hetland 2015}{127}
-\contentsline {subsection}{\numberline {8.1.2}Geophysical applications for Gaussian processes}{128}
+\contentsline {section}{\numberline {8.1}Future work}{128}
+\contentsline {subsection}{\numberline {8.1.1}Revisiting Hines and Hetland 2015}{128}
+\contentsline {subsection}{\numberline {8.1.2}Geophysical applications for Gaussian processes}{129}
 \contentsline {chapter}{REFERENCES}{130}
 \contentsfinish 
