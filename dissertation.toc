@@ -1,9 +1,8 @@
-\contentsline {chapter}{ACKNOWLEDGEMENTS}{iii}
-\contentsline {chapter}{LIST OF FIGURES}{ix}
-\contentsline {chapter}{LIST OF TABLES}{x}
-\contentsline {chapter}{LIST OF APPENDICES}{xi}
-\contentsline {chapter}{ABSTRACT}{xii}
-\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{ii}
+\contentsline {chapter}{LIST OF FIGURES}{viii}
+\contentsline {chapter}{LIST OF TABLES}{ix}
+\contentsline {chapter}{ABSTRACT}{x}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Outline}{2}
 \contentsline {section}{\numberline {1.2}Publications from this dissertation}{4}
 \contentsline {chapter}{\numberline {2}Bias in estimates of lithosphere viscosity from interseismic deformation}{6}
@@ -74,7 +73,7 @@
 \contentsline {section}{\numberline {7.3}GNSS derived strain}{113}
 \contentsline {section}{\numberline {7.4}Results}{115}
 \contentsline {section}{\numberline {7.5}Conclusion}{117}
-\contentsline {chapter}{\numberline {8}CONCLUSION AND FUTURE WORK}{127}
+\contentsline {chapter}{\numberline {8}Conclusion}{127}
 \contentsline {section}{\numberline {8.1}Future work}{128}
 \contentsline {subsection}{\numberline {8.1.1}Revisiting Hines and Hetland 2015}{128}
 \contentsline {subsection}{\numberline {8.1.2}Geophysical applications for Gaussian processes}{129}
