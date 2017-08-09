@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.24)  2 AUG 2017 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.8.22)  9 AUG 2017 07:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -537,10 +537,10 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 
 ] [7]
 Package epstopdf Info: Source file: <ch1/figures/Figure1.eps>
-(epstopdf)                    date: 2017-07-26 14:55:08
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 680106 bytes
 (epstopdf)             Output file: <ch1/figures/Figure1-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-26 15:02:29
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 54533 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure1-eps-co
 nverted-to.pdf ch1/figures/Figure1.eps>
@@ -556,10 +556,10 @@ Package pdftex.def Info: ch1/figures/Figure1-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 168.62958pt x 217.8132pt.
  [8] [9 <./ch1/figures/Figure1-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <ch1/figures/Figure2.eps>
-(epstopdf)                    date: 2017-07-26 14:55:08
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 1017006 bytes
 (epstopdf)             Output file: <ch1/figures/Figure2-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-26 15:02:30
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 106390 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure2-eps-co
 nverted-to.pdf ch1/figures/Figure2.eps>
@@ -574,10 +574,10 @@ Package pdftex.def Info: ch1/figures/Figure2-eps-converted-to.pdf used on input
  line 207.
 (pdftex.def)             Requested size: 463.73135pt x 165.61833pt.
 Package epstopdf Info: Source file: <ch1/figures/Figure3.eps>
-(epstopdf)                    date: 2017-07-26 14:55:08
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 4146878 bytes
 (epstopdf)             Output file: <ch1/figures/Figure3-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-26 15:02:32
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 555310 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure3-eps-co
 nverted-to.pdf ch1/figures/Figure3.eps>
@@ -594,10 +594,10 @@ Package pdftex.def Info: ch1/figures/Figure3-eps-converted-to.pdf used on input
  [10 <./ch1/figures/Figure2-eps-converted-to.pdf>] [11 <./ch1/figures/Figure3-e
 ps-converted-to.pdf>] [12]
 Package epstopdf Info: Source file: <ch1/figures/Figure4.eps>
-(epstopdf)                    date: 2017-07-26 14:55:08
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 637314 bytes
 (epstopdf)             Output file: <ch1/figures/Figure4-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-07-26 15:02:32
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 43015 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/Figure4-eps-co
 nverted-to.pdf ch1/figures/Figure4.eps>
@@ -613,11 +613,11 @@ Package pdftex.def Info: ch1/figures/Figure4-eps-converted-to.pdf used on input
 (pdftex.def)             Requested size: 458.71263pt x 220.82445pt.
  [13] [14 <./ch1/figures/Figure4-eps-converted-to.pdf>] [15]
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure1.eps>
-(epstopdf)                    date: 2017-07-26 23:49:34
+(epstopdf)                    date: 2017-07-27 20:13:31
 (epstopdf)                    size: 680402 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-26 23:58:44
+(epstopdf)                    date: 2017-07-27 20:13:31
 (epstopdf)                    size: 41037 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure1-eps
 -converted-to.pdf ch1/figures/AuxFigure1.eps>
@@ -632,11 +632,11 @@ Package pdftex.def Info: ch1/figures/AuxFigure1-eps-converted-to.pdf used on in
 put line 495.
 (pdftex.def)             Requested size: 466.7426pt x 257.9631pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure2.eps>
-(epstopdf)                    date: 2017-07-26 23:49:35
+(epstopdf)                    date: 2017-07-27 20:13:31
 (epstopdf)                    size: 48243074 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure2-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-26 23:59:01
+(epstopdf)                    date: 2017-07-27 20:13:31
 (epstopdf)                    size: 6032341 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure2-eps
 -converted-to.pdf ch1/figures/AuxFigure2.eps>
@@ -651,11 +651,11 @@ Package pdftex.def Info: ch1/figures/AuxFigure2-eps-converted-to.pdf used on in
 put line 515.
 (pdftex.def)             Requested size: 433.61894pt x 327.2217pt.
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure3.eps>
-(epstopdf)                    date: 2017-07-26 23:49:35
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 6632742 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure3-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-08-01 09:22:57
+(epstopdf)                    date: 2017-07-29 11:38:46
 (epstopdf)                    size: 764545 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure3-eps
 -converted-to.pdf ch1/figures/AuxFigure3.eps>
@@ -674,11 +674,11 @@ put line 530.
 LaTeX Warning: Float too large for page by 25.83351pt on input line 543.
 
 Package epstopdf Info: Source file: <ch1/figures/AuxFigure4.eps>
-(epstopdf)                    date: 2017-07-26 23:49:36
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 3546446 bytes
 (epstopdf)             Output file: <ch1/figures/AuxFigure4-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2017-07-26 23:59:05
+(epstopdf)                    date: 2017-07-27 20:13:32
 (epstopdf)                    size: 382674 bytes
 (epstopdf)             Command: <repstopdf --outfile=ch1/figures/AuxFigure4-eps
 -converted-to.pdf ch1/figures/AuxFigure4.eps>
@@ -1343,7 +1343,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist
 /type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb>
-Output written on dissertation.pdf (158 pages, 25294971 bytes).
+Output written on dissertation.pdf (158 pages, 25294944 bytes).
 PDF statistics:
  84403 PDF objects out of 95282 (max. 8388607)
  55486 compressed objects within 555 object streams
