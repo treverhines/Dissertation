@@ -18,12 +18,12 @@ mechanical behavior of the crust and upper mantle.
 Studies on the temporal evolution of ground deformation throughout the
 earthquake cycle (i.e., interseismic deformation) tend to infer that
 the lower crust is orders of magnitude stronger (more viscous) than
-the upper mantle. In Chapter 2 I demonstrate that the methods used in
+the upper mantle. In Chapter 2, I demonstrate that the methods used in
 these studies are biased towards inferring a more viscous lower crust
-and less viscous lower mantle. We conclude that these interseismic
+and less viscous lower mantle. I conclude that these interseismic
 studies do not necessarily rule out the possibility that the lower
 crust can deform ductilely on earthquake cycle timescales. In Chapters
-3 and 4 I introduce a method for discerning the physical mechanisms
+3 and 4, I introduce a method for discerning the physical mechanisms
 driving postseismic deformation, where I consider candidate mechanisms
 to be afterslip and viscous relaxation in the crust and upper mantle.
 I apply this method to postseismic deformation following the 2010 El
@@ -34,15 +34,15 @@ viscosities inferred from interseismic deformation are larger than
 those estimated from postseismic deformation, which occurs over a much
 shorter timescale. By describing the upper mantle with a Burgers
 rheology, which contains a transient and steady-state phase of
-deformation, we are able to reconcile these conflicting studies.
+deformation, I am able to reconcile these conflicting studies.
 Chapters 5, 6, and 7 are on detecting transient geophysical signal in
 geodetic data. Before geophysical signal can be identified, the noise
 in geodetic data must be quantified. In Chapter 5, I point out a bias
 in the commonly used method for characterizing noise in geodetic data,
-and I propose an alternative unbiased method. In Chapter 6 I
+and I propose an alternative unbiased method. In Chapter 6, I
 demonstrate that transient geophysical signal can be robustly detected
 by using a machine learning technique known as Gaussian process
 regression. Finally, in Chapter 7 I assess the utility of borehole
 strain meters (BSMs) for detecting transient deformation. I find that
-BSM data, which records strains over a 8.7 centimeter baseline, is
-difficult to reconcile with regional strains derived from GNSS data. 
+BSM data, which records strains over an 8.7 centimeter baseline, are
+difficult to reconcile with regional strains derived from GNSS data.
