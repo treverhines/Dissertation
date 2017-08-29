@@ -1,7 +1,8 @@
 \chapternonum{ABSTRACT}
+
 Modern-day geodetic tools, such as global navigation satellite systems
-(GNSS), are able to detect tectonic ground deformation to within
-millimeter accuracy. In the past decade, our ability to resolve ground
+(GNSS), detect tectonic ground deformation to within millimeter
+accuracy. In the past decade, our ability to resolve ground
 deformation in the Western United States has greatly improved with the
 Plate Boundary Observatory (PBO) project, which consists of about 1100
 continuously operating GNSS stations. With this unprecedented quality
@@ -11,25 +12,25 @@ the days to years following large earthquakes, which is caused by
 aseismic afterslip and/or ductile deformation in the upper mantle. The
 PBO has also allowed us to resolve transient deformation associated
 with slow slip events on the Cascadia subduction zone. In this
-dissertation, I discuss detecting transient deformation in geodetic
-data, and I use this transient deformation to better understand the
-mechanical behavior of the crust and upper mantle.
+dissertation, I discuss techniques for detecting transient deformation
+in geodetic data, and I analyze this transient deformation to better
+understand the mechanical behavior of the crust and upper mantle.
 
-Studies on the temporal evolution of ground deformation throughout the
-earthquake cycle (i.e., interseismic deformation) tend to infer that
-the lower crust is orders of magnitude stronger (more viscous) than
-the upper mantle. In Chapter 2, I demonstrate that the methods used in
-these studies are biased towards inferring a more viscous lower crust
-and less viscous lower mantle. I conclude that these interseismic
-studies do not necessarily rule out the possibility that the lower
-crust can deform ductilely on earthquake cycle timescales. In Chapters
-3 and 4, I introduce a method for discerning the physical mechanisms
-driving postseismic deformation, where I consider candidate mechanisms
-to be afterslip and viscous relaxation in the crust and upper mantle.
-I apply this method to postseismic deformation following the 2010 El
+Most studies of ground deformation throughout the earthquake cycle
+(i.e., interseismic deformation) indicate that the lower crust is
+orders of magnitude stronger (more viscous) than the upper mantle. In
+Chapter 2, I demonstrate that the methods used in these studies are
+biased towards inferring a more viscous lower crust and less viscous
+upper mantle. I conclude that these interseismic studies do not
+necessarily rule out the possibility that the lower crust can deform
+ductilely on earthquake cycle timescales. In Chapters 3 and 4, I
+introduce a method for discerning the physical mechanisms driving
+postseismic deformation, where I consider candidate mechanisms to be
+afterslip and viscous relaxation in the crust and upper mantle. I
+apply this method to postseismic deformation following the 2010 El
 Mayor-Cucapah earthquake in Baja California. I find that a Burgers
 rheology upper mantle is necessary to describe far-field deformation
-in the three years following the earthquake. In general, lithospheric
+in the three years following the earthquake. In general, upper mantle
 viscosities inferred from interseismic deformation are larger than
 those estimated from postseismic deformation, which occurs over a much
 shorter timescale. By describing the upper mantle with a Burgers

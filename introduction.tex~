@@ -1,8 +1,23 @@
 \chapter{Introduction}
+
+% - Early geodesy
+% - long sampling rates
+% - cannot resolve time dependence
+
+In the old days of geodesy ...
+
+
+
 Since the seminal report by \citet{Reid1910}, it has been recognized
 that earthquakes are caused by the sudden release of elastic strain
 energy that has gradually accumulated over time along tectonic plate
-boundaries. If one assumes that strain is accumulating at a constant
+boundaries. 
+
+%This is based on primative geodetic tools...
+
+% we can then use these geodetic tools for seismic hazard
+
+If one assumes that strain is accumulating at a constant
 rate, then modern-day geodetic observations of tectonic deformation
 can be used to infer parameters that are fundamentally important for
 assessing seismic hazard, such as long term fault slip rates
@@ -39,27 +54,27 @@ This schematic is modeled after \citep{Savage1978}.}
 \end{figure}
 
 Some of the first observations of postseismic deformation came from
-leveling and triangulation surveys
-\citep[e.g,][]{Kanamori1973,Thatcher1975}. These geodetic techniques
-detected deformation to within an accuracy of a few centimeters and at
-sampling intervals on the order of years. With the advent of space
-geodetic techniques, such as Global Navigation Satellite Systems
-(GNSS)\footnote{The terms ``GNSS" and ``GPS" (Global Positioning
-System) will be used synonymously in this dissertation, although GPS
-is specifically operated by the United States and GNSS is a more
-generic term.}, geodetic observations have become more precise and
-have achieved higher sampling rates. Furthermore, in the past decade a
-dense network of geodetic instruments, consisting of GNSS stations and
-borehole strain meters, have been installed along the Western United
-States as part of the Plate Boundary Observatory (PBO). This
-unprecedented data coverage and data quality has improved our ability
-to resolve postseismic deformation and has lead to the recent
-discovery of slow slip events along the Cascadia subduction zone
-\citep{Dragert2001}. Slow slip events occur deep on the subduction
-zone and they tend to migrate stresses up onto the seismogenic portion
-of the fault. Slow slip events thus pose a serious risk of triggering
-megathrust earthquakes and should be factored in to assessments of
-seismic hazard.
+leveling and triangulation surveys \citep[e.g,][]{Kanamori1973,
+Thatcher1975}. These geodetic techniques detected deformation to
+within an accuracy of a few centimeters and at sampling intervals on
+the order of years. With the advent of space geodetic techniques, such
+as Global Navigation Satellite Systems (GNSS)\footnote{The terms
+``GNSS" and ``GPS" (Global Positioning System) will be used
+synonymously in this dissertation, although GPS is specifically
+operated by the United States and GNSS is a more generic term.},
+geodetic observations have become more precise and have achieved
+higher sampling rates. Furthermore, in the past decade a dense network
+of geodetic instruments, consisting of GNSS stations and borehole
+strain meters, have been installed along the Western United States as
+part of the Plate Boundary Observatory (PBO). This unprecedented data
+coverage and data quality has improved our ability to resolve
+postseismic deformation and has lead to the recent discovery of slow
+slip events along the Cascadia subduction zone \citep{Dragert2001}.
+Slow slip events occur deep on the subduction zone and they tend to
+migrate stresses up onto the seismogenic portion of the fault. Slow
+slip events thus pose a serious risk of triggering megathrust
+earthquakes and should be factored in to assessments of seismic
+hazard.
 
 In this dissertation I study transient deformation associated with
 tectonic processes, such as postseismic deformation and slow slip
@@ -73,6 +88,12 @@ tectonic processes can be constrained by observable transient
 deformation. Chapters 5, 6, and 7 are data-based, where I am mostly
 focused on assessing the noise in geodetic data and detecting
 transient geophysical signal.
+
+\section{Plate Boundary Observatory}
+
+\section{Postseismic and Interseismic deformation}
+
+\section{Slow slip events}
 
 \section{Outline}
 Chapter 2 presents a theoretical discussion on what can and cannot be
