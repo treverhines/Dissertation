@@ -10,8 +10,50 @@ In the old days of geodesy ...
 
 Since the seminal report by \citet{Reid1910}, it has been recognized
 that earthquakes are caused by the sudden release of elastic strain
-energy that has gradually accumulated over time along tectonic plate
-boundaries. 
+energy that has gradually accumulated over time along faults. This is
+known as elastic rebound theory. \citet{Reid1910} introduced elastic
+rebound theory to explain ground deformation leading up to and as a
+result of the 1906 San Francisco earthquake. In the report,
+triangulation surveys showed that the ground on either side of the San
+Andreas fault and at far distances from the fault was steadily
+undergoing a shearing motion at a rate of about 6 cm/year. During the
+1906 earthquake, the San Andreas fault slipped by about 6 meters,
+presumably releasing the elastic strain energy in the crust that has
+accumulated over the past hundred years or so. Modern geodetic
+techniques have updated the rate of deformation across the San Andreas
+fault to about 3 cm/year \citep{Savage1973}, but elastic rebound
+theory has remained generally accepted since its inception over a
+century ago.
+
+Elastic rebound theory forms the foundation of seismic hazard models
+such as the third Unified California Earthquake Rupture Forcast
+(UCERF3) \citep{Field2014}. UCERF3 provides an estimate of the
+frequency of major earthquakes in California. It is constrained in
+part by estimates of long term fault slip rate, which describe how
+much fault slip is expected based on how quickly the North American
+plate is moving with respect to the Pacific plate. In constraining
+UCERF3, it is assumed that strain is accumulating at a constant rate.
+That is to say, the deformation throughout California, which is based
+on modern-day geodetic observations, is assumed to remain constant
+over the earthquake cycle. However, advanced space geodetic techniques
+have revealed that ground deformation can exhibit subtle
+time-dependence, or transience. In this dissertation we study
+transient ground deformation and we argue that by better understanding
+this transient deformation we can better understand seismic hazard and
+the Earth itself.
+
+We owe our ability to resolve transient deformation to the PBO
+
+Transient deformation is 
+By better understanding the time
+dependence of ground deformation we can
+
+ This dissertation focuses on transient
+ground deformation and
+
+permanent ground
+deformation observed around the San Andreas fault from the 1906 San
+Francisco earthquake. These geodetic observations were based on 
 
 %This is based on primative geodetic tools...
 
