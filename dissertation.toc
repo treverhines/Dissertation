@@ -3,8 +3,8 @@
 \contentsline {chapter}{LIST OF TABLES}{ix}
 \contentsline {chapter}{ABSTRACT}{x}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Plate Boundary Observatory}{4}
-\contentsline {section}{\numberline {1.2}Postseismic and Interseismic deformation}{4}
+\contentsline {section}{\numberline {1.1}Postseismic and Interseismic deformation}{2}
+\contentsline {section}{\numberline {1.2}Plate Boundary Observatory}{4}
 \contentsline {section}{\numberline {1.3}Slow slip events}{4}
 \contentsline {section}{\numberline {1.4}Outline}{4}
 \contentsline {section}{\numberline {1.5}Publications from this dissertation}{6}

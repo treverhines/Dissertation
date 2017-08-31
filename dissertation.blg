@@ -13,11 +13,11 @@ A level-1 auxiliary file: ch6/ch6.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 5574 of file refs.bib
+Repeated entry---line 598 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 5769 of file refs.bib
+Repeated entry---line 1663 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
@@ -26,45 +26,45 @@ Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 172 entries,
+You've used 175 entries,
             3098 wiz_defined-function locations,
-            2228 strings with 44095 characters,
-and the built_in function-call counts, 179200 in all, are:
-= -- 20832
-> -- 5943
-< -- 100
-+ -- 3361
-- -- 1422
-* -- 11294
-:= -- 15643
-add.period$ -- 172
-call.type$ -- 172
-change.case$ -- 980
-chr.to.int$ -- 166
-cite$ -- 520
-duplicate$ -- 19078
-empty$ -- 9565
-format.name$ -- 1976
-if$ -- 36093
+            2245 strings with 44523 characters,
+and the built_in function-call counts, 181888 in all, are:
+= -- 21161
+> -- 5990
+< -- 103
++ -- 3395
+- -- 1434
+* -- 11441
+:= -- 15871
+add.period$ -- 175
+call.type$ -- 175
+change.case$ -- 993
+chr.to.int$ -- 169
+cite$ -- 529
+duplicate$ -- 19390
+empty$ -- 9721
+format.name$ -- 1995
+if$ -- 36630
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 1832
-newline$ -- 523
-num.names$ -- 688
-pop$ -- 7538
+missing$ -- 1859
+newline$ -- 532
+num.names$ -- 700
+pop$ -- 7669
 preamble$ -- 1
-purify$ -- 813
+purify$ -- 823
 quote$ -- 0
-skip$ -- 11724
+skip$ -- 11890
 stack$ -- 0
-substring$ -- 7609
-swap$ -- 16625
+substring$ -- 7740
+swap$ -- 16897
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1521
+type$ -- 1548
 warning$ -- 4
-while$ -- 965
+while$ -- 980
 width$ -- 0
-write$ -- 2025
+write$ -- 2058
 (There were 2 error messages)

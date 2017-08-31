@@ -1,4 +1,4 @@
-\begin{thebibliography}{172}
+\begin{thebibliography}{175}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -197,17 +197,17 @@ Dong, D., P.~Fang, Y.~Bock, F.~Webb, L.~Prawirodirdjo, S.~Kedar, and P.~Jamason
   \textit{Journal of Geophysical Research: Solid Earth}, \textit{111}(3),
   1--16, \doi{10.1029/2005JB003806}.
 
-\bibitem[{\textit{Dragert et~al.}(2001)\textit{Dragert, Wang, and
-  James}}]{Dragert2001}
-Dragert, G., K.~Wang, and T.~S. James (2001), {A silent slip event on the
-  deeper Cascadia subduction interface.}, \textit{Science}, \textit{292},
-  1525--1528, \doi{10.1126/science.1060152}.
-
 \bibitem[{\textit{Dragert and Wang}(2011)}]{Dragert2011}
 Dragert, H., and K.~Wang (2011), {Temporal evolution of an episodic tremor and
   slip event along the northern Cascadia margin}, \textit{Journal of
   Geophysical Research: Solid Earth}, \textit{116}(12), 1--12,
   \doi{10.1029/2011JB008609}.
+
+\bibitem[{\textit{Dragert et~al.}(2001)\textit{Dragert, Wang, and
+  James}}]{Dragert2001}
+Dragert, H., K.~Wang, and T.~S. James (2001), {A silent slip event on the
+  deeper Cascadia subduction interface.}, \textit{Science}, \textit{292},
+  1525--1528, \doi{10.1126/science.1060152}.
 
 \bibitem[{\textit{El-Fiky and Kato}(1998)}]{El-Fiky1999}
 El-Fiky, G.~S., and T.~Kato (1998), {Continuous distribution of the horizontal
@@ -919,6 +919,11 @@ Shen, Z.~K., D.~D. Jackson, B.~X. Ge, and X.~G. Bob (1996), {Crustal
   measurements}, \textit{Journal of Geophysical Research}, \textit{101}(B12),
   27,927--27,957, \doi{10.1029/96JB02544}.
 
+\bibitem[{\textit{Smith and Wyss}(1968)}]{Smith1968}
+Smith, S.~W., and M.~Wyss (1968), {Displacement on the San Andreas fault
+  subsequent to the 1966 Parkfield earthquake}, \textit{Bulletin of the
+  Seismological Society of America}, \textit{58}(6), 1955--1973.
+
 \bibitem[{\textit{Spinler et~al.}(2015)\textit{Spinler, Bennett, Walls, Shawn,
   and Garcia}}]{Spinler2015}
 Spinler, J.~C., R.~A. Bennett, C.~Walls, L.~Shawn, and J.~J.~G. Garcia (2015),
@@ -939,10 +944,20 @@ Thatcher, W. (1975), {Strain accumulation and release mechanism of the 1906 San
   Francisco Earthquake}, \textit{Journal of Geophysical Research},
   \textit{80}(35), 4862--4872.
 
+\bibitem[{\textit{Thatcher}(1983)}]{Thatcher1983}
+Thatcher, W. (1983), {Nonlinear Strain Buildup and the Earthquake Cycle on the
+  San Andreas Fault}, \textit{Journal of Geophysical Research}, \textit{88}(3),
+  5893--5902.
+
 \bibitem[{\textit{Thatcher and Pollitz}(2008)}]{Thatcher2008}
 Thatcher, W., and F.~F. Pollitz (2008), {Temporal evolution of continental
   lithospheric strength in actively deforming regions}, \textit{GSA Today},
   \textit{18}(4), 4--11, \doi{10.1130/GSAT01804-5A.1}.
+
+\bibitem[{\textit{Tsuboi}(1932)}]{Tsuboi1932}
+Tsuboi, C. (1932), {Investigation on the Deformation of the Earth's Crust Found
+  by Previse Geodetic Means}, \textit{Japanese Journal of Astronomy and
+  Geophysics}, \textit{10}.
 
 \bibitem[{\textit{Vauchez and Tommasi}(2003)}]{Vauchez2003}
 Vauchez, a., and a.~Tommasi (2003), {Wrench faults down to the asthenosphere:
