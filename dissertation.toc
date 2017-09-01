@@ -3,11 +3,10 @@
 \contentsline {chapter}{LIST OF TABLES}{ix}
 \contentsline {chapter}{ABSTRACT}{x}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Postseismic and Interseismic deformation}{2}
-\contentsline {section}{\numberline {1.2}Plate Boundary Observatory}{4}
-\contentsline {section}{\numberline {1.3}Slow slip events}{4}
-\contentsline {section}{\numberline {1.4}Outline}{4}
-\contentsline {section}{\numberline {1.5}Publications from this dissertation}{6}
+\contentsline {section}{\numberline {1.1}Postseismic and Interseismic deformation}{3}
+\contentsline {section}{\numberline {1.2}Slow slip events}{4}
+\contentsline {section}{\numberline {1.3}Outline}{4}
+\contentsline {section}{\numberline {1.4}Publications from this dissertation}{6}
 \contentsline {chapter}{\numberline {2}Bias in estimates of lithosphere viscosity from interseismic deformation}{7}
 \contentsline {section}{\numberline {2.1}Abstract}{7}
 \contentsline {section}{\numberline {2.2}Introduction}{7}
