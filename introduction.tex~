@@ -24,31 +24,31 @@ century ago.
 Elastic rebound theory forms the foundation of seismic hazard models
 such as the third Unified California Earthquake Rupture Forcast
 (UCERF3) \citep{Field2014}. Geodetic observations can tell us the rate
-that strain is accumulating between tectonic plates. Elastic rebound
-theory states that the built up strain will inevitably be relaxed
-through fault slip. It is then possible to use geodetic data to
-estimate the long term fault slip rates that are needed to accomodate
-tectoncially accumulated strain \citep[e.g.,][]{Savage1973,Meade2005}.
-UCERF3 uses geodetically and geologically derived slip rates for the
-San Andreas Fault system in conjunction with various other assumptions
-to estimate the likelihood that a major earthquake would occur over
-some window of time in California. UCERF3 has clear societal
-implications; it is used by engineers for designing buildings, and it
-is used by the California Earthquake Authority for determining
-earthquake insurance rates.
+that strain is accumulating between tectonic plates. Based on elastic
+rebound theory, this built up strain will inevitably be relaxed through
+fault slip. It is then possible to use geodetic data to estimate the
+long term fault slip rates that are needed to accomodate tectoncially
+accumulated strain \citep[e.g.,][]{Savage1973,Meade2005}. UCERF3 uses
+geodetically and geologically derived slip rates for the San Andreas
+Fault system in conjunction with various other assumptions to estimate
+the likelihood that a major earthquake would occur over some window of
+time in California. UCERF3 has clear societal implications; it is used
+by engineers for designing buildings, and it is used by the California
+Earthquake Authority for determining earthquake insurance rates.
 
 In constraining UCERF3, it is assumed that strain is building up on
 the San Andreas Fault system at a constant rate over time. However,
-time dependent, or transient, deformation around fault zones is a
+time-dependent, or transient, deformation around fault zones is a
 frequently observed phenomena that casts doubt into this assumption
-\citep{Thatcher1983}. We argue that by better understanding transient
-deformation, we can improve our ability to assess seismic hazard. Some
-of the earlier records of transient deformation came from repeated
-leveling or triangulation surveys made after large earthquakes
-\citep[e.g.,][]{Tsuboi1932, Smith1968}. These studies revealed
-elevated rates of ground deformation following the earthquakes, which
-then decayed over a timescale of months to years. This type of
-transient deformation is referred to as postseismic deformation.
+\citep{Thatcher1983}. By better understanding transient deformation
+and the mechanisms causing it, we can then conceivably improve upon
+existing seismic hazard models. Some of the earlier records of
+transient deformation came from repeated leveling or triangulation
+surveys made after large earthquakes \citep[e.g.,][]{Tsuboi1932,
+Smith1968}. These studies revealed elevated rates of ground
+deformation following the earthquakes, which then decayed over a
+timescale of months to years. This type of transient deformation is
+referred to as postseismic deformation.
 
 Over the past few decades, Global Navigation Satellite Systems
 (GNSS)\footnote{The terms ``GNSS" and ``GPS" (Global Positioning
@@ -72,21 +72,21 @@ observations in the Pacific Northwest. These slow slip events produce
 several millimeters of ground deformation over the course of a couple
 weeks. As another example, \citet{Freed2007} discovered far reaching
 postseismic deformation following the 1999 Hector Mine earthquake
-using GNSS data. They were able to resolve a few millimeters of ground
-deformation at epicentral distances of ${\sim}$200 km, which occured
-over seven years following the earthquake.
+using GNSS data. They were able to resolve ${\sim}5$ millimeters of
+ground deformation ${\sim}$200 km north of the earthquake's epicenter,
+which occured over seven years following the earthquake.
 
 The recently installed Plate Boundary Observatory (PBO) has
 substantially improved our ability to resolve transient deformation in
-the Western United, which is where this dissertation is primarily
-focused. The PBO consists of ${\sim}$1100 continuously operating GNSS
-stations and ${\sim}$80 borehole strainmeters (BSMs), which have been
-placed along Pacific and North American plate boundary. Construction
-of the PBO began in 2003 and lasted until 2008. Today, the PBO
-instruments are being actively maintained by UNAVCO. There is a wealth
-of geodetic data collected by the PBO, and geophysicists have been
-using the data to refine our understanding of tectonic and volcanic
-processes.
+the western United States, which is where I am primarily focused in
+this dissertation. The PBO consists of ${\sim}$1100 continuously
+operating GNSS stations and ${\sim}$80 borehole strainmeters (BSMs),
+which have been placed along Pacific and North American plate
+boundary. Construction of the PBO began in 2003 and lasted until 2008.
+Today, the PBO instruments are being actively maintained by UNAVCO.
+There is a wealth of geodetic data collected by the PBO, and
+geophysicists have been using the data to refine our understanding of
+tectonic and volcanic processes.
 
 In this dissertation I study transient deformation associated with
 tectonic processes, such as postseismic deformation and slow slip
@@ -101,7 +101,15 @@ deformation. Chapters 5, 6, and 7 are data-based, where I am mostly
 focused on assessing the noise in geodetic data and detecting
 transient geophysical signal.
 
-\section{Postseismic and Interseismic deformation}
+\section{Transient Deformation Mechanisms}
+My focus is on transient ground deformation associated with tectonic
+processes. Specifically, I will consider postseismic deformation,
+interseismic deformation, and slow slip events. Transient deformation
+resulting from volcanic, seasonal, or anthropogenic processes will
+either be ignored or considered noise. The following sections discuss
+the processes considered in this dissertation.
+
+\subsection{Postseismic and Interseismic deformation}
 
 Consider a simple model where an elastic layer, representing the
 lithosphere, is overlying a viscous substrate, representing the
@@ -134,7 +142,7 @@ Thatcher1975}. These geodetic techniques detected deformation to
 within an accuracy of a few centimeters and at sampling intervals on
 the order of years. 
 
-\section{Slow slip events}
+\subsection{Slow Slip Events}
 
 \section{Outline}
 Chapter 2 presents a theoretical discussion on what can and cannot be

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.22)  1 SEP 2017 14:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.22)  5 SEP 2017 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,17 +456,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [3
 
 ] [4]
-Overfull \hbox (2.03766pt too wide) detected at line 72
+Overfull \hbox (2.03766pt too wide) detected at line 73
  \OT1/cmr/bx/n/12 111
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 78
+Overfull \hbox (2.03766pt too wide) detected at line 79
  \OT1/cmr/bx/n/12 128
  []
 
 
-Overfull \hbox (2.03766pt too wide) detected at line 82
+Overfull \hbox (2.03766pt too wide) detected at line 83
  \OT1/cmr/bx/n/12 131
  []
 
@@ -511,13 +511,14 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <7> not available
 <schematic.pdf, id=55, 252.953pt x 137.94795pt>
 File: schematic.pdf Graphic file (type pdf)
  <use schematic.pdf>
-Package pdftex.def Info: schematic.pdf used on input line 122.
+Package pdftex.def Info: schematic.pdf used on input line 130.
 (pdftex.def)             Requested size: 252.95238pt x 137.9476pt.
- [3 <./schematic.pdf>] [4] [5]
+ [3]
+[4 <./schematic.pdf>] [5]
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 237.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 245.
 
-Overfull \hbox (36.24068pt too wide) in paragraph at lines 237--238
+Overfull \hbox (36.24068pt too wide) in paragraph at lines 245--246
 \OT1/cmr/m/n/12 in-ter-seis-mic de-for-ma-tion. Geo-phys-i-cal Re-search Let-te
 rs, 40, 4260--4265, doi:10.1002/grl.50839.
  []
@@ -1344,7 +1345,7 @@ f-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist
 /type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb>
-Output written on dissertation.pdf (159 pages, 25299954 bytes).
+Output written on dissertation.pdf (159 pages, 25300470 bytes).
 PDF statistics:
  84406 PDF objects out of 95282 (max. 8388607)
  55488 compressed objects within 555 object streams
