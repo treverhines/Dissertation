@@ -1,4 +1,4 @@
-\begin{thebibliography}{175}
+\begin{thebibliography}{176}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -905,6 +905,12 @@ Segall, P. (2010), \textit{{Earthquake and volcano deformation}}, Princeton
 \bibitem[{\textit{Segall and Mathews}(1997)}]{Segall1997}
 Segall, P., and M.~Mathews (1997), {Time dependent inversion of geodetic data},
   \textit{Journal of Geophysical Research}, \textit{102}(B10), 22,391--22,409.
+
+\bibitem[{\textit{Shen et~al.}(1994)\textit{Shen, Jackson, and
+  Feng}}]{Shen1994}
+Shen, Z., D.~Jackson, and Y.~Feng (1994), {Postseismic deformation following
+  the Landers earthquake, California, 28 June 1992}, \textit{Bulletin of the
+  {\ldots}}, \textit{84}(3), 780--791, \doi{10.1029/97JB00210}.
 
 \bibitem[{\textit{Shen et~al.}(2015)\textit{Shen, Wang, Zeng, and
   Wang}}]{Shen2015}

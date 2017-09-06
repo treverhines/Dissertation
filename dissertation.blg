@@ -13,11 +13,11 @@ A level-1 auxiliary file: ch6/ch6.aux
 A level-1 auxiliary file: conclusion.aux
 The style file: agu04.bst
 Database file #1: refs.bib
-Repeated entry---line 598 of file refs.bib
+Repeated entry---line 5559 of file refs.bib
  : @article{Feigl2006
  :                   ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1663 of file refs.bib
+Repeated entry---line 5810 of file refs.bib
  : @article{Burgmann2002
  :                      ,
 I'm skipping whatever remains of this entry
@@ -26,45 +26,45 @@ Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 175 entries,
+You've used 176 entries,
             3098 wiz_defined-function locations,
-            2245 strings with 44523 characters,
-and the built_in function-call counts, 181888 in all, are:
-= -- 21161
-> -- 5990
+            2253 strings with 44716 characters,
+and the built_in function-call counts, 183057 in all, are:
+= -- 21301
+> -- 6028
 < -- 103
-+ -- 3395
-- -- 1434
-* -- 11441
-:= -- 15871
-add.period$ -- 175
-call.type$ -- 175
-change.case$ -- 993
-chr.to.int$ -- 169
-cite$ -- 529
-duplicate$ -- 19390
-empty$ -- 9721
-format.name$ -- 1995
-if$ -- 36630
++ -- 3417
+- -- 1443
+* -- 11516
+:= -- 15969
+add.period$ -- 176
+call.type$ -- 176
+change.case$ -- 999
+chr.to.int$ -- 170
+cite$ -- 532
+duplicate$ -- 19516
+empty$ -- 9781
+format.name$ -- 2007
+if$ -- 36865
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 1859
-newline$ -- 532
-num.names$ -- 700
-pop$ -- 7669
+missing$ -- 1870
+newline$ -- 535
+num.names$ -- 704
+pop$ -- 7726
 preamble$ -- 1
-purify$ -- 823
+purify$ -- 828
 quote$ -- 0
-skip$ -- 11890
+skip$ -- 11960
 stack$ -- 0
-substring$ -- 7740
-swap$ -- 16897
+substring$ -- 7792
+swap$ -- 17010
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1548
+type$ -- 1557
 warning$ -- 4
-while$ -- 980
+while$ -- 986
 width$ -- 0
-write$ -- 2058
+write$ -- 2070
 (There were 2 error messages)
