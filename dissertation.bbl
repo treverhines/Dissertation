@@ -1,4 +1,4 @@
-\begin{thebibliography}{176}
+\begin{thebibliography}{177}
 \providecommand{\natexlab}[1]{#1}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
@@ -256,6 +256,11 @@ Fl{\"{u}}gge, W. (1975), \textit{{Viscoelasticity}}, Springer-Verlag Berlin
 Freed, A.~M. (2007), {Afterslip (and only afterslip) following the 2004
   Parkfield, California, earthquake}, \textit{Geophysical Research Letters},
   \textit{34}, 1--5, \doi{10.1029/2006GL029155}.
+
+\bibitem[{\textit{Freed and B{\"{u}}rgmann}(2004)}]{Freed2004}
+Freed, A.~M., and R.~B{\"{u}}rgmann (2004), {Evidence of power-law flow in the
+  Mojave desert mantle.}, \textit{Nature}, \textit{430}(6999), 548--551,
+  \doi{10.1038/nature02784}.
 
 \bibitem[{\textit{Freed and Lin}(2001)}]{Freed2001}
 Freed, a.~M., and J.~Lin (2001), {Delayed triggering of the 1999 Hector Mine
