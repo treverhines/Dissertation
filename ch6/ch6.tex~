@@ -2,32 +2,35 @@
 strainmeter data with GNSS derived strain}
 
 \section{Introduction}
-The Plate Boundary Observatory (PBO) contains 82 borehole strain
-meters (BSMs), most of which are installed along the western United
-States. BSMs are able to detect geophysical processes such as
-coseismic and postseismic deformation
-\citep[e.g.,][]{Langbein2006,Langbein2015}, slow slip events (SSEs)
+
+The Plate Boundary Observatory (PBO), operated by UNAVCO, contains 82
+borehole strain meters (BSMs), most of which were installed along the
+western United States. BSMs have been used to study geophysical
+processes such as coseismic and postseismic deformation
+\citep[e.g.,][]{Langbein2006, Langbein2015}, slow slip events (SSEs)
 \citep[e.g.,][]{Dragert2011}, and seismic wave propagation
 \citep{Barbour2017}. BSMs are intended for measuring deformation over
 timescales of minutes to months. At longer timescales, BSM data is
 contaminated by factors such as borehole relaxation
-\citep{Gladwin1987}. SSEs and postseismic deformation occur on
-timescales that near the upper limit of what BSMs can be expected to
-resolve. Another complication with BSM data is that the strain
-measured at the borehole may deviate from the regional strain due to
-local topographic or geologic features \citep{Berger1976}. Due to
-these sources of noise, it can be difficult to use BSM data
-quantitatively in, for example, geophysical inverse problems. In this
-study, we assess the ability of BSMs to measure strain resulting from
-SSEs on the Cascadia subduction zone. This is done by comparing BSM
-data to strain derived from GNSS data.
+\citep{Gladwin1987}. SSEs and postseismic deformation occur over
+timescales that are near the upper limit of what BSMs can be expected to
+resolve. It is then important to understand the noise in BSM data
+before using it to study these longer-lasting geophysical processes.
+Another complication with BSM data is that the strain measured at the
+borehole may deviate from the regional (10's of km) strain due to local
+topographic or geologic features \citep{Berger1976}. Due to these
+sources of noise, it can be difficult to use BSM data quantitatively
+in, for example, geophysical inverse problems. In this study, we
+assess the ability of BSMs to measure strain resulting from SSEs on
+the Cascadia subduction zone. This is done by comparing BSM data to
+strain derived from GNSS data.
 
 \begin{figure}
 \includegraphics{ch6/figures/map.pdf}
 \caption
 [Location of BSM and GNSS stations used in this study]
 {Location of BSM and GNSS stations used in this study.}   
-\label{fig:Map}
+\label{ch6:fig:Map}
 \end{figure}
 
 \section{BSM Data}
@@ -70,7 +73,7 @@ $\varepsilon_s$ for comparing BSM data to GNSS derived strains. Using
 $\theta_0$ to denote the orientation of gauge 0, in degrees north of
 east, these strain components can be expressed in terms of the gauge
 measurements through the equation
-\begin{equation}\label{eq:GaugeToStrain}
+\begin{equation}\label{ch6:eq:GaugeToStrain}
 \left[\begin{array}{c}
 \varepsilon_a \\
 \varepsilon_d \\
@@ -97,7 +100,7 @@ $\varepsilon_a$, $\varepsilon_d$, and $\varepsilon_s$ represent
 crustal strains, and $e_i$ are instrument strains. We assume that BSMs
 are installed in homogeneous, isotropic rock, allowing us to write the
 coupling matrix as
-\begin{equation}\label{eq:CouplingMatrix}
+\begin{equation}\label{ch6:eq:CouplingMatrix}
 \mathbf{K} = 
 \left[\begin{array}{ccc}
 c & 0 & 0 \\
@@ -139,7 +142,7 @@ We compare the BSM strain components to transient strains estimated
 from GNSS data. Here we consider transient strains to be any deviation
 from the secular strain rate.  We use daily GNSS displacement
 solutions for 94 continuous GNSS stations in the Pacific Northwest
-(Figure \ref{fig:Map}). This data has also been made available through
+(Figure \ref{ch6:fig:Map}). This data has also been made available through
 UNAVCO. We convert the GNSS data to transient strains using Gaussian
 process regression (GPR) as described in \citet{Hines2017a}. With GPR,
 we select a prior spatio-temporal covariance model for the geophysical
@@ -150,11 +153,11 @@ zero mean, and covariance function described by
 C_u((t,x),(t',x')) = \phi^2 T(t,t')X(x,x'),
 \end{equation}        
 where $T$ is the Wendland covariance function
-\begin{equation}\label{eq:Wendland}
+\begin{equation}\label{ch6:eq:Wendland}
 T(t,t') = \left(1 - \frac{|t - t'|}{\tau}\right)^5_+ \left(\frac{8|t - t'|^2}{\tau^2} + \frac{5|t - t'|}{\tau} + 1\right), 
 \end{equation}
 and $X$ is the squared exponential covariance function
-\begin{equation}\label{eq:SE}
+\begin{equation}\label{ch6:eq:SE}
 X(\vec{x},\vec{x}') = \exp\left(\frac{-||\vec{x} - \vec{x}'||_2^2}{2 \ell^2}\right).
 \end{equation}
 The hyperparameters $\phi$, $\tau$, and $\ell$ control the amplitude,
@@ -186,7 +189,7 @@ the one standard deviation confidence interval. The dotted line for
 station B018 shows the BSM data using the optimal instrument
 orientation. The shown BSM data has been detrended by estimating and
 removing a second-order polynomial from each timeseries.}
-\label{fig:SSE1}
+\label{ch6:fig:SSE1}
 \end{figure}
 
 \section{Results}
@@ -194,9 +197,9 @@ We compare the BSM data to GNSS derived strains for eight SSEs in the
 Puget Sound region. The earliest SSE considered occurred in spring
 2009 and the latest SSE occurred in winter 2017. The two datasets are
 in best agreement for the summer 2010 SSE, which is shown in Figure
-\ref{fig:SSE1}. The data for the remaining SSEs are included at the
-end of this manuscript in Figures \ref{fig:SSE0} through
-\ref{fig:SSE7}. We only show the differential and engineering shear
+\ref{ch6:fig:SSE1}. The data for the remaining SSEs are included at the
+end of this manuscript in Figures \ref{ch6:fig:SSE0} through
+\ref{ch6:fig:SSE7}. We only show the differential and engineering shear
 strains because there is no clear signal in the areal strain for
 either the GNSS derived strains or the BSM data. \citet{Roeloffs2010}
 also expressed doubt in the areal strains measured at stations B003,
@@ -251,7 +254,7 @@ local features.
 station B018. The shaded blue regions indicate the one standard
 deviation confidence interval. The shaded gray regions indicate times
 of strain drops, which are the result of SSEs.}
-\label{fig:Gnss}
+\label{ch6:fig:Gnss}
 \end{figure}
 
 \begin{figure}
@@ -259,8 +262,8 @@ of strain drops, which are the result of SSEs.}
 \caption
 [Gauge readings at station B018]
 {Gauge readings at station B018. The gray shaded regions
-indicate times of strain drops from Figure \ref{fig:Gnss}.}
-\label{fig:Gauge}
+indicate times of strain drops from Figure \ref{ch6:fig:Gnss}.}
+\label{ch6:fig:Gauge}
 \end{figure}
 
 \begin{figure}
@@ -268,10 +271,10 @@ indicate times of strain drops from Figure \ref{fig:Gnss}.}
 \caption
 [GNSS and BSM strain dropts at station B018]
 {GNSS derived strain drops at station B018 during the 11
-events identified in Figure \ref{fig:Gnss} (blue dots), BSM strain
+events identified in Figure \ref{ch6:fig:Gnss} (blue dots), BSM strain
 drops using the recorded orientation for B018 (orange dots), and BSM
 strain drops using the optimal orientation for B018 (green dots).}
-\label{fig:Fit}
+\label{ch6:fig:Fit}
 \end{figure}
 
 \begin{figure}
@@ -281,7 +284,7 @@ strain drops using the optimal orientation for B018 (green dots).}
 B018]
 {Misfit as a function of instrument orientation for station
 B018.}
-\label{fig:Misfit}
+\label{ch6:fig:Misfit}
 \end{figure}
 
 The differential and engineering shear strains recorded at station
@@ -296,20 +299,20 @@ find the value for $\theta_0$ that causes the strain drops (or
 increases) recorded at B018 to best match the strain drops derived
 from GNSS data. We identify 11 strain drops in the GNSS derived
 strains, which are due to SSEs in the Puget Sound region and in Oregon
-(Figure \ref{fig:Gnss}). We define strain drops as the total strain
+(Figure \ref{ch6:fig:Gnss}). We define strain drops as the total strain
 change over the hand-selected intervals shown in Figure
-\ref{fig:Gnss}. The strain drops for each event are shown in Figure
-\ref{fig:Fit}. For each tested $\theta_0$, we use eq.
-(\ref{eq:GaugeToStrain}) to convert the strain drops recorded at each
-gauge (Figure \ref{fig:Gauge}) to the differential and engineering
+\ref{ch6:fig:Gnss}. The strain drops for each event are shown in Figure
+\ref{ch6:fig:Fit}. For each tested $\theta_0$, we use eq.
+(\ref{ch6:eq:GaugeToStrain}) to convert the strain drops recorded at each
+gauge (Figure \ref{ch6:fig:Gauge}) to the differential and engineering
 shear strain drops. We then use the L2 norm of the residuals, the
 difference between the BSM strain drops and the GNSS derived strain
 drops, as the misfit metric. We find an optimal value of $\theta_0$ to
 be $293^\circ$ east of north, which can be compared to the recorded
-value of $267^\circ$ (Figure \ref{fig:Misfit}). With the new
+value of $267^\circ$ (Figure \ref{ch6:fig:Misfit}). With the new
 orientation, the engineering shear strain recorded at B018 decreases
 during the summer 2010 SSE, which is now consistent with the GNSS data
-(Figure \ref{fig:SSE1}). The differential strains at B018 are roughly
+(Figure \ref{ch6:fig:SSE1}). The differential strains at B018 are roughly
 consistent with the GNSS derived strains, regardless of whether the
 recorded $\theta_0$ or optimal $\theta_0$ is used.
 
@@ -334,56 +337,56 @@ when attempting to use BSM data to describe regional strains.
 \includegraphics{ch6/figures/SSE0.pdf}
 \caption
 [BSM and GNSS derived strains for the spring 2009 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the spring 2009 SSE.}   
-\label{fig:SSE0}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the spring 2009 SSE.}   
+\label{ch6:fig:SSE0}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE2.pdf}
 \caption
 [BSM and GNSS derived strains for the summer 2011 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the summer 2011 SSE.}   
-\label{fig:SSE2}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the summer 2011 SSE.}   
+\label{ch6:fig:SSE2}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE3.pdf}
 \caption
 [BSM and GNSS derived strains for the summer 2012 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the summer 2012 SSE.}   
-\label{fig:SSE3}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the summer 2012 SSE.}   
+\label{ch6:fig:SSE3}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE4.pdf}
 \caption
 [BSM and GNSS derived strains for the fall 2013 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the fall 2013 SSE.}   
-\label{fig:SSE4}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the fall 2013 SSE.}   
+\label{ch6:fig:SSE4}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE5.pdf}
 \caption
 [BSM and GNSS derived strains for the fall 2014 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the fall 2014 SSE.}   
-\label{fig:SSE5}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the fall 2014 SSE.}   
+\label{ch6:fig:SSE5}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE6.pdf}
 \caption
 [BSM and GNSS derived strains for the winter 2015-2016 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the winter 2015-2016 SSE.}   
-\label{fig:SSE6}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the winter 2015-2016 SSE.}   
+\label{ch6:fig:SSE6}
 \end{figure}
 
 \begin{figure}
 \includegraphics{ch6/figures/SSE7.pdf}
 \caption
 [BSM and GNSS derived strains for the winter 2017 SSE]
-{Same as Figure \ref{fig:SSE1}, but for the winter 2017 SSE.}   
-\label{fig:SSE7}
+{Same as Figure \ref{ch6:fig:SSE1}, but for the winter 2017 SSE.}   
+\label{ch6:fig:SSE7}
 \end{figure}
 
 %\bibliographystyle{agu04}

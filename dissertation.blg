@@ -26,45 +26,45 @@ Warning--missing publisher in Aster2011
 Warning--missing institution in Lisowski2008
 Warning--empty journal in Wdowinski1997
 Warning--missing publisher in Wendland2005
-You've used 177 entries,
+You've used 179 entries,
             3098 wiz_defined-function locations,
-            2263 strings with 45069 characters,
-and the built_in function-call counts, 184623 in all, are:
-= -- 21452
-> -- 6158
-< -- 102
-+ -- 3479
-- -- 1473
-* -- 11642
-:= -- 16118
-add.period$ -- 177
-call.type$ -- 177
-change.case$ -- 1012
-chr.to.int$ -- 171
-cite$ -- 535
-duplicate$ -- 19640
-empty$ -- 9841
-format.name$ -- 2044
-if$ -- 37178
+            2276 strings with 45393 characters,
+and the built_in function-call counts, 186577 in all, are:
+= -- 21686
+> -- 6208
+< -- 104
++ -- 3508
+- -- 1485
+* -- 11766
+:= -- 16285
+add.period$ -- 179
+call.type$ -- 179
+change.case$ -- 1022
+chr.to.int$ -- 173
+cite$ -- 541
+duplicate$ -- 19855
+empty$ -- 9949
+format.name$ -- 2066
+if$ -- 37570
 int.to.chr$ -- 7
 int.to.str$ -- 1
-missing$ -- 1889
-newline$ -- 538
-num.names$ -- 708
-pop$ -- 7795
+missing$ -- 1909
+newline$ -- 544
+num.names$ -- 716
+pop$ -- 7866
 preamble$ -- 1
-purify$ -- 840
+purify$ -- 848
 quote$ -- 0
-skip$ -- 12053
+skip$ -- 12187
 stack$ -- 0
-substring$ -- 7825
-swap$ -- 17118
+substring$ -- 7911
+swap$ -- 17308
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1566
+type$ -- 1584
 warning$ -- 4
-while$ -- 991
+while$ -- 1003
 width$ -- 0
-write$ -- 2082
+write$ -- 2106
 (There were 2 error messages)
