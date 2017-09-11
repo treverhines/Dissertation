@@ -475,11 +475,6 @@ J{\'{o}}nsson, S., P.~Segall, R.~Pedersen, and G.~Bjornsson (2003),
   {Post-earthquake ground movements correlated to pore-pressure transients},
   \textit{Nature}, \textit{424}, 179--183, \doi{10.1038/nature01758.1.}
 
-\bibitem[{\textit{Kanamori}(1973)}]{Kanamori1973}
-Kanamori, H. (1973), {Mode of Strain Release Associated with Major Earthquakes
-  in Japan}, \textit{Annual Review of Earth and Planetary Sciences}, pp.
-  213--239, \doi{10.1146/annurev.ea.01.050173.001241}.
-
 \bibitem[{\textit{Kato et~al.}(1998)\textit{Kato, El-Fiky, Oware, and
   Miyazaki}}]{Kato1998}
 Kato, T., G.~S. El-Fiky, E.~N. Oware, and S.~Miyazaki (1998), {Crustal strains
@@ -716,6 +711,14 @@ Oskin, M.~E., et~al. (2012), {Near-field deformation from the El Mayor-Cucapah
   earthquake revealed by differential LIDAR}, \textit{Science},
   \textit{335}(6069), 702--705, \doi{10.1126/science.1213778}.
 
+\bibitem[{\textit{Owen et~al.}(2002)\textit{Owen, Anderson, Agnew, Johnson,
+  Hurst, Reilinger, Shen, Svarc, and Baker}}]{Owen2002}
+Owen, S., G.~Anderson, D.~C. Agnew, H.~Johnson, K.~Hurst, R.~Reilinger, Z.~K.
+  Shen, J.~Svarc, and T.~Baker (2002), {Early Postseismic Deformation from the
+  16 October 1999 Mw 7.1 Hector Mine, California, Earthquake as Measured by
+  Survey-Mode GPS}, \textit{Bulletin of the Seismological Society of America},
+  \textit{92}(May), 1423--1432.
+
 \bibitem[{\textit{Papoulis}(1991)}]{Papoulis1991}
 Papoulis, A. (1991), \textit{{Probability, Random Variables, and Stochastic
   Processes}}, 3 ed., McGraw-Hill, New York.
@@ -903,6 +906,11 @@ Schmidt, D.~A., and H.~Gao (2010), {Source parameters and time-dependent slip
   to 2008}, \textit{Journal of Geophysical Research: Solid Earth},
   \textit{115}(4), 1--13, \doi{10.1029/2008JB006045}.
 
+\bibitem[{\textit{Segall}(2002)}]{Segall2002}
+Segall, P. (2002), {Integrating Geologic and Geodetic Estimates of Slip Rate on
+  the San Andreas Fault System}, \textit{International Geology Review},
+  \textit{44}(1), 62--82, \doi{10.2747/0020-6814.44.1.62}.
+
 \bibitem[{\textit{Segall}(2010)}]{Segall2010}
 Segall, P. (2010), \textit{{Earthquake and volcano deformation}}, Princeton
   University Press, Princeton, NJ.
@@ -949,11 +957,6 @@ Tape, C., P.~Mus{\'{e}}, M.~Simons, D.~Dong, and F.~Webb (2009), {Multiscale
   estimation of GPS velocity fields}, \textit{Geophysical Journal
   International}, \textit{179}(2), 945--971,
   \doi{10.1111/j.1365-246X.2009.04337.x}.
-
-\bibitem[{\textit{Thatcher}(1975)}]{Thatcher1975}
-Thatcher, W. (1975), {Strain accumulation and release mechanism of the 1906 San
-  Francisco Earthquake}, \textit{Journal of Geophysical Research},
-  \textit{80}(35), 4862--4872.
 
 \bibitem[{\textit{Thatcher}(1983)}]{Thatcher1983}
 Thatcher, W. (1983), {Nonlinear Strain Buildup and the Earthquake Cycle on the

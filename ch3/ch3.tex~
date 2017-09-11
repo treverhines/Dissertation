@@ -1252,7 +1252,7 @@ resulting from fault slip and the viscoelastic component is the
 deformation resulting from viscoelastic relaxation of stresses induced
 by the fault slip. The elastic and viscoelastic components are
 calculated from the first and second terms in eq.
-(\label{GeneralForward}), respectively.  The vertical elastic
+(\ref{GeneralForward}), respectively.  The vertical elastic
 component is shown as an interpolated field and the vertical
 viscoelastic component is shown within the green circles.}
 \label{ch3:fig:S3}
