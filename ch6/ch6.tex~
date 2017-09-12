@@ -10,20 +10,18 @@ processes such as coseismic and postseismic deformation
 \citep[e.g.,][]{Langbein2006, Langbein2015}, slow slip events (SSEs)
 \citep[e.g.,][]{Dragert2011}, and seismic wave propagation
 \citep{Barbour2017}. BSMs are intended for measuring deformation over
-timescales of minutes to months. At longer timescales, BSM data is
+timescales of seconds to months. At longer timescales, BSM data is
 contaminated by factors such as borehole relaxation
-\citep{Gladwin1987}. SSEs and postseismic deformation occur over
-timescales that are near the upper limit of what BSMs can be expected to
-resolve. It is then important to understand the noise in BSM data
-before using it to study these longer-lasting geophysical processes.
-Another complication with BSM data is that the strain measured at the
-borehole may deviate from the regional (10's of km) strain due to local
-topographic or geologic features \citep{Berger1976}. Due to these
-sources of noise, it can be difficult to use BSM data quantitatively
-in, for example, geophysical inverse problems. In this study, we
-assess the ability of BSMs to measure strain resulting from SSEs on
-the Cascadia subduction zone. This is done by comparing BSM data to
-strain derived from GNSS data.
+\citep{Gladwin1987}. The amplitude and timescale of strain resulting
+from SSEs and postseismic deformation are near the limit of what BSMs
+can be expected to resolve. It is then important to understand the
+noise in BSM data before using it to study these geophysical
+processes. Another complication with BSM data is that the strain
+measured at the borehole may deviate from the regional (10's of km)
+strain due to local topographic or geologic features
+\citep{Berger1976}. In this study, we assess the ability of BSMs to
+measure strain resulting from SSEs on the Cascadia subduction zone.
+This is done by comparing BSM data to strain derived from GNSS data.
 
 \begin{figure}
 \includegraphics{ch6/figures/map.pdf}
@@ -34,6 +32,7 @@ strain derived from GNSS data.
 \end{figure}
 
 \section{BSM Data}
+
 The are about forty PBO BSMs in the Pacific Northwest, and only five
 of them, B003, B004, B005, B007, and B018, record noticeable
 deformation from SSEs. We limit our attention to these five station in
@@ -41,24 +40,26 @@ this study.  The remaining stations either contain too much noise on
 the timescale of SSEs or are too far away from the SSEs to observe any
 strain. Each of the PBO BSMs are Gladwin four-component tensor
 strainmeters, which are about 2 m long, 8.7 cm in diameter, and are
-installed at about 100 to 200 m depth. Each BSM contains four
+installed at depths of about 100 to 200 m. Each BSM contains four
 extensometers, or gauges. Only three gauges are necessary to
 completely determine the horizontal strain tensor, and the fourth
 gauge is included for redundancy. Gauges 1, 2, and 3 are oriented
 $60^\circ$, $120^\circ$, and $150^\circ$ counterclockwise from gauge
-0.
+0. The orientation of gauge 0 is recorded by a magnetic compass on the
+instrument.
 
 We use the level 2 gauge data provided by UNAVCO at www.unavco.org,
 which has undergone several post-processing steps. In the level 2
-gauge data a borehole curing trend is estimated and removed by fitting
-two exponential terms and a linear trend to the data. The level 2 data
-is corrected for tidal strains by estimating and removing sinusoids
-with known tidal frequencies. There is also a correction for
-barometric pressure because the normal stress imposed on the surface
-by barometric pressure results in horizontal strains recorded by the
-BSM. The barometric pressure correction is the observed barometric
-pressure at each site multiplied by a best fitting scaling factor.
-Lastly, offsets have been removed in the level 2 data product.
+gauge data, a borehole curing trend is removed by estimating and
+subtracting two exponential terms and a linear trend. Tidal strains
+are removed by estimating and subtracting sinusoids with known tidal
+frequencies. There is also a correction for barometric pressure
+because the normal stress imposed on the surface by barometric
+pressure results in horizontal strains recorded by the BSM. The
+barometric pressure correction is the observed barometric pressure at
+each site multiplied by a best fitting scaling factor. Lastly,
+spurious offsets and outliers have been identified and removed in the
+level 2 data product.
 
 We denote the extension measured at gauge $i$ as $e_i$, and the
 horizontal strain tensor components as $\varepsilon_{xx}$,
@@ -93,12 +94,16 @@ e_2 \\
 e_3 \\
 \end{array}\right],
 \end{equation} 
+
 where ``$+$" indicates the Moore-Penrose pseudoinverse and
 $\mathbf{K}$ is a coupling matrix describing how the instrument
 strains relate to the crustal strains \citep{Hart1996}. The components
 $\varepsilon_a$, $\varepsilon_d$, and $\varepsilon_s$ represent
-crustal strains, and $e_i$ are instrument strains. We assume that BSMs
-are installed in homogeneous, isotropic rock, allowing us to write the
+crustal strains, and $e_i$ are instrument strains. We use a
+pseudoinverse in eq. (\ref{ch6:eq:GaugeToStrain}) because we have four
+gauge measurements, and the three strain components are
+overdetermined. Following \citet{Gladwin1985}, we assume that BSMs are
+installed in homogeneous, isotropic rock, allowing us to write the
 coupling matrix as
 \begin{equation}\label{ch6:eq:CouplingMatrix}
 \mathbf{K} = 
@@ -109,11 +114,9 @@ c & 0 & 0 \\
 \end{array}\right],
 \end{equation}  
 where $c$, and $d$ are response factors that depend on the elastic
-properties of the instrument, the grout, and surrounding rock
-\citep{Gladwin1985}. Based on the analysis of \citet{Gladwin1985}, we
-use $c=1.5$ and $d=3.0$. UNAVCO, the organization responsible for
-maintaining the PBO BSMs and disseminating their data, use these same
-response factors for their final data products.
+properties of the instrument, the grout, and surrounding rock. Based
+on the analysis of \citet{Gladwin1985}, we use $c=1.5$ and $d=3.0$.
+UNAVCO uses these same response factors for their final data products.
 
 Local topographic or geologic features can cause $\mathbf{K}$ to have
 non-zero off diagonal elements. If possible, the components of
@@ -132,10 +135,10 @@ stations considered in this paper are too close to the Straight of
 Juan de Fuca to be accurately calibrated with tidal strains. Since
 in-situ calibration is not possible, we note that our choice for
 $\mathbf{K}$ is likely to be a significant source of error in BSM
-data. Another potential source of error is the assumed orientation for
-$\theta_0$. This orientation is determined by a compass on the
-instrument, and it is possible that magnetic minerals in the
-surrounding rock can give the compass an incorrect reading.
+data. Another potential source of error is the orientation for
+$\theta_0$. It is possible that magnetic minerals in the surrounding
+rock can give the compass used to orient the instrument an incorrect
+reading.
 
 \section{GNSS derived strain}
 We compare the BSM strain components to transient strains estimated
@@ -166,7 +169,7 @@ prior, respectively. \citet{Hines2017a} found that the optimal
 hyperparameters for describing displacements from SSEs are roughly
 $\phi =$ 0.5 mm, $\tau =$ 0.1 yr, and $\ell =$ 100 km. These
 parameters were chosen objectively using maximum likelihood methods;
-however based on our experience, this prior may not be sufficiently
+however, based on our experience, this prior may not be sufficiently
 flexible to described all the observed data. Consequently, we explore
 using lower values for $\tau$ and $\ell$ and a higher value for
 $\phi$. For each tested set of hyperparameters, we condition the prior
