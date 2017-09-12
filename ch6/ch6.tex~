@@ -2,7 +2,6 @@
 strainmeter data with GNSS derived strain}
 
 \section{Introduction}
-
 The Plate Boundary Observatory (PBO), operated by UNAVCO, contains 82
 borehole strain meters (BSMs), most of which were installed along the
 western United States. BSMs have been used to study geophysical
@@ -17,11 +16,11 @@ from SSEs and postseismic deformation are near the limit of what BSMs
 can be expected to resolve. It is then important to understand the
 noise in BSM data before using it to study these geophysical
 processes. Another complication with BSM data is that the strain
-measured at the borehole may deviate from the regional (10's of km)
-strain due to local topographic or geologic features
-\citep{Berger1976}. In this study, we assess the ability of BSMs to
-measure strain resulting from SSEs on the Cascadia subduction zone.
-This is done by comparing BSM data to strain derived from GNSS data.
+measured at the borehole may deviate from the regional strain due to
+local topographic or geologic features \citep{Berger1976}. In this
+study, we assess the ability of BSMs to measure strain resulting from
+SSEs on the Cascadia subduction zone. This is done by comparing BSM
+data to strain derived from GNSS data.
 
 \begin{figure}
 \includegraphics{ch6/figures/map.pdf}
@@ -32,7 +31,6 @@ This is done by comparing BSM data to strain derived from GNSS data.
 \end{figure}
 
 \section{BSM Data}
-
 The are about forty PBO BSMs in the Pacific Northwest, and only five
 of them, B003, B004, B005, B007, and B018, record noticeable
 deformation from SSEs. We limit our attention to these five station in
@@ -94,7 +92,6 @@ e_2 \\
 e_3 \\
 \end{array}\right],
 \end{equation} 
-
 where ``$+$" indicates the Moore-Penrose pseudoinverse and
 $\mathbf{K}$ is a coupling matrix describing how the instrument
 strains relate to the crustal strains \citep{Hart1996}. The components
