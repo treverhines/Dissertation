@@ -32,7 +32,7 @@ by engineers for designing buildings, and it is used by the California
 Earthquake Authority for determining earthquake insurance rates.
 
 In constraining UCERF3, it is assumed that strain is building up on
-the San Andreas Fault system at a constant rate over time. However,
+the San Andreas fault system at a constant rate over time. However,
 time-dependent, or transient, deformation around fault zones is a
 frequently observed phenomena that casts doubt into this assumption
 \citep{Thatcher1983}. By better understanding transient deformation
@@ -75,8 +75,8 @@ The recently installed Plate Boundary Observatory (PBO) has
 substantially improved our ability to resolve transient deformation in
 the western United States, which is where I am primarily focused in
 this dissertation. The PBO consists of about 1100 continuously
-operating GNSS stations and about 80 borehole strainmeters (BSMs),
-which have been placed along boundary between the Pacific and North
+operating GNSS stations and about 80 borehole strainmeters (BSMs) that
+have been placed along the boundary between the Pacific and North
 American plate. Construction of the PBO began in 2003 and lasted until
 2008. Today, the PBO instruments are being actively maintained by
 UNAVCO. There is a wealth of geodetic data collected by the PBO, and
@@ -100,7 +100,6 @@ either be ignored or considered noise. The following sections further
 discuss the processes considered in this dissertation.
 
 \subsection{Postseismic deformation}
-
 Postseismic deformation is the anomalously rapid ground deformation
 observed after large earthquakes (M${\gtrsim}$6). Geodetic
 observations made after the 1966 Parkfield earthquake provided one of
@@ -112,14 +111,13 @@ the locked segment in southern California, which last ruptured in the
 M6 earthquakes since 1857, and has consequently received much
 attention from geophysicists. In the months after the 1966 earthquake,
 \citet{Smith1968} observed 20 cm of ground displacements across the
-San Andreas fault near the epicenter, which far exceeded the
-displacements across the fault during the earthquake. The postseismic
-deformation was most rapid (about 1 cm/day) immediately after the
-earthquake and decayed logarithmically over time. The observed
-deformation was localized to within tens of meters of the San Andreas
-fault trace, which allowed \citet{Smith1968} to unambiguously conclude
-that the postseismic deformation was primarily the result of aseismic
-fault slip, referred to as afterslip (Figure \ref{intro:fig:1}).
+San Andreas fault near the epicenter. The postseismic deformation was
+most rapid (about 1 cm/day) immediately after the earthquake and
+decayed logarithmically over time. The observed deformation was
+localized to within tens of meters of the San Andreas fault trace,
+which allowed \citet{Smith1968} to unambiguously conclude that the
+postseismic deformation was primarily the result of aseismic fault
+slip, referred to as afterslip (Figure \ref{intro:fig:1}).
 Furthermore, it was determined that most of the fault slip during the
 earthquake was at depth and the ensuing afterslip filled in the slip
 deficit at shallower depths. Afterslip has also been used to describe
@@ -166,11 +164,11 @@ schematic illustrates the afterslip model, where aseismic fault slip
 \subsection{Interseismic deformation} 
 For the aforementioned California earthquakes, transient postseismic
 deformation persisted over timescales of months to years. Postseismic
-deformation subsides once the coseismic stresses have been accommodated
+deformation subsides once the coseismic stresses have been dissipated
 through viscous relaxation or afterslip. After that time, ground
 deformation returns to a relatively steady rate. This relatively
 steady deformation is referred to as interseismic deformation. I use
-the term "relatively steady" because interseismic deformation can
+the term ``relatively steady" because interseismic deformation can
 still exhibits transients. For example, \citet{Thatcher1983} observed
 a decay in strain rates across the San Andreas fault that occurred
 over the decades following the The 1906 San Francisco and 1857 Fort
@@ -187,8 +185,8 @@ asthenosphere's rheologic properties, which is unknown.
 \citet{Segall2002} and \citet{Johnson2004} used contemporary
 observations of interseismic deformation in California to constrain
 the rheologic properties of the asthenosphere. They required a strong
-asthenosphere ($10^{19}$ to $10^{20}$ Pa s) in order to explain the
-high interseismic strain rates across the San Andreas fault. The
+asthenosphere ($10^{19}$ to $10^{20}$ Pa s) to sustain the high
+interseismic strain rates observed across the San Andreas fault. The
 viscosities inferred from interseismic deformation are higher than the
 viscosities required to explain postseismic deformation, which are
 generally between $10^{18}$ and $10^{19}$ Pa s \citep{Thatcher2008}.
@@ -198,19 +196,20 @@ asthenosphere.
 
 \subsection{Slow Slip Events} 
 Similar to afterslip, slow slip events (SSEs) are also a type of
-aseismic fault slip; however, SSEs initiate spontaneously without being
-triggered by an earthquake. SSEs tend to occur deep on subduction zone
-interfaces, where the fault transitions from being interseismically
-locked to creeping steadily. SSEs have been observed at several
-subduction zones settings including Cascadia, Alaska, Central America,
-and Japan \citep{Schwartz2007}. In this dissertation, I will focus on
-SSEs in Cascadia, which were first discovered by \citet{Dragert2001}
-from GNSS data. \citet{Dragert2001} inferred that the SSE produced
-about 2 cm of thrust slip over about 20 days on the portion of the
-fault beneath Washington state and Vancouver Island. This area
-experiences an SSE roughly every 14 months. Further south in Oregon,
-SSEs occur about every 20 months. Even further south in Northern
-California, SSEs are observed every 10 months \citep{Brudzinski2007}.
+aseismic fault slip; however, SSEs initiate spontaneously without
+being triggered by an earthquake. SSEs tend to occur deep on
+subduction zone interfaces, where the fault transitions from being
+interseismically locked to creeping steadily. SSEs have been observed
+at several subduction zone settings including Cascadia, Alaska,
+Central America, and Japan \citep{Schwartz2007}. In this dissertation,
+I will focus on SSEs in Cascadia, which were first discovered by
+\citet{Dragert2001} from GNSS data. \citet{Dragert2001} inferred that
+the SSE produced about 2 cm of thrust slip over about 20 days beneath
+Washington state and Vancouver Island. This area experiences an SSE
+roughly every 14 months. Further south in Oregon, SSEs occur about
+every 20 months. Even further south in Northern California, SSEs are
+observed every 10 months \citep{Brudzinski2007}.
+
 SSEs were thought to be completely seismically silent until
 \citet{Rogers2003} observed seismic tremor that was spatially and
 temporally correlated with the SSEs. The Cascadia SSEs were then
@@ -230,38 +229,38 @@ data-based, where I am mostly focused on assessing the noise in
 geodetic data and detecting transient geophysical signal.
 
 Chapter 2 presents a theoretical discussion on resolving the viscosity
-of the crust and upper mantle from interseismic deformation. Several
-studies have inferred from interseismic deformation that the crust
-must be stronger (more viscous) than the upper mantle
+of the lower crust and upper mantle from interseismic deformation.
+Several studies have inferred from interseismic deformation that the
+lower crust must be stronger (more viscous) than the upper mantle
 \citep{Thatcher2008}. In this chapter, I demonstrate that the
 methodology in these studies is inherently biased towards
-overestimating and underestimating the strength of the crust and upper
-mantle, respectively. The bias results from the commonly used
+overestimating and underestimating the strength of the lower crust and
+upper mantle, respectively. The bias results from the commonly used
 simplification that the viscosities are uniform, rather than
 depth-dependent, within the lower crust and upper mantle.
 
-In Chapter 3 and 4, my goal is to infer the lithospheric viscosity and
-distribution of afterslip from observable postseismic deformation.
-Estimating these quantities from postseismic deformation tends to be
-computationally intractable, because it is a nonlinear inverse problem
-that typically requires numerically expensive finite-element modeling.
-In Chapter 3, I present an approximation for the postseismic
-deformation forward problem that can be used to make the inverse
-problem computationally tractable. I demonstrate that my method is
-able to accurately identify the strength of the lithosphere from
-postseismic deformation even if afterslip is obscuring the signal from
-viscous relaxation. In Chapter 4, I apply this method to five years of
-postseismic deformation following the 2010 El Mayor-Cucapah earthquake
-in Baja California. I find that an accelerated rate of deformation can
-be observed several hundred kilometers from the earthquake epicenter.
-While this far reaching deformation is not immediately recognizable in
-the raw GPS data, I am able to extract a coherent signal after using a
-Kalman filter that I developed and describe in this chapter. My
-analysis of this postseismic signal indicates that the far-field
-deformation is best described by a Burgers rheology upper mantle with
-a transient viscosity of about $10^{18}$ Pa s, rather than the more
-commonly employed Maxwell rheology. This is more consistent with
-mantle viscosities determined in other types of geophysical studies
+In Chapters 3 and 4, my goal is to infer the crust and upper mantle
+viscosity and distribution of afterslip from observable postseismic
+deformation. Estimating these quantities from postseismic deformation
+tends to be computationally intractable, because it is a nonlinear
+inverse problem that typically requires numerically expensive finite
+element modeling. In Chapter 3, I present an approximation for the
+postseismic deformation forward problem that can be used to make the
+inverse problem computationally tractable. I demonstrate that my
+method is able to accurately identify the strength of the crust and
+upper mantle from postseismic deformation even if afterslip is
+obscuring the signal from viscous relaxation. In Chapter 4, I apply
+this method to five years of postseismic deformation following the
+2010 El Mayor-Cucapah earthquake in Baja California. I find that
+postseismic deformation can be observed several hundred kilometers
+from the earthquake epicenter. While this far reaching deformation is
+not immediately recognizable in the raw GNSS data, I am able to
+extract a coherent signal after using a Kalman filter that I developed
+and describe in this chapter. My analysis of this postseismic signal
+indicates that the far-field deformation is best described by a
+Burgers rheology upper mantle with a transient viscosity of about
+$10^{18}$ Pa s. My preferred mantle rheology is consistent with mantle
+viscosities determined in other types of geophysical studies
 \citep[e.g.,][]{Crittenden1967,Bills1987}.
 
 Chapter 5 is on quantifying noise in geodetic time series. Although
@@ -271,7 +270,7 @@ transient signal can be identified. I discuss a bias in a commonly
 used method for quantifying noise in geodetic data. This bias tends to
 underestimate the amplitude of noise, which can result in
 underestimated uncertainties for any geophysical parameters derived
-from the data. We demonstrate that the Restricted Maximum Likelihood
+from the data. I demonstrate that the Restricted Maximum Likelihood
 (REML) technique, which was first introduced by \citet{Patterson1971},
 is a better method for characterizing noise in geodetic data.
 
@@ -282,12 +281,12 @@ for the underlying signal being detected \citep[e.g.,][]{Ohtani2010},
 and an improperly chosen parameterization can bias the results. My
 method for detecting transient deformation uses Gaussian process
 regression, where I assume a stochastic prior model for the underlying
-signal. As opposed to a subjectively chosen parametric model, our
+signal. As opposed to a subjectively chosen parametric model, the
 stochastic prior model can be objectively chosen using maximum
 likelihood techniques, such as the REML method discussed in Chapter 5.
-We apply our method to GNSS data from the Pacific Northwest to detect
-transient strain from slow slip events. I verify the accuracy of our
-detection method by comparing our inferred geophysical signal to
+I apply my method to GNSS data from the Pacific Northwest to detect
+transient strain from slow slip events. I verify the accuracy of my
+detection method by comparing the inferred geophysical signal to
 observations of seismic tremor, which are known to coincide with slow
 slip events.
 
@@ -297,14 +296,14 @@ data recorded by these instruments is seldom used. This is perhaps
 because it is unclear whether BSM data, which describes strains over a
 8.7 centimeter baseline, are representative of regional tectonic
 strains. Instead, BSMs may be recording localized deformation that is
-not geophysically relevant. We address this question by comparing GNSS
+not geophysically relevant. I address this question by comparing GNSS
 derived strains, described in Chapter 6, to the strains recorded at
-BSMs. We find that only two BSMs record data that is consistent with
+BSMs. I find that only two BSMs record data that is consistent with
 the regional strains derived from GNSS data. A third station can be
-made consistent with the GNSS derived strains if we assume that it is
+made consistent with the GNSS derived strains if I assume that it is
 mis-oriented.
 
-Finally, in Chapter 8 we discuss future research directions and
+Finally, in Chapter 8 I discuss future research directions and
 provide concluding remarks.
 
 \section{Publications from this dissertation}
