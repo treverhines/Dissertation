@@ -482,7 +482,7 @@ upper mantle. The simplest rheologic model is to consider them to be
 effectively elastic and isotropic.  In such case, the rheologic
 parameters consist of the reasonably well known Lam\'e parameters,
 $\lambda$ and $\mu$, and we use the same values used by
-\citet{Wei2011} throughout this paper (Table 1).  The only unknown is
+\citet{Wei2011} throughout this paper (Table 4.1).  The only unknown is
 the distribution of fault slip, which can be estimated from
 postseismic deformation through linear least squares.
 \citet{Rollins2015} used a subset of the GPS stations considered in
@@ -707,7 +707,7 @@ $75^\circ$ to the north-east and its surface projection is outlined in
 magenta.  The highlighted area on the fault extends from 15 to 30 km
 depth and indicates where 1 meter of right-lateral slip was imposed.
 The elastic properties of the crust and mantle are the same as in
-Table 1, and $\eta_\mathrm{eff}$ is $10^{18}$ Pa s in the lower crust.
+Table 4.1, and $\eta_\mathrm{eff}$ is $10^{18}$ Pa s in the lower crust.
 Vertical displacements are interpolated between station locations.}
 \label{ch3:fig:LowerCrust} 
 \end{figure}
@@ -932,7 +932,7 @@ the fit to the far-field data (Figure \ref{ch3:fig:RecordSectionMain})
 where the Zener model does a significantly better job at explaining
 the transient rate of deformation throughout the five years considered
 in this study.  The rheologic parameters for our preferred Zener model
-are summarized in Table 1.
+are summarized in Table 4.1.
 
 \begin{figure}
 \includegraphics[scale=1.0]{ch3/figures/2016jb013114-f13}

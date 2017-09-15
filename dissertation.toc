@@ -1,12 +1,12 @@
 \contentsline {chapter}{ACKNOWLEDGEMENTS}{ii}
-\contentsline {chapter}{LIST OF FIGURES}{viii}
+\contentsline {chapter}{LIST OF FIGURES}{vi}
 \contentsline {chapter}{LIST OF TABLES}{ix}
 \contentsline {chapter}{ABSTRACT}{x}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
-\contentsline {section}{\numberline {1.1}Types of Transient Tectonic Deformation}{3}
+\contentsline {section}{\numberline {1.1}Types of transient tectonic deformation}{3}
 \contentsline {subsection}{\numberline {1.1.1}Postseismic deformation}{3}
 \contentsline {subsection}{\numberline {1.1.2}Interseismic deformation}{4}
-\contentsline {subsection}{\numberline {1.1.3}Slow Slip Events}{5}
+\contentsline {subsection}{\numberline {1.1.3}Slow slip events}{5}
 \contentsline {section}{\numberline {1.2}Outline}{6}
 \contentsline {section}{\numberline {1.3}Publications from this dissertation}{7}
 \contentsline {chapter}{\numberline {2}Bias in estimates of lithosphere viscosity from interseismic deformation}{9}

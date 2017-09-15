@@ -185,7 +185,7 @@ Trever T. Hines
 
 hinest@umich.edu
 
-ORCID iD: 9999-9999-9999-9999
+ORCID iD: 0000-0003-0182-8558
 \end{center}
 \newpage
 
@@ -202,9 +202,9 @@ ORCID iD: 9999-9999-9999-9999
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \tableofcontents
 \newpage
-\listoffigures\addcontentsline{toc}{chapter}{LIST OF FIGURES}
+\addcontentsline{toc}{chapter}{LIST OF FIGURES}\listoffigures
 \newpage
-\listoftables\addcontentsline{toc}{chapter}{LIST OF TABLES}
+\addcontentsline{toc}{chapter}{LIST OF TABLES}\listoftables
 \newpage
 %\listofappendices\addcontentsline{toc}{chapter}{LIST OF APPENDICES}
 %\newpage

@@ -131,7 +131,7 @@ tidal strains. As determined by \citet{Roeloffs2010}, the five BSM
 stations considered in this paper are too close to the Straight of
 Juan de Fuca to be accurately calibrated with tidal strains. Since
 in-situ calibration is not possible, we note that our choice for
-$\mathbf{K}$ is likely to be a significant source of error in BSM
+$\mathbf{K}$ is likely to be a significant source of error in the BSM
 data. Another potential source of error is the orientation for
 $\theta_0$. It is possible that magnetic minerals in the surrounding
 rock can give the compass used to orient the instrument an incorrect
@@ -188,7 +188,7 @@ micro-strain. The shaded region around the GNSS derived strains show
 the one standard deviation confidence interval. The dotted line for
 station B018 shows the BSM data using the optimal instrument
 orientation. The shown BSM data has been detrended by estimating and
-removing a second-order polynomial from each timeseries.}
+removing a second-order polynomial from each time series.}
 \label{ch6:fig:SSE1}
 \end{figure}
 
@@ -269,7 +269,7 @@ indicate times of strain drops from Figure \ref{ch6:fig:Gnss}.}
 \begin{figure}
 \includegraphics{ch6/figures/fit.pdf}
 \caption
-[GNSS and BSM strain dropts at station B018]
+[GNSS and BSM strain drops at station B018]
 {GNSS derived strain drops at station B018 during the 11
 events identified in Figure \ref{ch6:fig:Gnss} (blue dots), BSM strain
 drops using the recorded orientation for B018 (orange dots), and BSM

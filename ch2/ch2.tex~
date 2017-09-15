@@ -489,7 +489,7 @@ then iteratively solving
 \begin{equation}\label{ch2:eq:Gauss-Newton}
 \mathbf{J}(\mathbf{m}^{k})\mathbf{m}^{k+1} = 
 \mathbf{J}(\mathbf{m}^{k})\mathbf{m}^{k} -
-\mathbf{f}(\mathbf{m}^k) + 
+\mathbf{f}(\mathbf{m}^k)
 \end{equation}
 for $\mathbf{m}^{k+1}$, where $\mathbf{J}(\mathbf{m}^k)$ is the
 Jacobian of $\mathbf{f(m)}$ with respect to $\mathbf{m}$ evaluated at

@@ -2,9 +2,9 @@
 \contentsline {figure}{\numberline {1.1}{\ignorespaces Schematics of postseismic deformation mechanisms}}{4}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Schematic of the earthquake cycle model}}{12}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Velocites predicted by interseismic models, relaxation time profiles of interseismic models, and misfit between depth dependent and layered interseismic models}}{13}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Velocities predicted by interseismic models, relaxation time profiles of interseismic models, and misfit between depth dependent and layered interseismic models}}{13}
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Bias in inferred relaxation times}}{14}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Velocites and inferred relaxation times for a interseismic model with a shear zone}}{17}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Velocities and inferred relaxation times for an interseismic model with a shear zone}}{17}
 \contentsline {figure}{\numberline {2.5}{\ignorespaces Sensitivity of interseismic velocities to the lower crust and upper mantle relaxation time}}{20}
 \contentsline {figure}{\numberline {2.6}{\ignorespaces Bias in inferred relaxation times. All estimations are shown}}{21}
 \contentsline {figure}{\numberline {2.7}{\ignorespaces Bias in inferred relaxation times when either the lower crust or upper mantle is homogeneous}}{22}
@@ -15,7 +15,7 @@
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Synthetic and recovered fault slip}}{37}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Synthetic and recovered lithospheric viscosity}}{38}
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Map view of synthetic and predicted postseismic surface displacements}}{39}
-\contentsline {figure}{\numberline {3.6}{\ignorespaces time series of synthetic and predicted postseismic surface displacements}}{40}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Time series of synthetic and predicted postseismic surface displacements}}{40}
 \contentsline {figure}{\numberline {3.7}{\ignorespaces Error in the postseismic approximation}}{41}
 \contentsline {figure}{\numberline {3.8}{\ignorespaces Synthetic and recovered lithospheric viscosity with a Burgers rheology}}{44}
 \contentsline {figure}{\numberline {3.9}{\ignorespaces Synthetic and recoved slip moment}}{44}
@@ -47,7 +47,7 @@
 \contentsline {figure}{\numberline {6.3}{\ignorespaces Samples of FOGM noise}}{102}
 \contentsline {figure}{\numberline {6.4}{\ignorespaces Demonstration of outlier detection algorithm}}{104}
 \contentsline {figure}{\numberline {6.5}{\ignorespaces GNSS displacments and posterior displacements}}{106}
-\contentsline {figure}{\numberline {6.6}{\ignorespaces Map view of estimated transient strain rates during the Winter 2015-2016 SSE}}{108}
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Map view of estimated transient strain rates during the winter 2015-2016 SSE}}{108}
 \contentsline {figure}{\numberline {6.7}{\ignorespaces Time series of estimated transient strain rates}}{109}
 \contentsline {figure}{\numberline {6.8}{\ignorespaces Time series of signal-to-noise ratio}}{110}
 \addvspace {10\p@ }
@@ -55,7 +55,7 @@
 \contentsline {figure}{\numberline {7.2}{\ignorespaces BSM and GNSS derived strains for the summer 2010 SSE}}{117}
 \contentsline {figure}{\numberline {7.3}{\ignorespaces GNSS derived strains for station B018}}{119}
 \contentsline {figure}{\numberline {7.4}{\ignorespaces Gauge readings at station B018}}{120}
-\contentsline {figure}{\numberline {7.5}{\ignorespaces GNSS and BSM strain dropts at station B018}}{121}
+\contentsline {figure}{\numberline {7.5}{\ignorespaces GNSS and BSM strain drops at station B018}}{121}
 \contentsline {figure}{\numberline {7.6}{\ignorespaces Misfit as a function of instrument orientation for station B018}}{122}
 \contentsline {figure}{\numberline {7.7}{\ignorespaces BSM and GNSS derived strains for the spring 2009 SSE}}{123}
 \contentsline {figure}{\numberline {7.8}{\ignorespaces BSM and GNSS derived strains for the summer 2011 SSE}}{124}

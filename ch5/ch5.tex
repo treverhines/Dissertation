@@ -686,7 +686,7 @@ long because it is long enough to encompass a SSE in Cascadia, while
 it is short enough to still be computationally tractable. However,
 four months is too short to resolve the sinusoids in $\mathbf{d}$, and
 they are omitted from $\mathbf{d}$ in this REML analysis for Cascadia
-SSEs. The estimated hyperparameters for $u$ are summarized in Table 1.
+SSEs. The estimated hyperparameters for $u$ are summarized in Table 6.1.
 Based on the interquartile ranges, the estimated hyperparameters for
 the SE and Wendland covariance functions do not vary significantly
 between SSEs. This suggests that the median of estimated
@@ -738,7 +738,7 @@ IBM & north  & 150 $\pm$ 560 km & 110 $\pm$ 250 mm/yr$^{1.5}$ & -           & -1
 Next we identify which covariance function for $T$ best describes the
 SSEs. One approach is to compare the REML likelihoods for each
 covariance function, similar to the analysis in \citet{Langbein2004}.
-In Table 1, we summarize how the log REML likelihoods for the Wendland
+In Table 6.1, we summarize how the log REML likelihoods for the Wendland
 and IBM covariance functions compare to the SE covariance function.
 Based on the differences in log REML likelihoods, the data is
 substantially more likely to come from a Gaussian process with a SE or
@@ -782,7 +782,7 @@ and covariance
                               \end{array}\right].
 \end{equation}
 We compute $\hat{\mathbf{d}}$ using SE, Wendland, and IBM covariance
-functions for $T$ and the median hyperparameters from Table 1. Figure
+functions for $T$ and the median hyperparameters from Table 6.1. Figure
 \ref{ch5:fig:Fit} compares the easting component of $\mathbf{d}_*$ to
 $\hat{\mathbf{d}}$ for the winter 2015-2016 SSE at station P436, which
 is among the stations that record the strongest signal. The data
@@ -794,7 +794,7 @@ functions are nearly indistinguishable. Overall, the predicted
 displacements are not strongly sensitive to the choice of temporal
 covariance function. In our estimates of transient strain discussed in
 the next section, we ultimately settle on the Wendland covariance
-function for $T$ and use the median values from Table 1 for the
+function for $T$ and use the median values from Table 6.1 for the
 hyperparameters. We choose the Wendland covariance function over the
 SE covariance function because of its computational advantages.
 
@@ -842,9 +842,9 @@ to failure.
 \begin{figure}
 \includegraphics{ch5/figures/strain_map/strain-map.pdf}
 \caption
-[Map view of estimated transient strain rates during the Winter
+[Map view of estimated transient strain rates during the winter
 2015-2016 SSE]
-{Estimated transient strain rates during the Winter 2015-2016
+{Estimated transient strain rates during the winter 2015-2016
 SSE. Strain glyphs show the normal strain rate along each azimuth,
 where orange indicates compression and blue indicates extension. The
 shaded regions indicate one standard deviation uncertainties in the

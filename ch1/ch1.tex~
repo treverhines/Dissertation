@@ -206,7 +206,7 @@ during the time period about $.4T$--$.5T$ for most of the models.
 \begin{figure}
 \includegraphics{ch1/figures/Figure2.eps}
 \caption
-[Velocites predicted by interseismic models, relaxation time profiles
+[Velocities predicted by interseismic models, relaxation time profiles
 of interseismic models, and misfit between depth dependent and layered
 interseismic models]
 {A) Velocities for a depth-dependent model, $v_{DD}$, (black
@@ -366,7 +366,7 @@ velocities (Figure \ref{ch1:fig:4}A).
 \begin{figure}
 \includegraphics{ch1/figures/Figure4.eps}
 \caption
-[Velocites and inferred relaxation times for a interseismic model with
+[Velocities and inferred relaxation times for a interseismic model with
 a shear zone]
 {A) Interseismic velocities, $v_{SZ}$, in a model with both a lower
 crustal shear zone and depth-dependent $\tau$ in the surrounding
